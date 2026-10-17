@@ -1,0 +1,2 @@
+# Section 18. Prosecuting attorneys - Term of office - Qualifications.
+A prosecuting attorney shall be elected for each organized county in the state, by the qualified electors of such county, and shall hold office for the term of two years, and commencing with the general election in 1984 shall hold office for the term of four years, and shall perform such duties as may be prescribed by law; he shall be a practicing attorney at law, and a resident and elector of the county for which he is elected. He shall receive such compensation for services as may be fixed by law.

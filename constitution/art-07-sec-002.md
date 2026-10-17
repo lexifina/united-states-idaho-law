@@ -1,0 +1,2 @@
+# Section 2. Revenue to be provided by taxation.
+The legislature shall provide such revenue as may be needful, by levying a tax by valuation, so that every person or corporation shall pay a tax in proportion to the value of his, her, or its property, except as in this article hereinafter otherwise provided. The legislature may also impose a license tax, both upon natural persons and upon corporations, other than municipal, doing business in this state; also a per capita tax: provided, the legislature may exempt a limited amount of improvements upon land from taxation.

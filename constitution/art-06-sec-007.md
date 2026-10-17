@@ -1,0 +1,2 @@
+# Section 7. Nonpartisan selection of Supreme and district judges.
+The selection of justices of the Supreme Court and district judges shall be nonpartisan. The legislature shall provide for their nomination and election, but candidates for the offices of justice of the Supreme Court and district judge shall not be nominated nor endorsed by any political party and their names shall not appear on any political party ticket, nor be accompanied on the ballot by any political party designation.

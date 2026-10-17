@@ -1,0 +1,2 @@
+# Section 8. Terms of Supreme Court.
+At least four terms of the Supreme Court shall be held annually; two terms at the seat of state government, and two terms at the city of Lewiston, in Nez Perce county. In case of epidemic, pestilence, or destruction of court houses, the justices may hold the terms of the Supreme Court provided by this section at other convenient places, to be fixed by a majority of said justices. After six years the legislature may alter the provisions of this section.

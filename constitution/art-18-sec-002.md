@@ -1,0 +1,2 @@
+# Section 2. Removal of county seats.
+No county seat shall be removed unless upon petition of a majority of the qualified electors of the county, and unless two-thirds of the qualified electors of the county, voting on the proposition at a general election, shall vote in favor of such removal. A proposition of removal of the county seat shall not be submitted in the same county more than once in six years, except as provided by existing laws. No person shall vote at any county seat election who has not resided in the county six months, and in the precinct ninety days.

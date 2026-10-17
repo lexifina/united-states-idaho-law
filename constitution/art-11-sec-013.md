@@ -1,0 +1,2 @@
+# Section 13. Telegraph and telephone companies.
+Any association or corporation, or the lessees or managers thereof, organized for the purpose, or any individual, shall have the right to construct and maintain lines of telegraph or telephone within this state, and connect the same with other lines; and the legislature shall by general law of uniform operation provide reasonable regulations to give full effect to this section.

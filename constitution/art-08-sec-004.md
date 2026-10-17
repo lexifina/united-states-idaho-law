@@ -1,0 +1,2 @@
+# Section 4. County, etc., not to loan or give its credit.
+No county, city, town, township, board of education, or school district, or other subdivision, shall lend, or pledge the credit or faith thereof directly or indirectly, in any manner, to, or in aid of any individual, association or corporation, for any amount or for any purpose whatever, or become responsible for any debt, contract or liability of any individual, association or corporation in or out of this state.

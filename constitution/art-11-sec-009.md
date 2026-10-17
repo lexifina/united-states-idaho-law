@@ -1,0 +1,2 @@
+# Section 9. Increase in capital stock.
+No corporation shall issue stocks or bonds, except for labor done, services performed, or money or property actually received; and all fictitious increase of stock or indebtedness shall be void. The stock of corporations shall not be increased except in pursuance of general law, nor without the consent of the persons, holding a majority of the stock of the class to be increased, first obtained at a meeting, held pursuant to such notice as is provided by the legislature.

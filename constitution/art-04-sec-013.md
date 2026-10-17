@@ -1,0 +1,2 @@
+# Section 13. Lieutenant governor is president of senate.
+The lieutenant governor shall be president of the senate, but shall vote only when the senate is equally divided. In case of the absence or disqualification of the lieutenant governor from any cause which applies to the governor, or when he shall hold the office of governor, then the president pro tempore of the senate shall perform the duties of the lieutenant governor until the vacancy is filled or the disability removed.

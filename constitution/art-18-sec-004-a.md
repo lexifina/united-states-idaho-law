@@ -1,0 +1,2 @@
+# Section 4A. Consolidation of counties.
+Counties of the state of Idaho as they now exist, or may hereafter be created or exist, may be consolidated in such manner as shall be prescribed by law; provided, no county may be consolidated with another county, except upon approval of a two-thirds majority vote in each county, of the qualified electors thereof voting upon the question, and the limitations and provisions of sections 2, 3 and 4 of Article XVIII of the Constitution of the state of Idaho shall have no application to the question of consolidating counties.

@@ -1,0 +1,2 @@
+# Section 8. Corporate property must be taxed.
+The power to tax corporations or corporate property, both real and personal, shall never be relinquished or suspended, and all corporations in this state or doing business therein, shall be subject to taxation for state, county, school, municipal, and other purposes, on real and personal property owned or used by them, and not by this constitution exempted from taxation within the territorial limits of the authority levying the tax.

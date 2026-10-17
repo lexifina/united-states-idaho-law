@@ -1,0 +1,2 @@
+# Section 1. Laws to protect livestock.
+The legislature shall pass all necessary laws to provide for the protection of livestock against the introduction or spread of pleuro pneumonia, glanders, splenetic or Texas fever, and other infectious or contagious diseases. The legislature may also establish a system of quarantine or inspection and such other regulations as may be necessary for the protection of stock owners and most conducive to the stock interests within this state.

@@ -1,0 +1,2 @@
+# Section 2. Special charters prohibited.
+No charter of incorporation shall be granted, extended, changed or amended by special law, except for such municipal, charitable, educational, penal, or reformatory corporations as are or may be, under the control of the state; but the legislature shall provide by general law for the organization of corporations hereafter to be created: provided, that any such general law shall be subject to future repeal or alteration by the legislature.

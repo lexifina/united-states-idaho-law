@@ -1,0 +1,2 @@
+# Section 12. Qualifications of officers.
+All officers elected at such election shall, within thirty days after they have been declared elected, take the oath required by this Constitution and give the same bond required by the law of the territory to be given in case of like officers of the territory, district or county, and shall thereupon enter upon the duties of their respective offices; but the legislature may require by law all such officers to give other or further bonds as a condition of their continuance in office.

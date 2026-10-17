@@ -1,0 +1,2 @@
+# Section 1. Departments of government.
+The powers of the government of this state are divided into three distinct departments, the legislative, executive and judicial; and no person or collection of persons charged with the exercise of powers properly belonging to one of these departments shall exercise any powers properly belonging to either of the others, except as in this constitution expressly directed or permitted.

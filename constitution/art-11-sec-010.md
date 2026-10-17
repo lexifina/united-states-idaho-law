@@ -1,0 +1,2 @@
+# Section 10. Regulation of foreign corporations.
+No foreign corporation shall do any business in this state without having one or more known places of business, and an authorized agent or agents in the same, upon whom process may be served; and no company or corporation formed under the laws of any other country, state, or territory, shall have or be allowed to exercise or enjoy, within this state any greater rights or privileges than those possessed or enjoyed by corporations of the same or similar character created under the laws of this state.

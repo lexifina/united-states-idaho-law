@@ -1,0 +1,2 @@
+# Section 1. General laws for cities and towns.
+The legislature shall provide by general laws for the incorporation, organization and classification of the cities and towns, in proportion to the population, which laws may be altered, amended, or repealed by the general laws. Cities and towns heretofore incorporated, may become organized under such general laws, whenever a majority of the electors at a general election, shall so determine, under such provisions therefor as may be made by the legislature.

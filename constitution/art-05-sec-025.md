@@ -1,0 +1,2 @@
+# Section 25. Defects in law to be reported by judges.
+The judges of the district courts shall, on or before the first day of July in each year, report in writing to the justices of the Supreme Court, such defects or omissions in the laws as their knowledge and experience may suggest, and the justices of the Supreme Court shall, on or before the first day of December of each year, report in writing to the governor, to be by him transmitted to the legislature, together with his message, such defects and omissions in the Constitution and laws as they may find to exist.

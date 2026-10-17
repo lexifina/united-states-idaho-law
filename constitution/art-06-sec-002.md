@@ -1,0 +1,2 @@
+# Section 2. Qualifications of electors.
+Every male or female citizen of the United States, eighteen years old, who has resided in this state, and in the county where he or she offers to vote for the period provided by law, if registered as provided by law, is a qualified elector. No person who is not a citizen of the United States shall be a qualified elector in any election held within the state of Idaho.

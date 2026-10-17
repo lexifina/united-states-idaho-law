@@ -1,0 +1,2 @@
+# Section 9. Extra sessions of legislature.
+The governor may, on extraordinary occasions, convene the legislature by proclamation, stating the purposes for which he has convened it; but when so convened it shall have no power to legislate on any subjects other than those specified in the proclamation; but may provide for the expenses of the session and other matters incidental thereto. He may also, by proclamation, convene the senate in extraordinary session for the transaction of executive business.

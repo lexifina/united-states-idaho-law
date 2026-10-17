@@ -1,0 +1,2 @@
+# Section 8. Right of eminent domain and police power reserved.
+The right of eminent domain shall never be abridged, nor so construed as to prevent the legislature from taking the property and franchises of incorporated companies, and subjecting them to public use, the same as the property of individuals; and the police powers of the state shall never be abridged or so construed as to permit corporations to conduct their business in such manner as to infringe the equal rights of individuals, or the general well being of the state.

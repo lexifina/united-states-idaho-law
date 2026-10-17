@@ -1,0 +1,2 @@
+# Section 12. Lieutenant governor to act as governor.
+In case of the failure to qualify, the impeachment, or conviction of treason, felony, or other infamous crime of the governor, or his death, removal from office, resignation, absence from the state, or inability to discharge the powers and duties of his office, the powers, duties and emoluments of the office for the residue of the term, or until the disability shall cease, shall devolve upon the lieutenant governor.

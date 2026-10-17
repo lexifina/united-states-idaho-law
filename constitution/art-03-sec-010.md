@@ -1,0 +1,2 @@
+# Section 10. Quorum, adjournments and organization.
+A majority of each house shall constitute a quorum to do business; but a smaller number may adjourn from day to day, and may compel the attendance of absent members in such manner and under such penalties as such house may provide. A quorum being in attendance, if either house fail to effect an organization within the first four days thereafter, the members of the house so failing shall be entitled to no compensation from the end of the said four days until an organization shall have been effected.

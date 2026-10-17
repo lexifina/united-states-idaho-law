@@ -1,0 +1,2 @@
+# Section 4. New counties - Size and valuation.
+No new counties shall be established which shall reduce any county to an area of less than four hundred square miles, nor the valuation of its taxable property to less than one million dollars; nor shall any new county be formed which shall have an area of less than four hundred square miles, and taxable property of less than one million dollars, as shown by the last previous assessment.

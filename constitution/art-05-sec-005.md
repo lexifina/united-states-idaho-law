@@ -1,0 +1,2 @@
+# Section 5. Treason defined and limited.
+Treason against the state shall consist only in levying war against it, or adhering to its enemies, giving them aid and comfort. No person shall be convicted of treason unless on the testimony of two witnesses to the same overt act, or on confession in open court. No conviction of treason or attainder shall work corruption of blood or forfeiture of estate.

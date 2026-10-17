@@ -1,0 +1,3 @@
+# Section 1. Forms of action abolished.
+The distinctions between actions at law and suits in equity, and the forms of all such actions and suits, are hereby prohibited; and there shall be in this state but one form of action for the enforcement or protection of private rights or the redress of private wrongs, which shall be denominated a civil action; and every action prosecuted by the people of the state as a party, against a person charged with a public offense, for the punishment of the same, shall be termed a criminal action.
+Feigned issues are prohibited, and the fact at issue shall be tried by order of court before a jury.

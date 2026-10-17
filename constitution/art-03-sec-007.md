@@ -1,0 +1,2 @@
+# Section 7. Privilege from arrest.
+Senators and representatives in all cases, except for treason, felony, or breach of the peace, shall be privileged from arrest during the session of the legislature, and in going to and returning from the same, and shall not be liable to any civil process during the session of the legislature, nor during the ten days next before the commencement thereof; nor shall a member, for words uttered in debate in either house, be questioned in any other place.

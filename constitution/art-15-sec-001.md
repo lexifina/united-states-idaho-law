@@ -1,0 +1,2 @@
+# Section 1. Use of waters a public use.
+The use of all waters now appropriated, or that may hereafter be appropriated for sale, rental or distribution; also of all water originally appropriated for private use, but which after such appropriation has heretofore been, or may hereafter be sold, rented, or distributed, is hereby declared to be a public use, and subject to the regulations and control of the state in the manner prescribed by law.

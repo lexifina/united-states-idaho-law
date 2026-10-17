@@ -1,0 +1,2 @@
+# Section 9. Maximum rate of taxation.
+The rate of taxation of real and personal property for state purposes shall never exceed ten mills on each dollar of assessed valuation, unless a proposition to increase such rate, specifying the rate proposed and the time during which the same shall be levied, shall have been submitted to the people at a general election, and shall have received a majority of all the votes cast for and against it at such election.

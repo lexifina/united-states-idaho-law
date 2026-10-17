@@ -1,0 +1,2 @@
+# Section 9. County officers - Liability for fees.
+The neglect or refusal of any county officer or deputy to account for and pay into the county treasury any money received as fees or compensation, in excess of his actual and necessary expenses, incurred in the performance of his official duties, within ten days after his quarterly settlement with the county shall be a felony, and the grade of the crime shall be embezzlement of public funds, and be punishable as provided for such offenses.

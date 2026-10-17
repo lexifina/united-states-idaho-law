@@ -1,0 +1,2 @@
+# Section 23. Qualifications of district judges.
+No person shall be eligible to the office of district judge unless he be learned in the law, thirty years of age, and a citizen of the United States, and shall have resided in the state or territory at least two years next preceding his election, nor unless he shall have been at the time of his election, an elector in the judicial district for which he is elected.

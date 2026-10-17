@@ -1,0 +1,2 @@
+# Section 5. Residence for voting purposes not lost or gained.
+For the purpose of voting, no person shall be deemed to have gained or lost a residence by reason of his presence or absence while employed in the service of this state, or of the United States, nor while engaged in the navigation of the waters of this state or of the United States, nor while a student of any institution of learning, nor while kept at any alms house or other asylum at the public expense.
