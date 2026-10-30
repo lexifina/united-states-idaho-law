@@ -16,7 +16,7 @@ That is all the law this repository holds today. This is a first build: most of 
 
 ## Where the text comes from
 
-The Idaho Legislature publishes the Constitution at legislature.idaho.gov/statutesrules/idconst/, one page per article (a list of its sections) and one page per section. Each article page names its sections; each section was read from its newest capture among the 70 newest crawls. The sha256 of the pages is in `data/versions.json`.
+The Idaho Legislature publishes the Constitution at legislature.idaho.gov/statutesrules/idconst/, one page per article (a list of its sections) and one page per section. Each article page names its sections; each section is its newest capture. The sha256 of the pages is in `data/versions.json`.
 
 The Idaho Statutes are published the same way, one page per chapter (a list of its sections) and one page per section. Chapters that could not be read whole are left out; `REPRODUCE.md` lists them under decisions. Each section keeps its "History:" line, which is part of the Legislature's text.
 

@@ -185,7 +185,7 @@ No second build of this corpus has been compared yet.
 ## Decisions made by hand
 
 - Only the Constitution is in this first build. The Idaho Statutes were not taken.
-- For each article, the article page lists its sections; each section page was read from its newest capture among the 20 newest crawls, so captures of different sections come from different days (2021-10-16 to 2026-10-17). The site says the Constitution is updated once a year, on 1 July. The latest capture date is used as the date of the single version (oldest version available).
+- For each article, the article page lists its sections; each section page is its newest capture, so captures of different sections come from different days (2021-10-16 to 2026-10-17). The site says the Constitution is updated once a year, on 1 July. The latest capture date is used as the date of the single version (oldest version available).
 - Each unit is one section, with the article number in its key; the heading, which the site prints in capitals, is written in sentence case. Article titles are not units.
 - Typographic quotes and dashes were made plain, non-breaking spaces were made ordinary spaces and runs of spaces were collapsed.
 - 24 of the pages come from captures before 2025 (2021 to November 2024), because no later crawl held them; they are mostly the schedule and ordinance sections of Article XXI. If one of those sections was changed on the site after its capture, the change is not here.
