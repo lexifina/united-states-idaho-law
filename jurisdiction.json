@@ -1,0 +1,9 @@
+{
+  "path": "us-id",
+  "code": "ID",
+  "name": "Idaho",
+  "level": "state",
+  "repo": "https://github.com/lexifina/united-states-idaho-law",
+  "build": "built: Constitution of the State of Idaho, Articles I to XXI, 228 of 234 sections (one version, from Common Crawl captures of the Legislature's pages); plus Idaho Statutes Title 5 (4 chapters), Title 18 (80 chapters), Title 32 (15 chapters), Title 55 (29 chapters) (one version each, from web captures)",
+  "register_date": "2026-10-30"
+}

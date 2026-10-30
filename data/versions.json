@@ -1,0 +1,1811 @@
+{
+ "country": "ID",
+ "acts": [
+  {
+   "slug": "constitution",
+   "short": "Idaho Const.",
+   "title": "Constitution of the State of Idaho",
+   "url": "https://legislature.idaho.gov/statutesrules/idconst/",
+   "versions": [
+    {
+     "from": "2026-10-17",
+     "units": 228,
+     "source_url": "https://legislature.idaho.gov/statutesrules/idconst/",
+     "sha256": "c10671dc26431c89cf3b2581d9895b062f1a7f63697ddf65922d9cb78b4e684c"
+    }
+   ]
+  },
+  {
+   "slug": "title-0018-chapter-0001",
+   "short": "Idaho Code tit. 18, ch. 1",
+   "title": "Idaho Statutes, Title 18 (Crimes and punishments), Chapter 1: Preliminary provisions",
+   "url": "https://legislature.idaho.gov/statutesrules/idstat/Title18/T18CH1/",
+   "versions": [
+    {
+     "from": "2026-10-22",
+     "units": 23,
+     "source_url": "https://legislature.idaho.gov/statutesrules/idstat/Title18/T18CH1/",
+     "sha256": "5f55e7a13e1e85a54940416b37c404986e5cf9989cdae4776d2ee564e86f8b9a"
+    }
+   ]
+  },
+  {
+   "slug": "title-0018-chapter-0002",
+   "short": "Idaho Code tit. 18, ch. 2",
+   "title": "Idaho Statutes, Title 18 (Crimes and punishments), Chapter 2: Persons liable, principals and accessories",
+   "url": "https://legislature.idaho.gov/statutesrules/idstat/Title18/T18CH2/",
+   "versions": [
+    {
+     "from": "2026-10-22",
+     "units": 12,
+     "source_url": "https://legislature.idaho.gov/statutesrules/idstat/Title18/T18CH2/",
+     "sha256": "25f6be7d10922b8b8b2bae6c78fd3f1124a35e5b7ba6418e8944ab392d3a118b"
+    }
+   ]
+  },
+  {
+   "slug": "title-0018-chapter-0003",
+   "short": "Idaho Code tit. 18, ch. 3",
+   "title": "Idaho Statutes, Title 18 (Crimes and punishments), Chapter 3: Nature and extent of punishment in general",
+   "url": "https://legislature.idaho.gov/statutesrules/idstat/Title18/T18CH3/",
+   "versions": [
+    {
+     "from": "2026-10-22",
+     "units": 14,
+     "source_url": "https://legislature.idaho.gov/statutesrules/idstat/Title18/T18CH3/",
+     "sha256": "1d1f6121983fd83d50d01327f582799e670743050afb7c98dc03cd3f070f74d0"
+    }
+   ]
+  },
+  {
+   "slug": "title-0018-chapter-0004",
+   "short": "Idaho Code tit. 18, ch. 4",
+   "title": "Idaho Statutes, Title 18 (Crimes and punishments), Chapter 4: Abandonment or nonsupport of wife or children",
+   "url": "https://legislature.idaho.gov/statutesrules/idstat/Title18/T18CH4/",
+   "versions": [
+    {
+     "from": "2026-10-22",
+     "units": 5,
+     "source_url": "https://legislature.idaho.gov/statutesrules/idstat/Title18/T18CH4/",
+     "sha256": "9ca4a9fed8c749953273ca6d28e6ed8ff87e5ba7126eaa73d556a620d7bee904"
+    }
+   ]
+  },
+  {
+   "slug": "title-0018-chapter-0005",
+   "short": "Idaho Code tit. 18, ch. 5",
+   "title": "Idaho Statutes, Title 18 (Crimes and punishments), Chapter 5: Pain-capable unborn child protection act",
+   "url": "https://legislature.idaho.gov/statutesrules/idstat/Title18/T18CH5/",
+   "versions": [
+    {
+     "from": "2026-10-22",
+     "units": 10,
+     "source_url": "https://legislature.idaho.gov/statutesrules/idstat/Title18/T18CH5/",
+     "sha256": "6373d3ef83df5bb0ae1e7e4854c4c02a50ac2e45ab29c2d0670f3ab4e30799ad"
+    }
+   ]
+  },
+  {
+   "slug": "title-0018-chapter-0006",
+   "short": "Idaho Code tit. 18, ch. 6",
+   "title": "Idaho Statutes, Title 18 (Crimes and punishments), Chapter 6: Abortion and contraceptives",
+   "url": "https://legislature.idaho.gov/statutesrules/idstat/Title18/T18CH6/",
+   "versions": [
+    {
+     "from": "2026-10-22",
+     "units": 27,
+     "source_url": "https://legislature.idaho.gov/statutesrules/idstat/Title18/T18CH6/",
+     "sha256": "9fb7cb8138a356703b427cbefc4fd7fd8f852d0fe68af21d4e2ed3fc818a67d8"
+    }
+   ]
+  },
+  {
+   "slug": "title-0018-chapter-0007",
+   "short": "Idaho Code tit. 18, ch. 7",
+   "title": "Idaho Statutes, Title 18 (Crimes and punishments), Chapter 7: Arrests and seizures of persons or property - special officers",
+   "url": "https://legislature.idaho.gov/statutesrules/idstat/Title18/T18CH7/",
+   "versions": [
+    {
+     "from": "2026-10-22",
+     "units": 9,
+     "source_url": "https://legislature.idaho.gov/statutesrules/idstat/Title18/T18CH7/",
+     "sha256": "988bdc2f04f8e28f9590af2bab80997677652709e65ea9d898b16eda82642391"
+    }
+   ]
+  },
+  {
+   "slug": "title-0018-chapter-0008",
+   "short": "Idaho Code tit. 18, ch. 8",
+   "title": "Idaho Statutes, Title 18 (Crimes and punishments), Chapter 8: Arson",
+   "url": "https://legislature.idaho.gov/statutesrules/idstat/Title18/T18CH8/",
+   "versions": [
+    {
+     "from": "2026-10-22",
+     "units": 5,
+     "source_url": "https://legislature.idaho.gov/statutesrules/idstat/Title18/T18CH8/",
+     "sha256": "fdf496eead54635bb447efde9e2bd3fc9ac7a9928473dc1f82b653e922aeda19"
+    }
+   ]
+  },
+  {
+   "slug": "title-0018-chapter-0009",
+   "short": "Idaho Code tit. 18, ch. 9",
+   "title": "Idaho Statutes, Title 18 (Crimes and punishments), Chapter 9: Assault and battery",
+   "url": "https://legislature.idaho.gov/statutesrules/idstat/Title18/T18CH9/",
+   "versions": [
+    {
+     "from": "2026-10-22",
+     "units": 29,
+     "source_url": "https://legislature.idaho.gov/statutesrules/idstat/Title18/T18CH9/",
+     "sha256": "47cefdb8c829914ee86777a3bbfa22eac6b16aa3e1c1ba52416e012067a8bbc3"
+    }
+   ]
+  },
+  {
+   "slug": "title-0018-chapter-0010",
+   "short": "Idaho Code tit. 18, ch. 10",
+   "title": "Idaho Statutes, Title 18 (Crimes and punishments), Chapter 10: Barratry and attorneys at law",
+   "url": "https://legislature.idaho.gov/statutesrules/idstat/Title18/T18CH10/",
+   "versions": [
+    {
+     "from": "2026-10-22",
+     "units": 5,
+     "source_url": "https://legislature.idaho.gov/statutesrules/idstat/Title18/T18CH10/",
+     "sha256": "e0deaa608ec83fdea0004ff009285ed9c300a4c4fd3ed1c599bc06adc6874236"
+    }
+   ]
+  },
+  {
+   "slug": "title-0018-chapter-0011",
+   "short": "Idaho Code tit. 18, ch. 11",
+   "title": "Idaho Statutes, Title 18 (Crimes and punishments), Chapter 11: Bigamy and polygamy",
+   "url": "https://legislature.idaho.gov/statutesrules/idstat/Title18/T18CH11/",
+   "versions": [
+    {
+     "from": "2026-10-22",
+     "units": 4,
+     "source_url": "https://legislature.idaho.gov/statutesrules/idstat/Title18/T18CH11/",
+     "sha256": "48f9313d8e192cda7217daa0c268bac3908e78403099e6badf3153320d024d67"
+    }
+   ]
+  },
+  {
+   "slug": "title-0018-chapter-0013",
+   "short": "Idaho Code tit. 18, ch. 13",
+   "title": "Idaho Statutes, Title 18 (Crimes and punishments), Chapter 13: Bribery and corruption",
+   "url": "https://legislature.idaho.gov/statutesrules/idstat/Title18/T18CH13/",
+   "versions": [
+    {
+     "from": "2026-10-22",
+     "units": 22,
+     "source_url": "https://legislature.idaho.gov/statutesrules/idstat/Title18/T18CH13/",
+     "sha256": "007b2d50ed3b94d6fc1e4cc8b707815f0bdcf854216395daeb12b1a900d26cbc"
+    }
+   ]
+  },
+  {
+   "slug": "title-0018-chapter-0014",
+   "short": "Idaho Code tit. 18, ch. 14",
+   "title": "Idaho Statutes, Title 18 (Crimes and punishments), Chapter 14: Burglary",
+   "url": "https://legislature.idaho.gov/statutesrules/idstat/Title18/T18CH14/",
+   "versions": [
+    {
+     "from": "2026-10-22",
+     "units": 5,
+     "source_url": "https://legislature.idaho.gov/statutesrules/idstat/Title18/T18CH14/",
+     "sha256": "b081a4aba499af5ee2e467e8a69d936b8985403b8fe532363dbe1beecb41ee58"
+    }
+   ]
+  },
+  {
+   "slug": "title-0018-chapter-0015",
+   "short": "Idaho Code tit. 18, ch. 15",
+   "title": "Idaho Statutes, Title 18 (Crimes and punishments), Chapter 15: Children and vulnerable adults",
+   "url": "https://legislature.idaho.gov/statutesrules/idstat/Title18/T18CH15/",
+   "versions": [
+    {
+     "from": "2026-10-22",
+     "units": 39,
+     "source_url": "https://legislature.idaho.gov/statutesrules/idstat/Title18/T18CH15/",
+     "sha256": "13ed8f4da320e6cf6a8077b5541593948dfd73e0cccc564a5fc8f1229614ae01"
+    }
+   ]
+  },
+  {
+   "slug": "title-0018-chapter-0016",
+   "short": "Idaho Code tit. 18, ch. 16",
+   "title": "Idaho Statutes, Title 18 (Crimes and punishments), Chapter 16: Compounding crimes",
+   "url": "https://legislature.idaho.gov/statutesrules/idstat/Title18/T18CH16/",
+   "versions": [
+    {
+     "from": "2026-10-22",
+     "units": 1,
+     "source_url": "https://legislature.idaho.gov/statutesrules/idstat/Title18/T18CH16/",
+     "sha256": "fa74071f28b6e37170ae858fd5451d53bcbc588d85860a208ab90d328e6da323"
+    }
+   ]
+  },
+  {
+   "slug": "title-0018-chapter-0017",
+   "short": "Idaho Code tit. 18, ch. 17",
+   "title": "Idaho Statutes, Title 18 (Crimes and punishments), Chapter 17: Conspiracies",
+   "url": "https://legislature.idaho.gov/statutesrules/idstat/Title18/T18CH17/",
+   "versions": [
+    {
+     "from": "2026-10-22",
+     "units": 2,
+     "source_url": "https://legislature.idaho.gov/statutesrules/idstat/Title18/T18CH17/",
+     "sha256": "204165909490a89fcd18e98f7d724aa85707848bd0dcacf67fd680928b0d714f"
+    }
+   ]
+  },
+  {
+   "slug": "title-0018-chapter-0018",
+   "short": "Idaho Code tit. 18, ch. 18",
+   "title": "Idaho Statutes, Title 18 (Crimes and punishments), Chapter 18: Contempts",
+   "url": "https://legislature.idaho.gov/statutesrules/idstat/Title18/T18CH18/",
+   "versions": [
+    {
+     "from": "2026-10-22",
+     "units": 1,
+     "source_url": "https://legislature.idaho.gov/statutesrules/idstat/Title18/T18CH18/",
+     "sha256": "e4fac69bbb9dafd16dc99f3c1f0cb007ee28935bd7b815879399c607d6ee2ef9"
+    }
+   ]
+  },
+  {
+   "slug": "title-0018-chapter-0019",
+   "short": "Idaho Code tit. 18, ch. 19",
+   "title": "Idaho Statutes, Title 18 (Crimes and punishments), Chapter 19: Corporations",
+   "url": "https://legislature.idaho.gov/statutesrules/idstat/Title18/T18CH19/",
+   "versions": [
+    {
+     "from": "2026-10-22",
+     "units": 12,
+     "source_url": "https://legislature.idaho.gov/statutesrules/idstat/Title18/T18CH19/",
+     "sha256": "d03396cbd9cbb639a72e61f9d851074a52247a6b0c2a9b100784bcf8fe4214a9"
+    }
+   ]
+  },
+  {
+   "slug": "title-0018-chapter-0020",
+   "short": "Idaho Code tit. 18, ch. 20",
+   "title": "Idaho Statutes, Title 18 (Crimes and punishments), Chapter 20: Criminal solicitation",
+   "url": "https://legislature.idaho.gov/statutesrules/idstat/Title18/T18CH20/",
+   "versions": [
+    {
+     "from": "2026-10-22",
+     "units": 5,
+     "source_url": "https://legislature.idaho.gov/statutesrules/idstat/Title18/T18CH20/",
+     "sha256": "1dc89d33c7de5eaef43ff20fc7f932889e2157e6692db97254871be67c706577"
+    }
+   ]
+  },
+  {
+   "slug": "title-0018-chapter-0022",
+   "short": "Idaho Code tit. 18, ch. 22",
+   "title": "Idaho Statutes, Title 18 (Crimes and punishments), Chapter 22: Computer crime",
+   "url": "https://legislature.idaho.gov/statutesrules/idstat/Title18/T18CH22/",
+   "versions": [
+    {
+     "from": "2026-10-22",
+     "units": 2,
+     "source_url": "https://legislature.idaho.gov/statutesrules/idstat/Title18/T18CH22/",
+     "sha256": "6e4357f738b163c9c2e800fb11dab37bd85d520f49c9c48d349d74312e963e82"
+    }
+   ]
+  },
+  {
+   "slug": "title-0018-chapter-0023",
+   "short": "Idaho Code tit. 18, ch. 23",
+   "title": "Idaho Statutes, Title 18 (Crimes and punishments), Chapter 23: Elections",
+   "url": "https://legislature.idaho.gov/statutesrules/idstat/Title18/T18CH23/",
+   "versions": [
+    {
+     "from": "2026-10-22",
+     "units": 26,
+     "source_url": "https://legislature.idaho.gov/statutesrules/idstat/Title18/T18CH23/",
+     "sha256": "46d953e97a0cbc771a6700cbe8d0daeea6aa62c834e0a629c8df11a3b1af7e7a"
+    }
+   ]
+  },
+  {
+   "slug": "title-0018-chapter-0024",
+   "short": "Idaho Code tit. 18, ch. 24",
+   "title": "Idaho Statutes, Title 18 (Crimes and punishments), Chapter 24: Theft",
+   "url": "https://legislature.idaho.gov/statutesrules/idstat/Title18/T18CH24/",
+   "versions": [
+    {
+     "from": "2026-10-22",
+     "units": 18,
+     "source_url": "https://legislature.idaho.gov/statutesrules/idstat/Title18/T18CH24/",
+     "sha256": "bc056954aa3944a791ff077e4f893db02e84937e7f39ebfc58618ad09b48c752"
+    }
+   ]
+  },
+  {
+   "slug": "title-0018-chapter-0025",
+   "short": "Idaho Code tit. 18, ch. 25",
+   "title": "Idaho Statutes, Title 18 (Crimes and punishments), Chapter 25: Escape or rescue of prisoners",
+   "url": "https://legislature.idaho.gov/statutesrules/idstat/Title18/T18CH25/",
+   "versions": [
+    {
+     "from": "2026-10-22",
+     "units": 8,
+     "source_url": "https://legislature.idaho.gov/statutesrules/idstat/Title18/T18CH25/",
+     "sha256": "b8e7d4f4c5d3783a2bc87f185b9e5adb106898f30b0ee758fb3d244e0fe1f7e5"
+    }
+   ]
+  },
+  {
+   "slug": "title-0018-chapter-0026",
+   "short": "Idaho Code tit. 18, ch. 26",
+   "title": "Idaho Statutes, Title 18 (Crimes and punishments), Chapter 26: Evidence falsified or concealed and witnesses intimidated or bribed",
+   "url": "https://legislature.idaho.gov/statutesrules/idstat/Title18/T18CH26/",
+   "versions": [
+    {
+     "from": "2026-10-22",
+     "units": 6,
+     "source_url": "https://legislature.idaho.gov/statutesrules/idstat/Title18/T18CH26/",
+     "sha256": "481d545b8141c3c1ea06a8d9dc4109022ec8a4470cc98751bbb3e3b01d63fd90"
+    }
+   ]
+  },
+  {
+   "slug": "title-0018-chapter-0027",
+   "short": "Idaho Code tit. 18, ch. 27",
+   "title": "Idaho Statutes, Title 18 (Crimes and punishments), Chapter 27: Executive power",
+   "url": "https://legislature.idaho.gov/statutesrules/idstat/Title18/T18CH27/",
+   "versions": [
+    {
+     "from": "2026-10-22",
+     "units": 11,
+     "source_url": "https://legislature.idaho.gov/statutesrules/idstat/Title18/T18CH27/",
+     "sha256": "25525e856645e1ec8c6050dc37e02a79d30bb64698d5291410c197f7263ad00c"
+    }
+   ]
+  },
+  {
+   "slug": "title-0018-chapter-0029",
+   "short": "Idaho Code tit. 18, ch. 29",
+   "title": "Idaho Statutes, Title 18 (Crimes and punishments), Chapter 29: False imprisonment",
+   "url": "https://legislature.idaho.gov/statutesrules/idstat/Title18/T18CH29/",
+   "versions": [
+    {
+     "from": "2026-10-22",
+     "units": 2,
+     "source_url": "https://legislature.idaho.gov/statutesrules/idstat/Title18/T18CH29/",
+     "sha256": "ff15f8df8e6853a46b9e5fcdb5c1a39385f820f341a20bb8e026fe118662570f"
+    }
+   ]
+  },
+  {
+   "slug": "title-0018-chapter-0030",
+   "short": "Idaho Code tit. 18, ch. 30",
+   "title": "Idaho Statutes, Title 18 (Crimes and punishments), Chapter 30: False personation - fraudulent marriages",
+   "url": "https://legislature.idaho.gov/statutesrules/idstat/Title18/T18CH30/",
+   "versions": [
+    {
+     "from": "2026-10-22",
+     "units": 5,
+     "source_url": "https://legislature.idaho.gov/statutesrules/idstat/Title18/T18CH30/",
+     "sha256": "4421320b5596bccb39ec0b04a57fb0cc0eadf9628b3ff1e650ebe775a8d01678"
+    }
+   ]
+  },
+  {
+   "slug": "title-0018-chapter-0031",
+   "short": "Idaho Code tit. 18, ch. 31",
+   "title": "Idaho Statutes, Title 18 (Crimes and punishments), Chapter 31: False pretenses, cheats and misrepresentations",
+   "url": "https://legislature.idaho.gov/statutesrules/idstat/Title18/T18CH31/",
+   "versions": [
+    {
+     "from": "2026-10-22",
+     "units": 12,
+     "source_url": "https://legislature.idaho.gov/statutesrules/idstat/Title18/T18CH31/",
+     "sha256": "388a55d7deb5d951f6b335d19e8e2fd36e5cf04128afb5e197ba40774ee068d6"
+    }
+   ]
+  },
+  {
+   "slug": "title-0018-chapter-0032",
+   "short": "Idaho Code tit. 18, ch. 32",
+   "title": "Idaho Statutes, Title 18 (Crimes and punishments), Chapter 32: Falsifying, mutilating or concealing public records or written instruments",
+   "url": "https://legislature.idaho.gov/statutesrules/idstat/Title18/T18CH32/",
+   "versions": [
+    {
+     "from": "2026-10-22",
+     "units": 6,
+     "source_url": "https://legislature.idaho.gov/statutesrules/idstat/Title18/T18CH32/",
+     "sha256": "26972e3b3730442bfd05254f88a11ca695bcf596308bc0c5e6ec683d9e5ea12f"
+    }
+   ]
+  },
+  {
+   "slug": "title-0018-chapter-0033",
+   "short": "Idaho Code tit. 18, ch. 33",
+   "title": "Idaho Statutes, Title 18 (Crimes and punishments), Chapter 33: Firearms, explosives and other deadly weapons",
+   "url": "https://legislature.idaho.gov/statutesrules/idstat/Title18/T18CH33/",
+   "versions": [
+    {
+     "from": "2026-10-22",
+     "units": 44,
+     "source_url": "https://legislature.idaho.gov/statutesrules/idstat/Title18/T18CH33/",
+     "sha256": "41ff13fd5681218db7998b6bf3a6c96e70e43d6b537a36e7e458349a11c23856"
+    }
+   ]
+  },
+  {
+   "slug": "title-0018-chapter-0034",
+   "short": "Idaho Code tit. 18, ch. 34",
+   "title": "Idaho Statutes, Title 18 (Crimes and punishments), Chapter 34: Flags and emblems",
+   "url": "https://legislature.idaho.gov/statutesrules/idstat/Title18/T18CH34/",
+   "versions": [
+    {
+     "from": "2026-10-22",
+     "units": 1,
+     "source_url": "https://legislature.idaho.gov/statutesrules/idstat/Title18/T18CH34/",
+     "sha256": "443418b91736743c2832aef073f368cb2a2c1791e57e37598eface6ec074e5e0"
+    }
+   ]
+  },
+  {
+   "slug": "title-0018-chapter-0035",
+   "short": "Idaho Code tit. 18, ch. 35",
+   "title": "Idaho Statutes, Title 18 (Crimes and punishments), Chapter 35: Forcible entry and detainer",
+   "url": "https://legislature.idaho.gov/statutesrules/idstat/Title18/T18CH35/",
+   "versions": [
+    {
+     "from": "2026-10-22",
+     "units": 1,
+     "source_url": "https://legislature.idaho.gov/statutesrules/idstat/Title18/T18CH35/",
+     "sha256": "899b1c16ba3bcc566cafade929f47fde37e1907cd2a1994447248002a7751142"
+    }
+   ]
+  },
+  {
+   "slug": "title-0018-chapter-0036",
+   "short": "Idaho Code tit. 18, ch. 36",
+   "title": "Idaho Statutes, Title 18 (Crimes and punishments), Chapter 36: Forgery and counterfeiting",
+   "url": "https://legislature.idaho.gov/statutesrules/idstat/Title18/T18CH36/",
+   "versions": [
+    {
+     "from": "2026-10-22",
+     "units": 21,
+     "source_url": "https://legislature.idaho.gov/statutesrules/idstat/Title18/T18CH36/",
+     "sha256": "0df7cc18eed6640e64c70a2868ca72852a63e50a4d4092d5d888412a9fade312"
+    }
+   ]
+  },
+  {
+   "slug": "title-0018-chapter-0038",
+   "short": "Idaho Code tit. 18, ch. 38",
+   "title": "Idaho Statutes, Title 18 (Crimes and punishments), Chapter 38: Gaming",
+   "url": "https://legislature.idaho.gov/statutesrules/idstat/Title18/T18CH38/",
+   "versions": [
+    {
+     "from": "2026-10-22",
+     "units": 4,
+     "source_url": "https://legislature.idaho.gov/statutesrules/idstat/Title18/T18CH38/",
+     "sha256": "32e1e60f6f71407758a95b427078b6283f6ec4891b3bc3f0a384c4bb626eca67"
+    }
+   ]
+  },
+  {
+   "slug": "title-0018-chapter-0039",
+   "short": "Idaho Code tit. 18, ch. 39",
+   "title": "Idaho Statutes, Title 18 (Crimes and punishments), Chapter 39: Highways and bridges",
+   "url": "https://legislature.idaho.gov/statutesrules/idstat/Title18/T18CH39/",
+   "versions": [
+    {
+     "from": "2026-10-22",
+     "units": 9,
+     "source_url": "https://legislature.idaho.gov/statutesrules/idstat/Title18/T18CH39/",
+     "sha256": "049e0bde50462b15bf569dc48f699b40025e73f557cf93d198a19e0d34b5026b"
+    }
+   ]
+  },
+  {
+   "slug": "title-0018-chapter-0040",
+   "short": "Idaho Code tit. 18, ch. 40",
+   "title": "Idaho Statutes, Title 18 (Crimes and punishments), Chapter 40: Homicide",
+   "url": "https://legislature.idaho.gov/statutesrules/idstat/Title18/T18CH40/",
+   "versions": [
+    {
+     "from": "2026-10-22",
+     "units": 16,
+     "source_url": "https://legislature.idaho.gov/statutesrules/idstat/Title18/T18CH40/",
+     "sha256": "c869caa5181be3552f4e171de1f0f6c29947dae68e9ffe2d7c98f9e83c9be28c"
+    }
+   ]
+  },
+  {
+   "slug": "title-0018-chapter-0041",
+   "short": "Idaho Code tit. 18, ch. 41",
+   "title": "Idaho Statutes, Title 18 (Crimes and punishments), Chapter 41: Indecency and obscenity",
+   "url": "https://legislature.idaho.gov/statutesrules/idstat/Title18/T18CH41/",
+   "versions": [
+    {
+     "from": "2026-10-22",
+     "units": 19,
+     "source_url": "https://legislature.idaho.gov/statutesrules/idstat/Title18/T18CH41/",
+     "sha256": "f4130c8208b13d0437f2389bf47cefee2139e134e2eaa8b7379fef5d6acdfbb4"
+    }
+   ]
+  },
+  {
+   "slug": "title-0018-chapter-0042",
+   "short": "Idaho Code tit. 18, ch. 42",
+   "title": "Idaho Statutes, Title 18 (Crimes and punishments), Chapter 42: Intoxicants and intoxication",
+   "url": "https://legislature.idaho.gov/statutesrules/idstat/Title18/T18CH42/",
+   "versions": [
+    {
+     "from": "2026-10-22",
+     "units": 1,
+     "source_url": "https://legislature.idaho.gov/statutesrules/idstat/Title18/T18CH42/",
+     "sha256": "3d55479f717e3c7242d1b9d8c7bfaf1abbba40bda2371a5d00f1372d16375ed9"
+    }
+   ]
+  },
+  {
+   "slug": "title-0018-chapter-0043",
+   "short": "Idaho Code tit. 18, ch. 43",
+   "title": "Idaho Statutes, Title 18 (Crimes and punishments), Chapter 43: Irrigation works",
+   "url": "https://legislature.idaho.gov/statutesrules/idstat/Title18/T18CH43/",
+   "versions": [
+    {
+     "from": "2026-10-22",
+     "units": 10,
+     "source_url": "https://legislature.idaho.gov/statutesrules/idstat/Title18/T18CH43/",
+     "sha256": "5842942b949aa3624492a0911921ff0f33ede91d360ec4e0057e524ea3503ed4"
+    }
+   ]
+  },
+  {
+   "slug": "title-0018-chapter-0044",
+   "short": "Idaho Code tit. 18, ch. 44",
+   "title": "Idaho Statutes, Title 18 (Crimes and punishments), Chapter 44: Juries and jurors",
+   "url": "https://legislature.idaho.gov/statutesrules/idstat/Title18/T18CH44/",
+   "versions": [
+    {
+     "from": "2026-10-22",
+     "units": 5,
+     "source_url": "https://legislature.idaho.gov/statutesrules/idstat/Title18/T18CH44/",
+     "sha256": "cad3cd0398ef136011e428d5afda1d7cb7694ba82f2859bfa8c6452a79e61923"
+    }
+   ]
+  },
+  {
+   "slug": "title-0018-chapter-0045",
+   "short": "Idaho Code tit. 18, ch. 45",
+   "title": "Idaho Statutes, Title 18 (Crimes and punishments), Chapter 45: Kidnapping",
+   "url": "https://legislature.idaho.gov/statutesrules/idstat/Title18/T18CH45/",
+   "versions": [
+    {
+     "from": "2026-10-22",
+     "units": 13,
+     "source_url": "https://legislature.idaho.gov/statutesrules/idstat/Title18/T18CH45/",
+     "sha256": "88144f983411e4cd19054eb901059760f1dbeeb3e6e414e628740b0d98535d46"
+    }
+   ]
+  },
+  {
+   "slug": "title-0018-chapter-0046",
+   "short": "Idaho Code tit. 18, ch. 46",
+   "title": "Idaho Statutes, Title 18 (Crimes and punishments), Chapter 46: Larceny and receiving stolen goods",
+   "url": "https://legislature.idaho.gov/statutesrules/idstat/Title18/T18CH46/",
+   "versions": [
+    {
+     "from": "2026-10-22",
+     "units": 17,
+     "source_url": "https://legislature.idaho.gov/statutesrules/idstat/Title18/T18CH46/",
+     "sha256": "68dd34107bb761fb7ca483eecdd8fb66a767ef4338861d319fb2fca18739e603"
+    }
+   ]
+  },
+  {
+   "slug": "title-0018-chapter-0047",
+   "short": "Idaho Code tit. 18, ch. 47",
+   "title": "Idaho Statutes, Title 18 (Crimes and punishments), Chapter 47: Legislative power",
+   "url": "https://legislature.idaho.gov/statutesrules/idstat/Title18/T18CH47/",
+   "versions": [
+    {
+     "from": "2026-10-22",
+     "units": 6,
+     "source_url": "https://legislature.idaho.gov/statutesrules/idstat/Title18/T18CH47/",
+     "sha256": "68d5441a4339b747ab514644a7b1c1692ed59af161a1c8dbe07a9ef3795bd439"
+    }
+   ]
+  },
+  {
+   "slug": "title-0018-chapter-0048",
+   "short": "Idaho Code tit. 18, ch. 48",
+   "title": "Idaho Statutes, Title 18 (Crimes and punishments), Chapter 48: Libel",
+   "url": "https://legislature.idaho.gov/statutesrules/idstat/Title18/T18CH48/",
+   "versions": [
+    {
+     "from": "2026-10-22",
+     "units": 9,
+     "source_url": "https://legislature.idaho.gov/statutesrules/idstat/Title18/T18CH48/",
+     "sha256": "3cc6210efc8b9930c892a553ab2337c9f0f675d546f02ff16337d723a9a10479"
+    }
+   ]
+  },
+  {
+   "slug": "title-0018-chapter-0049",
+   "short": "Idaho Code tit. 18, ch. 49",
+   "title": "Idaho Statutes, Title 18 (Crimes and punishments), Chapter 49: Lotteries",
+   "url": "https://legislature.idaho.gov/statutesrules/idstat/Title18/T18CH49/",
+   "versions": [
+    {
+     "from": "2026-10-22",
+     "units": 9,
+     "source_url": "https://legislature.idaho.gov/statutesrules/idstat/Title18/T18CH49/",
+     "sha256": "23253a882daf34754e5060cb5c5a14173dab08c7d88a33355c1315143f696b37"
+    }
+   ]
+  },
+  {
+   "slug": "title-0018-chapter-0050",
+   "short": "Idaho Code tit. 18, ch. 50",
+   "title": "Idaho Statutes, Title 18 (Crimes and punishments), Chapter 50: Mayhem",
+   "url": "https://legislature.idaho.gov/statutesrules/idstat/Title18/T18CH50/",
+   "versions": [
+    {
+     "from": "2026-10-22",
+     "units": 3,
+     "source_url": "https://legislature.idaho.gov/statutesrules/idstat/Title18/T18CH50/",
+     "sha256": "797534606ef803eac4951ea29fffa645a4e1a66189abcbd118fe905a1e6dacff"
+    }
+   ]
+  },
+  {
+   "slug": "title-0018-chapter-0054",
+   "short": "Idaho Code tit. 18, ch. 54",
+   "title": "Idaho Statutes, Title 18 (Crimes and punishments), Chapter 54: Perjury and subornation of perjury",
+   "url": "https://legislature.idaho.gov/statutesrules/idstat/Title18/T18CH54/",
+   "versions": [
+    {
+     "from": "2026-10-22",
+     "units": 15,
+     "source_url": "https://legislature.idaho.gov/statutesrules/idstat/Title18/T18CH54/",
+     "sha256": "a298398215a1ca759bd3863b42013acadff648d0873e385493484dd51bef8e59"
+    }
+   ]
+  },
+  {
+   "slug": "title-0018-chapter-0055",
+   "short": "Idaho Code tit. 18, ch. 55",
+   "title": "Idaho Statutes, Title 18 (Crimes and punishments), Chapter 55: Poisonings - denatured alcohol",
+   "url": "https://legislature.idaho.gov/statutesrules/idstat/Title18/T18CH55/",
+   "versions": [
+    {
+     "from": "2026-10-22",
+     "units": 3,
+     "source_url": "https://legislature.idaho.gov/statutesrules/idstat/Title18/T18CH55/",
+     "sha256": "e9113c5775d7e9a9b290724df78aa0343dbe7366f805f3bcfb944a5a4ef1b1b0"
+    }
+   ]
+  },
+  {
+   "slug": "title-0018-chapter-0056",
+   "short": "Idaho Code tit. 18, ch. 56",
+   "title": "Idaho Statutes, Title 18 (Crimes and punishments), Chapter 56: Commercial sexual activity",
+   "url": "https://legislature.idaho.gov/statutesrules/idstat/Title18/T18CH56/",
+   "versions": [
+    {
+     "from": "2026-10-22",
+     "units": 28,
+     "source_url": "https://legislature.idaho.gov/statutesrules/idstat/Title18/T18CH56/",
+     "sha256": "db0d404804de92758c03ec5b175c20461c88cb8803d7c44a65e3174c059d367b"
+    }
+   ]
+  },
+  {
+   "slug": "title-0018-chapter-0057",
+   "short": "Idaho Code tit. 18, ch. 57",
+   "title": "Idaho Statutes, Title 18 (Crimes and punishments), Chapter 57: Public funds and securities",
+   "url": "https://legislature.idaho.gov/statutesrules/idstat/Title18/T18CH57/",
+   "versions": [
+    {
+     "from": "2026-10-22",
+     "units": 3,
+     "source_url": "https://legislature.idaho.gov/statutesrules/idstat/Title18/T18CH57/",
+     "sha256": "f51bf526cfb428c6012a84b397ed60b9cf77d2cda931533f454961a2a64930aa"
+    }
+   ]
+  },
+  {
+   "slug": "title-0018-chapter-0058",
+   "short": "Idaho Code tit. 18, ch. 58",
+   "title": "Idaho Statutes, Title 18 (Crimes and punishments), Chapter 58: Public health and safety",
+   "url": "https://legislature.idaho.gov/statutesrules/idstat/Title18/T18CH58/",
+   "versions": [
+    {
+     "from": "2026-10-22",
+     "units": 14,
+     "source_url": "https://legislature.idaho.gov/statutesrules/idstat/Title18/T18CH58/",
+     "sha256": "1ca89b4af30557b62a5feb8ea2e68c2f0f19cf17b8c8196cd7480d71a5166977"
+    }
+   ]
+  },
+  {
+   "slug": "title-0018-chapter-0059",
+   "short": "Idaho Code tit. 18, ch. 59",
+   "title": "Idaho Statutes, Title 18 (Crimes and punishments), Chapter 59: Public nuisances",
+   "url": "https://legislature.idaho.gov/statutesrules/idstat/Title18/T18CH59/",
+   "versions": [
+    {
+     "from": "2026-10-22",
+     "units": 6,
+     "source_url": "https://legislature.idaho.gov/statutesrules/idstat/Title18/T18CH59/",
+     "sha256": "7c1ece649697c18a548c41dd8b733ccf57911de9118fee9abeb6cd21267ae8d1"
+    }
+   ]
+  },
+  {
+   "slug": "title-0018-chapter-0060",
+   "short": "Idaho Code tit. 18, ch. 60",
+   "title": "Idaho Statutes, Title 18 (Crimes and punishments), Chapter 60: Railroads",
+   "url": "https://legislature.idaho.gov/statutesrules/idstat/Title18/T18CH60/",
+   "versions": [
+    {
+     "from": "2026-10-22",
+     "units": 10,
+     "source_url": "https://legislature.idaho.gov/statutesrules/idstat/Title18/T18CH60/",
+     "sha256": "37c6186582b11f27caf5343f88f2c33a9b0abd127610f10534002fca80ecc125"
+    }
+   ]
+  },
+  {
+   "slug": "title-0018-chapter-0061",
+   "short": "Idaho Code tit. 18, ch. 61",
+   "title": "Idaho Statutes, Title 18 (Crimes and punishments), Chapter 61: Rape",
+   "url": "https://legislature.idaho.gov/statutesrules/idstat/Title18/T18CH61/",
+   "versions": [
+    {
+     "from": "2026-10-22",
+     "units": 7,
+     "source_url": "https://legislature.idaho.gov/statutesrules/idstat/Title18/T18CH61/",
+     "sha256": "e5c05fa1d7fa3620bcc6d3265eda65bebf4e835e5f0e1b8351d9a58653f4dc44"
+    }
+   ]
+  },
+  {
+   "slug": "title-0018-chapter-0063",
+   "short": "Idaho Code tit. 18, ch. 63",
+   "title": "Idaho Statutes, Title 18 (Crimes and punishments), Chapter 63: Revenue and taxation",
+   "url": "https://legislature.idaho.gov/statutesrules/idstat/Title18/T18CH63/",
+   "versions": [
+    {
+     "from": "2026-10-22",
+     "units": 9,
+     "source_url": "https://legislature.idaho.gov/statutesrules/idstat/Title18/T18CH63/",
+     "sha256": "a115ae243fd36c37034bda1806ed10c861ff0cb5dedd9788807d7a487f24abe0"
+    }
+   ]
+  },
+  {
+   "slug": "title-0018-chapter-0064",
+   "short": "Idaho Code tit. 18, ch. 64",
+   "title": "Idaho Statutes, Title 18 (Crimes and punishments), Chapter 64: Riot, rout, unlawful assembly, prize fighting, disturbing peace",
+   "url": "https://legislature.idaho.gov/statutesrules/idstat/Title18/T18CH64/",
+   "versions": [
+    {
+     "from": "2026-10-22",
+     "units": 6,
+     "source_url": "https://legislature.idaho.gov/statutesrules/idstat/Title18/T18CH64/",
+     "sha256": "5343d09e359f3eced9b051df8af4cf7d8aae6c8b078f9c1f0412b6e5d77aec41"
+    }
+   ]
+  },
+  {
+   "slug": "title-0018-chapter-0065",
+   "short": "Idaho Code tit. 18, ch. 65",
+   "title": "Idaho Statutes, Title 18 (Crimes and punishments), Chapter 65: Robbery",
+   "url": "https://legislature.idaho.gov/statutesrules/idstat/Title18/T18CH65/",
+   "versions": [
+    {
+     "from": "2026-10-22",
+     "units": 3,
+     "source_url": "https://legislature.idaho.gov/statutesrules/idstat/Title18/T18CH65/",
+     "sha256": "ac861e443cdf089307592a18ed6c5a7d9eebcae530b9b7ed297a879314f43b52"
+    }
+   ]
+  },
+  {
+   "slug": "title-0018-chapter-0066",
+   "short": "Idaho Code tit. 18, ch. 66",
+   "title": "Idaho Statutes, Title 18 (Crimes and punishments), Chapter 66: Sex crimes",
+   "url": "https://legislature.idaho.gov/statutesrules/idstat/Title18/T18CH66/",
+   "versions": [
+    {
+     "from": "2026-10-22",
+     "units": 6,
+     "source_url": "https://legislature.idaho.gov/statutesrules/idstat/Title18/T18CH66/",
+     "sha256": "57e213aa3f45f127e7580450fde2e6617dc3599565798250d72eb7462befb409"
+    }
+   ]
+  },
+  {
+   "slug": "title-0018-chapter-0067",
+   "short": "Idaho Code tit. 18, ch. 67",
+   "title": "Idaho Statutes, Title 18 (Crimes and punishments), Chapter 67: Communications security",
+   "url": "https://legislature.idaho.gov/statutesrules/idstat/Title18/T18CH67/",
+   "versions": [
+    {
+     "from": "2026-10-22",
+     "units": 26,
+     "source_url": "https://legislature.idaho.gov/statutesrules/idstat/Title18/T18CH67/",
+     "sha256": "7196b393e6d778cce14f38eda3784dd883683b85963244a013054922afc809ad"
+    }
+   ]
+  },
+  {
+   "slug": "title-0018-chapter-0068",
+   "short": "Idaho Code tit. 18, ch. 68",
+   "title": "Idaho Statutes, Title 18 (Crimes and punishments), Chapter 68: Telegraph, telephone and electric lines",
+   "url": "https://legislature.idaho.gov/statutesrules/idstat/Title18/T18CH68/",
+   "versions": [
+    {
+     "from": "2026-10-22",
+     "units": 10,
+     "source_url": "https://legislature.idaho.gov/statutesrules/idstat/Title18/T18CH68/",
+     "sha256": "adce8f3f82ec2fae6f8e0defc6aa96e083b6503c841c148b215e0197ba0313bb"
+    }
+   ]
+  },
+  {
+   "slug": "title-0018-chapter-0069",
+   "short": "Idaho Code tit. 18, ch. 69",
+   "title": "Idaho Statutes, Title 18 (Crimes and punishments), Chapter 69: Idaho anti-camcorder piracy act",
+   "url": "https://legislature.idaho.gov/statutesrules/idstat/Title18/T18CH69/",
+   "versions": [
+    {
+     "from": "2026-10-22",
+     "units": 5,
+     "source_url": "https://legislature.idaho.gov/statutesrules/idstat/Title18/T18CH69/",
+     "sha256": "118e03d5b257f4426d55a0cfc68ac62aeb453dbd169675ad1f0fd4bc2092184a"
+    }
+   ]
+  },
+  {
+   "slug": "title-0018-chapter-0070",
+   "short": "Idaho Code tit. 18, ch. 70",
+   "title": "Idaho Statutes, Title 18 (Crimes and punishments), Chapter 70: Trespass and malicious injuries to property",
+   "url": "https://legislature.idaho.gov/statutesrules/idstat/Title18/T18CH70/",
+   "versions": [
+    {
+     "from": "2026-10-22",
+     "units": 40,
+     "source_url": "https://legislature.idaho.gov/statutesrules/idstat/Title18/T18CH70/",
+     "sha256": "593e5f815ee96b1c7ee17abf334778e8c8488f19d8b876be516a62526975acc0"
+    }
+   ]
+  },
+  {
+   "slug": "title-0018-chapter-0072",
+   "short": "Idaho Code tit. 18, ch. 72",
+   "title": "Idaho Statutes, Title 18 (Crimes and punishments), Chapter 72: Weights and measures",
+   "url": "https://legislature.idaho.gov/statutesrules/idstat/Title18/T18CH72/",
+   "versions": [
+    {
+     "from": "2026-10-22",
+     "units": 2,
+     "source_url": "https://legislature.idaho.gov/statutesrules/idstat/Title18/T18CH72/",
+     "sha256": "11a4b0d04e4da5264d51e2138ad90229840960ec2c0cdfcee36a6e77b3475c97"
+    }
+   ]
+  },
+  {
+   "slug": "title-0018-chapter-0073",
+   "short": "Idaho Code tit. 18, ch. 73",
+   "title": "Idaho Statutes, Title 18 (Crimes and punishments), Chapter 73: Civil rights",
+   "url": "https://legislature.idaho.gov/statutesrules/idstat/Title18/T18CH73/",
+   "versions": [
+    {
+     "from": "2026-10-22",
+     "units": 4,
+     "source_url": "https://legislature.idaho.gov/statutesrules/idstat/Title18/T18CH73/",
+     "sha256": "09e77224db4ef1f198049e2fade4ff5fef987cd3baddbef80666817549f97797"
+    }
+   ]
+  },
+  {
+   "slug": "title-0018-chapter-0074",
+   "short": "Idaho Code tit. 18, ch. 74",
+   "title": "Idaho Statutes, Title 18 (Crimes and punishments), Chapter 74: Bail jumping",
+   "url": "https://legislature.idaho.gov/statutesrules/idstat/Title18/T18CH74/",
+   "versions": [
+    {
+     "from": "2026-10-22",
+     "units": 1,
+     "source_url": "https://legislature.idaho.gov/statutesrules/idstat/Title18/T18CH74/",
+     "sha256": "c28a1e6946fc9cfa123c459ecebccd332d250e92f5429987559e9b3ca6659434"
+    }
+   ]
+  },
+  {
+   "slug": "title-0018-chapter-0075",
+   "short": "Idaho Code tit. 18, ch. 75",
+   "title": "Idaho Statutes, Title 18 (Crimes and punishments), Chapter 75: Aircraft hijacking",
+   "url": "https://legislature.idaho.gov/statutesrules/idstat/Title18/T18CH75/",
+   "versions": [
+    {
+     "from": "2026-10-22",
+     "units": 5,
+     "source_url": "https://legislature.idaho.gov/statutesrules/idstat/Title18/T18CH75/",
+     "sha256": "82e7466a87858ae23194c67bf4d8de032137030bef03bfb9da7c70e25b3f2a56"
+    }
+   ]
+  },
+  {
+   "slug": "title-0018-chapter-0076",
+   "short": "Idaho Code tit. 18, ch. 76",
+   "title": "Idaho Statutes, Title 18 (Crimes and punishments), Chapter 76: Tape piracy act",
+   "url": "https://legislature.idaho.gov/statutesrules/idstat/Title18/T18CH76/",
+   "versions": [
+    {
+     "from": "2026-10-22",
+     "units": 8,
+     "source_url": "https://legislature.idaho.gov/statutesrules/idstat/Title18/T18CH76/",
+     "sha256": "c088f8b212aacaf6276ec8f454ac022d818464fa430413c07e52bc8ff9ebbb53"
+    }
+   ]
+  },
+  {
+   "slug": "title-0018-chapter-0077",
+   "short": "Idaho Code tit. 18, ch. 77",
+   "title": "Idaho Statutes, Title 18 (Crimes and punishments), Chapter 77: Motion picture fair bidding act",
+   "url": "https://legislature.idaho.gov/statutesrules/idstat/Title18/T18CH77/",
+   "versions": [
+    {
+     "from": "2026-10-22",
+     "units": 8,
+     "source_url": "https://legislature.idaho.gov/statutesrules/idstat/Title18/T18CH77/",
+     "sha256": "4cd39127aa894c48b31a4d4584f0636e0c95d53986ad6d0e68c4f25eb87e7b29"
+    }
+   ]
+  },
+  {
+   "slug": "title-0018-chapter-0078",
+   "short": "Idaho Code tit. 18, ch. 78",
+   "title": "Idaho Statutes, Title 18 (Crimes and punishments), Chapter 78: Racketeering act",
+   "url": "https://legislature.idaho.gov/statutesrules/idstat/Title18/T18CH78/",
+   "versions": [
+    {
+     "from": "2026-10-22",
+     "units": 5,
+     "source_url": "https://legislature.idaho.gov/statutesrules/idstat/Title18/T18CH78/",
+     "sha256": "df77a1828a80ba0671703a240ba6691d621662d7c15ba9d8723d0ad528df99fb"
+    }
+   ]
+  },
+  {
+   "slug": "title-0018-chapter-0079",
+   "short": "Idaho Code tit. 18, ch. 79",
+   "title": "Idaho Statutes, Title 18 (Crimes and punishments), Chapter 79: Malicious harassment",
+   "url": "https://legislature.idaho.gov/statutesrules/idstat/Title18/T18CH79/",
+   "versions": [
+    {
+     "from": "2026-10-22",
+     "units": 9,
+     "source_url": "https://legislature.idaho.gov/statutesrules/idstat/Title18/T18CH79/",
+     "sha256": "49d0da723c3cfcd37617c8fe4736e6e733e026a5b6d9c9450659a725e9310544"
+    }
+   ]
+  },
+  {
+   "slug": "title-0018-chapter-0080",
+   "short": "Idaho Code tit. 18, ch. 80",
+   "title": "Idaho Statutes, Title 18 (Crimes and punishments), Chapter 80: Motor vehicles",
+   "url": "https://legislature.idaho.gov/statutesrules/idstat/Title18/T18CH80/",
+   "versions": [
+    {
+     "from": "2026-10-22",
+     "units": 16,
+     "source_url": "https://legislature.idaho.gov/statutesrules/idstat/Title18/T18CH80/",
+     "sha256": "bf441816674e0bafa334f31de2b243e623403b5ed871ee655e6379977f413766"
+    }
+   ]
+  },
+  {
+   "slug": "title-0018-chapter-0081",
+   "short": "Idaho Code tit. 18, ch. 81",
+   "title": "Idaho Statutes, Title 18 (Crimes and punishments), Chapter 81: Terrorist control act",
+   "url": "https://legislature.idaho.gov/statutesrules/idstat/Title18/T18CH81/",
+   "versions": [
+    {
+     "from": "2026-10-22",
+     "units": 6,
+     "source_url": "https://legislature.idaho.gov/statutesrules/idstat/Title18/T18CH81/",
+     "sha256": "345e6c648dfdef0528005823bf92a3ca1657d7f67e2fa8e6aaf16f2b96a5bc13"
+    }
+   ]
+  },
+  {
+   "slug": "title-0018-chapter-0082",
+   "short": "Idaho Code tit. 18, ch. 82",
+   "title": "Idaho Statutes, Title 18 (Crimes and punishments), Chapter 82: Money laundering",
+   "url": "https://legislature.idaho.gov/statutesrules/idstat/Title18/T18CH82/",
+   "versions": [
+    {
+     "from": "2026-10-22",
+     "units": 1,
+     "source_url": "https://legislature.idaho.gov/statutesrules/idstat/Title18/T18CH82/",
+     "sha256": "62de74fd218233955915aa146903926dddd24bb0e7666614c9d811b8c9970d0c"
+    }
+   ]
+  },
+  {
+   "slug": "title-0018-chapter-0083",
+   "short": "Idaho Code tit. 18, ch. 83",
+   "title": "Idaho Statutes, Title 18 (Crimes and punishments), Chapter 83: Sexual offender registration notification and community right-to-know act",
+   "url": "https://legislature.idaho.gov/statutesrules/idstat/Title18/T18CH83/",
+   "versions": [
+    {
+     "from": "2026-10-22",
+     "units": 26,
+     "source_url": "https://legislature.idaho.gov/statutesrules/idstat/Title18/T18CH83/",
+     "sha256": "e9259a3e39fe41f0cad97bb94292ddb73bc62c466cba0dc6eb8a1d1817c4824f"
+    }
+   ]
+  },
+  {
+   "slug": "title-0018-chapter-0084",
+   "short": "Idaho Code tit. 18, ch. 84",
+   "title": "Idaho Statutes, Title 18 (Crimes and punishments), Chapter 84: Juvenile sex offender registration notification and community right-to-know act",
+   "url": "https://legislature.idaho.gov/statutesrules/idstat/Title18/T18CH84/",
+   "versions": [
+    {
+     "from": "2026-10-22",
+     "units": 14,
+     "source_url": "https://legislature.idaho.gov/statutesrules/idstat/Title18/T18CH84/",
+     "sha256": "a733191ee54b74cabb27fe41eb343121fc04022812471b9091556de7cdb52d96"
+    }
+   ]
+  },
+  {
+   "slug": "title-0018-chapter-0085",
+   "short": "Idaho Code tit. 18, ch. 85",
+   "title": "Idaho Statutes, Title 18 (Crimes and punishments), Chapter 85: Idaho criminal gang enforcement act",
+   "url": "https://legislature.idaho.gov/statutesrules/idstat/Title18/T18CH85/",
+   "versions": [
+    {
+     "from": "2026-10-22",
+     "units": 6,
+     "source_url": "https://legislature.idaho.gov/statutesrules/idstat/Title18/T18CH85/",
+     "sha256": "ee6423fc29806dfa417af9637061010ef07e6e1cf097973ab6dd8bb33bb95e55"
+    }
+   ]
+  },
+  {
+   "slug": "title-0018-chapter-0086",
+   "short": "Idaho Code tit. 18, ch. 86",
+   "title": "Idaho Statutes, Title 18 (Crimes and punishments), Chapter 86: Human trafficking",
+   "url": "https://legislature.idaho.gov/statutesrules/idstat/Title18/T18CH86/",
+   "versions": [
+    {
+     "from": "2026-10-22",
+     "units": 22,
+     "source_url": "https://legislature.idaho.gov/statutesrules/idstat/Title18/T18CH86/",
+     "sha256": "b6551c7567765658d8cfbf95857f5c1340f46210ee5ba5321793ae7ef47ee7e6"
+    }
+   ]
+  },
+  {
+   "slug": "title-0018-chapter-0087",
+   "short": "Idaho Code tit. 18, ch. 87",
+   "title": "Idaho Statutes, Title 18 (Crimes and punishments), Chapter 87: No public funds for abortion act",
+   "url": "https://legislature.idaho.gov/statutesrules/idstat/Title18/T18CH87/",
+   "versions": [
+    {
+     "from": "2026-10-22",
+     "units": 11,
+     "source_url": "https://legislature.idaho.gov/statutesrules/idstat/Title18/T18CH87/",
+     "sha256": "852b68d4af7db7ca5f5c8032fdb8c28029c6af6863a882dc31ba66504c5fe85d"
+    }
+   ]
+  },
+  {
+   "slug": "title-0018-chapter-0088",
+   "short": "Idaho Code tit. 18, ch. 88",
+   "title": "Idaho Statutes, Title 18 (Crimes and punishments), Chapter 88: Fetal heartbeat preborn child protection act",
+   "url": "https://legislature.idaho.gov/statutesrules/idstat/Title18/T18CH88/",
+   "versions": [
+    {
+     "from": "2026-10-22",
+     "units": 7,
+     "source_url": "https://legislature.idaho.gov/statutesrules/idstat/Title18/T18CH88/",
+     "sha256": "fe0942d5e920c670a912d22af385d8558a8224a8c5e5c9b47539c63975d64309"
+    }
+   ]
+  },
+  {
+   "slug": "title-0018-chapter-0089",
+   "short": "Idaho Code tit. 18, ch. 89",
+   "title": "Idaho Statutes, Title 18 (Crimes and punishments), Chapter 89: No public funds for gender transition",
+   "url": "https://legislature.idaho.gov/statutesrules/idstat/Title18/T18CH89/",
+   "versions": [
+    {
+     "from": "2026-10-22",
+     "units": 1,
+     "source_url": "https://legislature.idaho.gov/statutesrules/idstat/Title18/T18CH89/",
+     "sha256": "29d144f8b1f6f599d940e52ff5f30eedbe751d3a5062a3cc08ba5bb789a384f5"
+    }
+   ]
+  },
+  {
+   "slug": "title-0032-chapter-0001",
+   "short": "Idaho Code tit. 32, ch. 1",
+   "title": "Idaho Statutes, Title 32 (Domestic relations), Chapter 1: Persons",
+   "url": "https://legislature.idaho.gov/statutesrules/idstat/Title32/T32CH1/",
+   "versions": [
+    {
+     "from": "2026-10-22",
+     "units": 8,
+     "source_url": "https://legislature.idaho.gov/statutesrules/idstat/Title32/T32CH1/",
+     "sha256": "e6f3a0f4127e1f1b4d7d41dde95f2be260cbef9eeae0fc82644f65aad9762f70"
+    }
+   ]
+  },
+  {
+   "slug": "title-0032-chapter-0002",
+   "short": "Idaho Code tit. 32, ch. 2",
+   "title": "Idaho Statutes, Title 32 (Domestic relations), Chapter 2: Marriage - nature and validity of marriage contract",
+   "url": "https://legislature.idaho.gov/statutesrules/idstat/Title32/T32CH2/",
+   "versions": [
+    {
+     "from": "2026-10-22",
+     "units": 7,
+     "source_url": "https://legislature.idaho.gov/statutesrules/idstat/Title32/T32CH2/",
+     "sha256": "029cb1e0107981ad6b6060e6181aafa57205a6083649f42fbfc89fe68ca107a0"
+    }
+   ]
+  },
+  {
+   "slug": "title-0032-chapter-0003",
+   "short": "Idaho Code tit. 32, ch. 3",
+   "title": "Idaho Statutes, Title 32 (Domestic relations), Chapter 3: Solemnization of marriage",
+   "url": "https://legislature.idaho.gov/statutesrules/idstat/Title32/T32CH3/",
+   "versions": [
+    {
+     "from": "2026-10-22",
+     "units": 9,
+     "source_url": "https://legislature.idaho.gov/statutesrules/idstat/Title32/T32CH3/",
+     "sha256": "c34b1840244de88b55480f62a253b17b2b303f4f8b4e5241e9dd5b8fb89da637"
+    }
+   ]
+  },
+  {
+   "slug": "title-0032-chapter-0004",
+   "short": "Idaho Code tit. 32, ch. 4",
+   "title": "Idaho Statutes, Title 32 (Domestic relations), Chapter 4: Marriage licenses, certificates, and records",
+   "url": "https://legislature.idaho.gov/statutesrules/idstat/Title32/T32CH4/",
+   "versions": [
+    {
+     "from": "2026-10-22",
+     "units": 12,
+     "source_url": "https://legislature.idaho.gov/statutesrules/idstat/Title32/T32CH4/",
+     "sha256": "1dd3d1883cf3adacb1626cdf9a8e57a8a5a9bc8576c46358c0aa0a1bfb2c05a8"
+    }
+   ]
+  },
+  {
+   "slug": "title-0032-chapter-0005",
+   "short": "Idaho Code tit. 32, ch. 5",
+   "title": "Idaho Statutes, Title 32 (Domestic relations), Chapter 5: Annulment of marriage",
+   "url": "https://legislature.idaho.gov/statutesrules/idstat/Title32/T32CH5/",
+   "versions": [
+    {
+     "from": "2026-10-22",
+     "units": 5,
+     "source_url": "https://legislature.idaho.gov/statutesrules/idstat/Title32/T32CH5/",
+     "sha256": "65e1e01520b4921d6a8db847bac20f3ba874de9c05c8d9fe0b0bed467247e087"
+    }
+   ]
+  },
+  {
+   "slug": "title-0032-chapter-0006",
+   "short": "Idaho Code tit. 32, ch. 6",
+   "title": "Idaho Statutes, Title 32 (Domestic relations), Chapter 6: Divorce - grounds and defenses",
+   "url": "https://legislature.idaho.gov/statutesrules/idstat/Title32/T32CH6/",
+   "versions": [
+    {
+     "from": "2026-10-22",
+     "units": 16,
+     "source_url": "https://legislature.idaho.gov/statutesrules/idstat/Title32/T32CH6/",
+     "sha256": "a0457b161bb91b65df715a05d2884ee7426431d27239d0d8c45d0eb05f89b1e5"
+    }
+   ]
+  },
+  {
+   "slug": "title-0032-chapter-0007",
+   "short": "Idaho Code tit. 32, ch. 7",
+   "title": "Idaho Statutes, Title 32 (Domestic relations), Chapter 7: Divorce actions",
+   "url": "https://legislature.idaho.gov/statutesrules/idstat/Title32/T32CH7/",
+   "versions": [
+    {
+     "from": "2026-10-22",
+     "units": 24,
+     "source_url": "https://legislature.idaho.gov/statutesrules/idstat/Title32/T32CH7/",
+     "sha256": "dc1d24eb7f9caba9792f919b4ce1657630a2388164138840402653c5c664d957"
+    }
+   ]
+  },
+  {
+   "slug": "title-0032-chapter-0008",
+   "short": "Idaho Code tit. 32, ch. 8",
+   "title": "Idaho Statutes, Title 32 (Domestic relations), Chapter 8: Divorces for insanity",
+   "url": "https://legislature.idaho.gov/statutesrules/idstat/Title32/T32CH8/",
+   "versions": [
+    {
+     "from": "2026-10-22",
+     "units": 5,
+     "source_url": "https://legislature.idaho.gov/statutesrules/idstat/Title32/T32CH8/",
+     "sha256": "46696ad53471a5c3ee88e0ee881163a405c9739d89f09634a37d1a25bad8ccc6"
+    }
+   ]
+  },
+  {
+   "slug": "title-0032-chapter-0009",
+   "short": "Idaho Code tit. 32, ch. 9",
+   "title": "Idaho Statutes, Title 32 (Domestic relations), Chapter 9: Husband and wife - separate and community property",
+   "url": "https://legislature.idaho.gov/statutesrules/idstat/Title32/T32CH9/",
+   "versions": [
+    {
+     "from": "2026-10-22",
+     "units": 28,
+     "source_url": "https://legislature.idaho.gov/statutesrules/idstat/Title32/T32CH9/",
+     "sha256": "a4d6a5f820d186e28cf3a451f1cbd447e998a79af27537cde9dbfabe8eb15211"
+    }
+   ]
+  },
+  {
+   "slug": "title-0032-chapter-0012",
+   "short": "Idaho Code tit. 32, ch. 12",
+   "title": "Idaho Statutes, Title 32 (Domestic relations), Chapter 12: Mandatory income withholding for child support",
+   "url": "https://legislature.idaho.gov/statutesrules/idstat/Title32/T32CH12/",
+   "versions": [
+    {
+     "from": "2026-10-22",
+     "units": 27,
+     "source_url": "https://legislature.idaho.gov/statutesrules/idstat/Title32/T32CH12/",
+     "sha256": "879fea5bd889c4f964cbe5a5433f925426b28e00027d9c8f05f5f3405705c819"
+    }
+   ]
+  },
+  {
+   "slug": "title-0032-chapter-0013",
+   "short": "Idaho Code tit. 32, ch. 13",
+   "title": "Idaho Statutes, Title 32 (Domestic relations), Chapter 13: Parent responsibility act",
+   "url": "https://legislature.idaho.gov/statutesrules/idstat/Title32/T32CH13/",
+   "versions": [
+    {
+     "from": "2026-10-22",
+     "units": 1,
+     "source_url": "https://legislature.idaho.gov/statutesrules/idstat/Title32/T32CH13/",
+     "sha256": "a16d06e260ed35706cb688d5b48aae6ff1d5dea142b64398ef7e9eb6564a52f5"
+    }
+   ]
+  },
+  {
+   "slug": "title-0032-chapter-0014",
+   "short": "Idaho Code tit. 32, ch. 14",
+   "title": "Idaho Statutes, Title 32 (Domestic relations), Chapter 14: Coordinated family services",
+   "url": "https://legislature.idaho.gov/statutesrules/idstat/Title32/T32CH14/",
+   "versions": [
+    {
+     "from": "2026-10-22",
+     "units": 10,
+     "source_url": "https://legislature.idaho.gov/statutesrules/idstat/Title32/T32CH14/",
+     "sha256": "821a86ef764352356daf3c955b2024baf97893374f4c74a59abedd729e40674c"
+    }
+   ]
+  },
+  {
+   "slug": "title-0032-chapter-0016",
+   "short": "Idaho Code tit. 32, ch. 16",
+   "title": "Idaho Statutes, Title 32 (Domestic relations), Chapter 16: Financial institution data match process",
+   "url": "https://legislature.idaho.gov/statutesrules/idstat/Title32/T32CH16/",
+   "versions": [
+    {
+     "from": "2026-10-22",
+     "units": 14,
+     "source_url": "https://legislature.idaho.gov/statutesrules/idstat/Title32/T32CH16/",
+     "sha256": "4f19a5e696456c47487df866086544710a4867b2b16722721ed7a51b06948166"
+    }
+   ]
+  },
+  {
+   "slug": "title-0032-chapter-0017",
+   "short": "Idaho Code tit. 32, ch. 17",
+   "title": "Idaho Statutes, Title 32 (Domestic relations), Chapter 17: De facto custodian act",
+   "url": "https://legislature.idaho.gov/statutesrules/idstat/Title32/T32CH17/",
+   "versions": [
+    {
+     "from": "2026-10-22",
+     "units": 5,
+     "source_url": "https://legislature.idaho.gov/statutesrules/idstat/Title32/T32CH17/",
+     "sha256": "e62d90154e0839f1488c7444f4c8d7caf43beb4a960a91657dd058aa106589f0"
+    }
+   ]
+  },
+  {
+   "slug": "title-0032-chapter-0018",
+   "short": "Idaho Code tit. 32, ch. 18",
+   "title": "Idaho Statutes, Title 32 (Domestic relations), Chapter 18: Temporary caregivers and temporary care assistance programs",
+   "url": "https://legislature.idaho.gov/statutesrules/idstat/Title32/T32CH18/",
+   "versions": [
+    {
+     "from": "2026-10-22",
+     "units": 6,
+     "source_url": "https://legislature.idaho.gov/statutesrules/idstat/Title32/T32CH18/",
+     "sha256": "f30860fbd3c9a263ba7cda8fd4a600039175a02c8d4f75da18c2cb04d8b60e80"
+    }
+   ]
+  },
+  {
+   "slug": "title-0005-chapter-0002",
+   "short": "Idaho Code tit. 5, ch. 2",
+   "title": "Idaho Statutes, Title 5 (Proceedings in civil actions in courts of record), Chapter 2: Limitation of actions",
+   "url": "https://legislature.idaho.gov/statutesrules/idstat/Title5/T5CH2/",
+   "versions": [
+    {
+     "from": "2026-10-23",
+     "units": 49,
+     "source_url": "https://legislature.idaho.gov/statutesrules/idstat/Title5/T5CH2/",
+     "sha256": "8232ffabf3a2daf73ecece83c76f7977646c5ca526ac5a1398a3f7ea5cf98fcd"
+    }
+   ]
+  },
+  {
+   "slug": "title-0005-chapter-0003",
+   "short": "Idaho Code tit. 5, ch. 3",
+   "title": "Idaho Statutes, Title 5 (Proceedings in civil actions in courts of record), Chapter 3: Parties to actions",
+   "url": "https://legislature.idaho.gov/statutesrules/idstat/Title5/T5CH3/",
+   "versions": [
+    {
+     "from": "2026-10-23",
+     "units": 32,
+     "source_url": "https://legislature.idaho.gov/statutesrules/idstat/Title5/T5CH3/",
+     "sha256": "1325990fb42179d94000ffdb7e7ebea10bde1efa12d775752322b8a3ffbaa491"
+    }
+   ]
+  },
+  {
+   "slug": "title-0005-chapter-0004",
+   "short": "Idaho Code tit. 5, ch. 4",
+   "title": "Idaho Statutes, Title 5 (Proceedings in civil actions in courts of record), Chapter 4: Place of trial of civil actions",
+   "url": "https://legislature.idaho.gov/statutesrules/idstat/Title5/T5CH4/",
+   "versions": [
+    {
+     "from": "2026-10-23",
+     "units": 6,
+     "source_url": "https://legislature.idaho.gov/statutesrules/idstat/Title5/T5CH4/",
+     "sha256": "57b386d6166244f882b6d27ef23be08959457995a73da4ddaa85eff7cba4faac"
+    }
+   ]
+  },
+  {
+   "slug": "title-0005-chapter-0005",
+   "short": "Idaho Code tit. 5, ch. 5",
+   "title": "Idaho Statutes, Title 5 (Proceedings in civil actions in courts of record), Chapter 5: Commencement of actions",
+   "url": "https://legislature.idaho.gov/statutesrules/idstat/Title5/T5CH5/",
+   "versions": [
+    {
+     "from": "2026-10-23",
+     "units": 10,
+     "source_url": "https://legislature.idaho.gov/statutesrules/idstat/Title5/T5CH5/",
+     "sha256": "a3e7d156a9f4eae96bb7b380adaf398bda90f750215fdb7286fce408b6a0ede5"
+    }
+   ]
+  },
+  {
+   "slug": "title-0055-chapter-0001",
+   "short": "Idaho Code tit. 55, ch. 1",
+   "title": "Idaho Statutes, Title 55 (Property in general), Chapter 1: Property and ownership - general provisions",
+   "url": "https://legislature.idaho.gov/statutesrules/idstat/Title55/T55CH1/",
+   "versions": [
+    {
+     "from": "2026-10-23",
+     "units": 18,
+     "source_url": "https://legislature.idaho.gov/statutesrules/idstat/Title55/T55CH1/",
+     "sha256": "497bbbe2b7c6ff7e66c87e5d01625438c92be01f08d2694331a94715250cf0e1"
+    }
+   ]
+  },
+  {
+   "slug": "title-0055-chapter-0002",
+   "short": "Idaho Code tit. 55, ch. 2",
+   "title": "Idaho Statutes, Title 55 (Property in general), Chapter 2: Estates in real property",
+   "url": "https://legislature.idaho.gov/statutesrules/idstat/Title55/T55CH2/",
+   "versions": [
+    {
+     "from": "2026-10-23",
+     "units": 12,
+     "source_url": "https://legislature.idaho.gov/statutesrules/idstat/Title55/T55CH2/",
+     "sha256": "d8708dcb1cf38c318a7c243fd461b7fd5e94ac793c62756975f0c17ef1c59fd7"
+    }
+   ]
+  },
+  {
+   "slug": "title-0055-chapter-0003",
+   "short": "Idaho Code tit. 55, ch. 3",
+   "title": "Idaho Statutes, Title 55 (Property in general), Chapter 3: Rights and obligations of owners",
+   "url": "https://legislature.idaho.gov/statutesrules/idstat/Title55/T55CH3/",
+   "versions": [
+    {
+     "from": "2026-10-23",
+     "units": 15,
+     "source_url": "https://legislature.idaho.gov/statutesrules/idstat/Title55/T55CH3/",
+     "sha256": "017b49003b8e8738b1c2ab6c914d3a77e36b0f0ca94d8c58a63f520e38d4d986"
+    }
+   ]
+  },
+  {
+   "slug": "title-0055-chapter-0004",
+   "short": "Idaho Code tit. 55, ch. 4",
+   "title": "Idaho Statutes, Title 55 (Property in general), Chapter 4: Personal property",
+   "url": "https://legislature.idaho.gov/statutesrules/idstat/Title55/T55CH4/",
+   "versions": [
+    {
+     "from": "2026-10-23",
+     "units": 5,
+     "source_url": "https://legislature.idaho.gov/statutesrules/idstat/Title55/T55CH4/",
+     "sha256": "b210d084860dad812b21681bcbb85277cfe45ef179b11560374193c5eebe01a5"
+    }
+   ]
+  },
+  {
+   "slug": "title-0055-chapter-0005",
+   "short": "Idaho Code tit. 55, ch. 5",
+   "title": "Idaho Statutes, Title 55 (Property in general), Chapter 5: Transfers in general",
+   "url": "https://legislature.idaho.gov/statutesrules/idstat/Title55/T55CH5/",
+   "versions": [
+    {
+     "from": "2026-10-23",
+     "units": 8,
+     "source_url": "https://legislature.idaho.gov/statutesrules/idstat/Title55/T55CH5/",
+     "sha256": "e6278c7033b64e6bf2086c2761ce6e06bd13ba93e4cc698626e377378b9b8477"
+    }
+   ]
+  },
+  {
+   "slug": "title-0055-chapter-0006",
+   "short": "Idaho Code tit. 55, ch. 6",
+   "title": "Idaho Statutes, Title 55 (Property in general), Chapter 6: Transfer of real property",
+   "url": "https://legislature.idaho.gov/statutesrules/idstat/Title55/T55CH6/",
+   "versions": [
+    {
+     "from": "2026-10-23",
+     "units": 18,
+     "source_url": "https://legislature.idaho.gov/statutesrules/idstat/Title55/T55CH6/",
+     "sha256": "72574c65ac540f1ad504de91c678c06857bbe7486d3c74477045ebaa965b32b2"
+    }
+   ]
+  },
+  {
+   "slug": "title-0055-chapter-0008",
+   "short": "Idaho Code tit. 55, ch. 8",
+   "title": "Idaho Statutes, Title 55 (Property in general), Chapter 8: Recording transfers",
+   "url": "https://legislature.idaho.gov/statutesrules/idstat/Title55/T55CH8/",
+   "versions": [
+    {
+     "from": "2026-10-23",
+     "units": 20,
+     "source_url": "https://legislature.idaho.gov/statutesrules/idstat/Title55/T55CH8/",
+     "sha256": "dd752d886cb793d3f49db093b4f36d169b1a9e6f65431012c927833abb6ac66b"
+    }
+   ]
+  },
+  {
+   "slug": "title-0055-chapter-0009",
+   "short": "Idaho Code tit. 55, ch. 9",
+   "title": "Idaho Statutes, Title 55 (Property in general), Chapter 9: Unlawful transfers",
+   "url": "https://legislature.idaho.gov/statutesrules/idstat/Title55/T55CH9/",
+   "versions": [
+    {
+     "from": "2026-10-23",
+     "units": 22,
+     "source_url": "https://legislature.idaho.gov/statutesrules/idstat/Title55/T55CH9/",
+     "sha256": "8cc2039dcf497e9b256d4a8bf8c2c5f4bc920f55a74bf06b2499483d007020c4"
+    }
+   ]
+  },
+  {
+   "slug": "title-0055-chapter-0010",
+   "short": "Idaho Code tit. 55, ch. 10",
+   "title": "Idaho Statutes, Title 55 (Property in general), Chapter 10: Homesteads",
+   "url": "https://legislature.idaho.gov/statutesrules/idstat/Title55/T55CH10/",
+   "versions": [
+    {
+     "from": "2026-10-23",
+     "units": 11,
+     "source_url": "https://legislature.idaho.gov/statutesrules/idstat/Title55/T55CH10/",
+     "sha256": "40c20f7184a8f7c46c1e780501d726af36670527fe4baf15c8200cab323e7762"
+    }
+   ]
+  },
+  {
+   "slug": "title-0055-chapter-0011",
+   "short": "Idaho Code tit. 55, ch. 11",
+   "title": "Idaho Statutes, Title 55 (Property in general), Chapter 11: Sale of homestead on execution",
+   "url": "https://legislature.idaho.gov/statutesrules/idstat/Title55/T55CH11/",
+   "versions": [
+    {
+     "from": "2026-10-23",
+     "units": 15,
+     "source_url": "https://legislature.idaho.gov/statutesrules/idstat/Title55/T55CH11/",
+     "sha256": "a41aa173b56dfe943cde5750221c206c22befe544c6255add0dfec19e15b771a"
+    }
+   ]
+  },
+  {
+   "slug": "title-0055-chapter-0014",
+   "short": "Idaho Code tit. 55, ch. 14",
+   "title": "Idaho Statutes, Title 55 (Property in general), Chapter 14: Unclaimed property",
+   "url": "https://legislature.idaho.gov/statutesrules/idstat/Title55/T55CH14/",
+   "versions": [
+    {
+     "from": "2026-10-23",
+     "units": 4,
+     "source_url": "https://legislature.idaho.gov/statutesrules/idstat/Title55/T55CH14/",
+     "sha256": "724f1408dd30911ffaa345d5b1c794508a6f1f0a4b8b6807194f4648c1b059ca"
+    }
+   ]
+  },
+  {
+   "slug": "title-0055-chapter-0015",
+   "short": "Idaho Code tit. 55, ch. 15",
+   "title": "Idaho Statutes, Title 55 (Property in general), Chapter 15: Condominium property act",
+   "url": "https://legislature.idaho.gov/statutesrules/idstat/Title55/T55CH15/",
+   "versions": [
+    {
+     "from": "2026-10-23",
+     "units": 28,
+     "source_url": "https://legislature.idaho.gov/statutesrules/idstat/Title55/T55CH15/",
+     "sha256": "8e7ecd95c918e991a7f3954c01adb52b4b33f7de6a4ab8bdaf0cdaf3dc8f3d72"
+    }
+   ]
+  },
+  {
+   "slug": "title-0055-chapter-0016",
+   "short": "Idaho Code tit. 55, ch. 16",
+   "title": "Idaho Statutes, Title 55 (Property in general), Chapter 16: Corner perpetuation and filing",
+   "url": "https://legislature.idaho.gov/statutesrules/idstat/Title55/T55CH16/",
+   "versions": [
+    {
+     "from": "2026-10-23",
+     "units": 12,
+     "source_url": "https://legislature.idaho.gov/statutesrules/idstat/Title55/T55CH16/",
+     "sha256": "4101dfa2975ca7924c52d9a059880812b18c8a17659d92630931cfe4e73343e7"
+    }
+   ]
+  },
+  {
+   "slug": "title-0055-chapter-0017",
+   "short": "Idaho Code tit. 55, ch. 17",
+   "title": "Idaho Statutes, Title 55 (Property in general), Chapter 17: Coordinate system of land description",
+   "url": "https://legislature.idaho.gov/statutesrules/idstat/Title55/T55CH17/",
+   "versions": [
+    {
+     "from": "2026-10-23",
+     "units": 10,
+     "source_url": "https://legislature.idaho.gov/statutesrules/idstat/Title55/T55CH17/",
+     "sha256": "6c99dff7a87b7dd43bb6f5dede7e9a4dffa95a32bf6796d2781685c4ff4573ca"
+    }
+   ]
+  },
+  {
+   "slug": "title-0055-chapter-0018",
+   "short": "Idaho Code tit. 55, ch. 18",
+   "title": "Idaho Statutes, Title 55 (Property in general), Chapter 18: Sale or disposition of land located outside the state",
+   "url": "https://legislature.idaho.gov/statutesrules/idstat/Title55/T55CH18/",
+   "versions": [
+    {
+     "from": "2026-10-23",
+     "units": 25,
+     "source_url": "https://legislature.idaho.gov/statutesrules/idstat/Title55/T55CH18/",
+     "sha256": "ec738baedc93f0eb896dd83e3a53f7334e2c6ed1459a051df43ff29605dd3541"
+    }
+   ]
+  },
+  {
+   "slug": "title-0055-chapter-0019",
+   "short": "Idaho Code tit. 55, ch. 19",
+   "title": "Idaho Statutes, Title 55 (Property in general), Chapter 19: Recording of surveys",
+   "url": "https://legislature.idaho.gov/statutesrules/idstat/Title55/T55CH19/",
+   "versions": [
+    {
+     "from": "2026-10-23",
+     "units": 11,
+     "source_url": "https://legislature.idaho.gov/statutesrules/idstat/Title55/T55CH19/",
+     "sha256": "44b348413f3009bb06ebe09daaa0ce0a3500777801d8438c0a9a8860c6b57f90"
+    }
+   ]
+  },
+  {
+   "slug": "title-0055-chapter-0020",
+   "short": "Idaho Code tit. 55, ch. 20",
+   "title": "Idaho Statutes, Title 55 (Property in general), Chapter 20: Manufactured home residency act",
+   "url": "https://legislature.idaho.gov/statutesrules/idstat/Title55/T55CH20/",
+   "versions": [
+    {
+     "from": "2026-10-23",
+     "units": 27,
+     "source_url": "https://legislature.idaho.gov/statutesrules/idstat/Title55/T55CH20/",
+     "sha256": "a3ea733fca04852f0c272c084ef6edcd4723a7f53b512dcb349de6bb079bce93"
+    }
+   ]
+  },
+  {
+   "slug": "title-0055-chapter-0021",
+   "short": "Idaho Code tit. 55, ch. 21",
+   "title": "Idaho Statutes, Title 55 (Property in general), Chapter 21: Uniform conservation easement act",
+   "url": "https://legislature.idaho.gov/statutesrules/idstat/Title55/T55CH21/",
+   "versions": [
+    {
+     "from": "2026-10-23",
+     "units": 9,
+     "source_url": "https://legislature.idaho.gov/statutesrules/idstat/Title55/T55CH21/",
+     "sha256": "cb3a29caede38c29fdad8609feadcb6c0aa8f65f69c56248fb5c9ed9c65174a2"
+    }
+   ]
+  },
+  {
+   "slug": "title-0055-chapter-0022",
+   "short": "Idaho Code tit. 55, ch. 22",
+   "title": "Idaho Statutes, Title 55 (Property in general), Chapter 22: Underground facilities damage prevention",
+   "url": "https://legislature.idaho.gov/statutesrules/idstat/Title55/T55CH22/",
+   "versions": [
+    {
+     "from": "2026-10-23",
+     "units": 11,
+     "source_url": "https://legislature.idaho.gov/statutesrules/idstat/Title55/T55CH22/",
+     "sha256": "4d2a944136dc542215d0ae400453b35463062b658078c0d26c6c462af9c12911"
+    }
+   ]
+  },
+  {
+   "slug": "title-0055-chapter-0023",
+   "short": "Idaho Code tit. 55, ch. 23",
+   "title": "Idaho Statutes, Title 55 (Property in general), Chapter 23: Self-service storage facilities",
+   "url": "https://legislature.idaho.gov/statutesrules/idstat/Title55/T55CH23/",
+   "versions": [
+    {
+     "from": "2026-10-23",
+     "units": 9,
+     "source_url": "https://legislature.idaho.gov/statutesrules/idstat/Title55/T55CH23/",
+     "sha256": "95b101367e069785af0922d748031b27b7144d7d29a66b8837e9e2e6d28fb374"
+    }
+   ]
+  },
+  {
+   "slug": "title-0055-chapter-0024",
+   "short": "Idaho Code tit. 55, ch. 24",
+   "title": "Idaho Statutes, Title 55 (Property in general), Chapter 24: Activities in proximity to high voltage overhead lines",
+   "url": "https://legislature.idaho.gov/statutesrules/idstat/Title55/T55CH24/",
+   "versions": [
+    {
+     "from": "2026-10-23",
+     "units": 5,
+     "source_url": "https://legislature.idaho.gov/statutesrules/idstat/Title55/T55CH24/",
+     "sha256": "13c525b71cd0b49dfe6116cf35e1132b776e197f7a58ccac20c144e1753bf5cf"
+    }
+   ]
+  },
+  {
+   "slug": "title-0055-chapter-0025",
+   "short": "Idaho Code tit. 55, ch. 25",
+   "title": "Idaho Statutes, Title 55 (Property in general), Chapter 25: Property condition disclosure act",
+   "url": "https://legislature.idaho.gov/statutesrules/idstat/Title55/T55CH25/",
+   "versions": [
+    {
+     "from": "2026-10-23",
+     "units": 18,
+     "source_url": "https://legislature.idaho.gov/statutesrules/idstat/Title55/T55CH25/",
+     "sha256": "3f662e3b37d26bbb06a90d03fa10606cf84b3f1edcb38afdff3fb76ac2fbd5c7"
+    }
+   ]
+  },
+  {
+   "slug": "title-0055-chapter-0026",
+   "short": "Idaho Code tit. 55, ch. 26",
+   "title": "Idaho Statutes, Title 55 (Property in general), Chapter 26: Sport shooting ranges",
+   "url": "https://legislature.idaho.gov/statutesrules/idstat/Title55/T55CH26/",
+   "versions": [
+    {
+     "from": "2026-10-23",
+     "units": 6,
+     "source_url": "https://legislature.idaho.gov/statutesrules/idstat/Title55/T55CH26/",
+     "sha256": "53a797fdeafd57372baa0e5f000e8da67feaf00600d1d47c5e08c122ba11df8e"
+    }
+   ]
+  },
+  {
+   "slug": "title-0055-chapter-0027",
+   "short": "Idaho Code tit. 55, ch. 27",
+   "title": "Idaho Statutes, Title 55 (Property in general), Chapter 27: Floating homes residency act",
+   "url": "https://legislature.idaho.gov/statutesrules/idstat/Title55/T55CH27/",
+   "versions": [
+    {
+     "from": "2026-10-23",
+     "units": 20,
+     "source_url": "https://legislature.idaho.gov/statutesrules/idstat/Title55/T55CH27/",
+     "sha256": "a9d9ded33c519b51c196c276012fed940ef88b075d70ec8e480be65e7cdb07ef"
+    }
+   ]
+  },
+  {
+   "slug": "title-0055-chapter-0028",
+   "short": "Idaho Code tit. 55, ch. 28",
+   "title": "Idaho Statutes, Title 55 (Property in general), Chapter 28: Psychologically impacted real property",
+   "url": "https://legislature.idaho.gov/statutesrules/idstat/Title55/T55CH28/",
+   "versions": [
+    {
+     "from": "2026-10-23",
+     "units": 3,
+     "source_url": "https://legislature.idaho.gov/statutesrules/idstat/Title55/T55CH28/",
+     "sha256": "e70aca21ae97167692324dbf3d7934b545cf288e704c9492de149e4290f7594e"
+    }
+   ]
+  },
+  {
+   "slug": "title-0055-chapter-0029",
+   "short": "Idaho Code tit. 55, ch. 29",
+   "title": "Idaho Statutes, Title 55 (Property in general), Chapter 29: Emergency communications preservation",
+   "url": "https://legislature.idaho.gov/statutesrules/idstat/Title55/T55CH29/",
+   "versions": [
+    {
+     "from": "2026-10-23",
+     "units": 4,
+     "source_url": "https://legislature.idaho.gov/statutesrules/idstat/Title55/T55CH29/",
+     "sha256": "eb7df3d2eb05d4a492b78e64f8f3dcfad692cad7d95acab5e3acdc5eff156371"
+    }
+   ]
+  },
+  {
+   "slug": "title-0055-chapter-0030",
+   "short": "Idaho Code tit. 55, ch. 30",
+   "title": "Idaho Statutes, Title 55 (Property in general), Chapter 30: Uniform environmental covenants act",
+   "url": "https://legislature.idaho.gov/statutesrules/idstat/Title55/T55CH30/",
+   "versions": [
+    {
+     "from": "2026-10-23",
+     "units": 15,
+     "source_url": "https://legislature.idaho.gov/statutesrules/idstat/Title55/T55CH30/",
+     "sha256": "3507936a99e8445d1c8ee8345899a56b630bc7ffd4b40dfe61cace9969b12c70"
+    }
+   ]
+  },
+  {
+   "slug": "title-0055-chapter-0031",
+   "short": "Idaho Code tit. 55, ch. 31",
+   "title": "Idaho Statutes, Title 55 (Property in general), Chapter 31: Prohibition of transfer fee covenants",
+   "url": "https://legislature.idaho.gov/statutesrules/idstat/Title55/T55CH31/",
+   "versions": [
+    {
+     "from": "2026-10-23",
+     "units": 3,
+     "source_url": "https://legislature.idaho.gov/statutesrules/idstat/Title55/T55CH31/",
+     "sha256": "f9904d1b8b53898aba0f1564a1b80b7aa0ce75b8eb237831f960bde8ad1e819a"
+    }
+   ]
+  },
+  {
+   "slug": "title-0055-chapter-0032",
+   "short": "Idaho Code tit. 55, ch. 32",
+   "title": "Idaho Statutes, Title 55 (Property in general), Chapter 32: Homeowner's association act",
+   "url": "https://legislature.idaho.gov/statutesrules/idstat/Title55/T55CH32/",
+   "versions": [
+    {
+     "from": "2026-10-23",
+     "units": 15,
+     "source_url": "https://legislature.idaho.gov/statutesrules/idstat/Title55/T55CH32/",
+     "sha256": "980f941718c74287cfdd38498f5a06739ace585fc261e20e0a780f7ff13d9d17"
+    }
+   ]
+  }
+ ]
+}
