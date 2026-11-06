@@ -1,5 +1,7 @@
 # Idaho: law history in git
 
+Part of [lexifina/global-law](https://github.com/lexifina/global-law), one git history for every country's law: this is the law of Idaho, United States, which global-law reads at `united-states/idaho/acts/`.
+
 The Constitution of the State of Idaho and titles of the Idaho Statutes as a git repository: one file per section, committed with the Idaho Legislature as its publisher. It follows the shared design of [lexifina/global-law](https://github.com/lexifina/global-law), which places it at `united-states/idaho/`.
 
 **What is in it now**
