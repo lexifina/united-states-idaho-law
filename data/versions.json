@@ -1542,6 +1542,272 @@
    ]
   },
   {
+   "slug": "title-0022-chapter-0020",
+   "short": "Idaho Code tit. 22, ch. 20",
+   "title": "Idaho Statutes, Title 22 (Agriculture and horticulture), Chapter 20: Idaho plant pest act of 2002",
+   "url": "https://legislature.idaho.gov/statutesrules/idstat/Title22/T22CH20/",
+   "versions": [
+    {
+     "from": "2026-10-16",
+     "units": 22,
+     "source_url": "https://legislature.idaho.gov/statutesrules/idstat/Title22/T22CH20/",
+     "sha256": "6da801215409bb8b865525f4c3e7eed9f4b2cc588d1b427804de3563b6d90f52"
+    }
+   ]
+  },
+  {
+   "slug": "title-0022-chapter-0022",
+   "short": "Idaho Code tit. 22, ch. 22",
+   "title": "Idaho Statutes, Title 22 (Agriculture and horticulture), Chapter 22: Soil and plant amendments",
+   "url": "https://legislature.idaho.gov/statutesrules/idstat/Title22/T22CH22/",
+   "versions": [
+    {
+     "from": "2026-10-15",
+     "units": 24,
+     "source_url": "https://legislature.idaho.gov/statutesrules/idstat/Title22/T22CH22/",
+     "sha256": "136777b46317e4e246565907547caf0e89e6d3f27996200bb5aa161edaa1972d"
+    }
+   ]
+  },
+  {
+   "slug": "title-0022-chapter-0023",
+   "short": "Idaho Code tit. 22, ch. 23",
+   "title": "Idaho Statutes, Title 22 (Agriculture and horticulture), Chapter 23: Nurseries and florists",
+   "url": "https://legislature.idaho.gov/statutesrules/idstat/Title22/T22CH23/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 25,
+     "source_url": "https://legislature.idaho.gov/statutesrules/idstat/Title22/T22CH23/",
+     "sha256": "c9d5840ebbdbc7aa0b833e05f98f44053216cfdda75b3b4bc38dfd131d0d1d2d"
+    }
+   ]
+  },
+  {
+   "slug": "title-0022-chapter-0025",
+   "short": "Idaho Code tit. 22, ch. 25",
+   "title": "Idaho Statutes, Title 22 (Agriculture and horticulture), Chapter 25: Bee inspection",
+   "url": "https://legislature.idaho.gov/statutesrules/idstat/Title22/T22CH25/",
+   "versions": [
+    {
+     "from": "2026-10-10",
+     "units": 13,
+     "source_url": "https://legislature.idaho.gov/statutesrules/idstat/Title22/T22CH25/",
+     "sha256": "1f319881ea8b51e4ff3dbec07b664bef65fda797796271d225e3452ebb981c1d"
+    }
+   ]
+  },
+  {
+   "slug": "title-0022-chapter-0027",
+   "short": "Idaho Code tit. 22, ch. 27",
+   "title": "Idaho Statutes, Title 22 (Agriculture and horticulture), Chapter 27: Soil conservation districts",
+   "url": "https://legislature.idaho.gov/statutesrules/idstat/Title22/T22CH27/",
+   "versions": [
+    {
+     "from": "2026-10-10",
+     "units": 19,
+     "source_url": "https://legislature.idaho.gov/statutesrules/idstat/Title22/T22CH27/",
+     "sha256": "b035d7fff96679917d5ab0fb1cb1313ba78c07142e20af862d23cdb33215ce1f"
+    }
+   ]
+  },
+  {
+   "slug": "title-0022-chapter-0028",
+   "short": "Idaho Code tit. 22, ch. 28",
+   "title": "Idaho Statutes, Title 22 (Agriculture and horticulture), Chapter 28: Honey industry",
+   "url": "https://legislature.idaho.gov/statutesrules/idstat/Title22/T22CH28/",
+   "versions": [
+    {
+     "from": "2026-06-09",
+     "units": 15,
+     "source_url": "https://legislature.idaho.gov/statutesrules/idstat/Title22/T22CH28/",
+     "sha256": "16e0e468b73673558600486b7cb934e0a565c3b52adbc6ab1f8cf2e51a0f65a8"
+    }
+   ]
+  },
+  {
+   "slug": "title-0022-chapter-0031",
+   "short": "Idaho Code tit. 22, ch. 31",
+   "title": "Idaho Statutes, Title 22 (Agriculture and horticulture), Chapter 31: Hops - promotion of industry",
+   "url": "https://legislature.idaho.gov/statutesrules/idstat/Title22/T22CH31/",
+   "versions": [
+    {
+     "from": "2026-10-18",
+     "units": 18,
+     "source_url": "https://legislature.idaho.gov/statutesrules/idstat/Title22/T22CH31/",
+     "sha256": "159effd2d04adb7e1ebe7396b6a769e0bc802a2228d45a8ef92f9316aae4af31"
+    }
+   ]
+  },
+  {
+   "slug": "title-0022-chapter-0034",
+   "short": "Idaho Code tit. 22, ch. 34",
+   "title": "Idaho Statutes, Title 22 (Agriculture and horticulture), Chapter 34: Pesticides and chemigation",
+   "url": "https://legislature.idaho.gov/statutesrules/idstat/Title22/T22CH34/",
+   "versions": [
+    {
+     "from": "2026-10-16",
+     "units": 31,
+     "source_url": "https://legislature.idaho.gov/statutesrules/idstat/Title22/T22CH34/",
+     "sha256": "2ec99c5ef1f740b47ed2cd6a935447747daa31898b20eda4678e606087e35c74"
+    }
+   ]
+  },
+  {
+   "slug": "title-0022-chapter-0035",
+   "short": "Idaho Code tit. 22, ch. 35",
+   "title": "Idaho Statutes, Title 22 (Agriculture and horticulture), Chapter 35: Pea and lentil commission",
+   "url": "https://legislature.idaho.gov/statutesrules/idstat/Title22/T22CH35/",
+   "versions": [
+    {
+     "from": "2026-10-15",
+     "units": 18,
+     "source_url": "https://legislature.idaho.gov/statutesrules/idstat/Title22/T22CH35/",
+     "sha256": "1ea5e7cbd7f0f5e9efefce0946e0912d1b64996517663376439b5e6504c85d19"
+    }
+   ]
+  },
+  {
+   "slug": "title-0022-chapter-0038",
+   "short": "Idaho Code tit. 22, ch. 38",
+   "title": "Idaho Statutes, Title 22 (Agriculture and horticulture), Chapter 38: Mint industry act",
+   "url": "https://legislature.idaho.gov/statutesrules/idstat/Title22/T22CH38/",
+   "versions": [
+    {
+     "from": "2026-05-10",
+     "units": 16,
+     "source_url": "https://legislature.idaho.gov/statutesrules/idstat/Title22/T22CH38/",
+     "sha256": "533c770a519666f01237dd8962f2e6b357e025ad02d7e6c9e8d987c779d86838"
+    }
+   ]
+  },
+  {
+   "slug": "title-0022-chapter-0039",
+   "short": "Idaho Code tit. 22, ch. 39",
+   "title": "Idaho Statutes, Title 22 (Agriculture and horticulture), Chapter 39: Deduction of dues to grower or producer organizations",
+   "url": "https://legislature.idaho.gov/statutesrules/idstat/Title22/T22CH39/",
+   "versions": [
+    {
+     "from": "2026-07-10",
+     "units": 6,
+     "source_url": "https://legislature.idaho.gov/statutesrules/idstat/Title22/T22CH39/",
+     "sha256": "9596c91eea6aaa892d29b4c678ac5e2fcb92460a88f5942eca33c0dd9c4e67b3"
+    }
+   ]
+  },
+  {
+   "slug": "title-0022-chapter-0040",
+   "short": "Idaho Code tit. 22, ch. 40",
+   "title": "Idaho Statutes, Title 22 (Agriculture and horticulture), Chapter 40: Barley - promotion of marketing",
+   "url": "https://legislature.idaho.gov/statutesrules/idstat/Title22/T22CH40/",
+   "versions": [
+    {
+     "from": "2026-10-12",
+     "units": 19,
+     "source_url": "https://legislature.idaho.gov/statutesrules/idstat/Title22/T22CH40/",
+     "sha256": "134564ae811698f987c731d05fa802d512a8b594bbe82e3cffd01c96099ce9d8"
+    }
+   ]
+  },
+  {
+   "slug": "title-0022-chapter-0045",
+   "short": "Idaho Code tit. 22, ch. 45",
+   "title": "Idaho Statutes, Title 22 (Agriculture and horticulture), Chapter 45: Right to farm",
+   "url": "https://legislature.idaho.gov/statutesrules/idstat/Title22/T22CH45/",
+   "versions": [
+    {
+     "from": "2026-09-05",
+     "units": 6,
+     "source_url": "https://legislature.idaho.gov/statutesrules/idstat/Title22/T22CH45/",
+     "sha256": "db667bc140cc7d74808f4836af9ca11a9b28a58077d65efe4e37ef4d09b8cd53"
+    }
+   ]
+  },
+  {
+   "slug": "title-0022-chapter-0046",
+   "short": "Idaho Code tit. 22, ch. 46",
+   "title": "Idaho Statutes, Title 22 (Agriculture and horticulture), Chapter 46: Commercial fish facilities",
+   "url": "https://legislature.idaho.gov/statutesrules/idstat/Title22/T22CH46/",
+   "versions": [
+    {
+     "from": "2026-09-14",
+     "units": 5,
+     "source_url": "https://legislature.idaho.gov/statutesrules/idstat/Title22/T22CH46/",
+     "sha256": "ec8dbdf5f7629da297097550bae3490722d532196732c14e425bc9614ae9835f"
+    }
+   ]
+  },
+  {
+   "slug": "title-0022-chapter-0047",
+   "short": "Idaho Code tit. 22, ch. 47",
+   "title": "Idaho Statutes, Title 22 (Agriculture and horticulture), Chapter 47: Idaho oilseed research and development act",
+   "url": "https://legislature.idaho.gov/statutesrules/idstat/Title22/T22CH47/",
+   "versions": [
+    {
+     "from": "2026-10-18",
+     "units": 21,
+     "source_url": "https://legislature.idaho.gov/statutesrules/idstat/Title22/T22CH47/",
+     "sha256": "d2984eb1b449f89769e2d4ee0dd0fe179f6994725de46ad3273b4a0fb9ce0afb"
+    }
+   ]
+  },
+  {
+   "slug": "title-0022-chapter-0050",
+   "short": "Idaho Code tit. 22, ch. 50",
+   "title": "Idaho Statutes, Title 22 (Agriculture and horticulture), Chapter 50: Crop product destruction",
+   "url": "https://legislature.idaho.gov/statutesrules/idstat/Title22/T22CH50/",
+   "versions": [
+    {
+     "from": "2026-09-08",
+     "units": 1,
+     "source_url": "https://legislature.idaho.gov/statutesrules/idstat/Title22/T22CH50/",
+     "sha256": "2d9cab23d9a2a83012fe911415db65b5d1c1804893c9616fa4b6026d4d3b73bb"
+    }
+   ]
+  },
+  {
+   "slug": "title-0022-chapter-0053",
+   "short": "Idaho Code tit. 22, ch. 53",
+   "title": "Idaho Statutes, Title 22 (Agriculture and horticulture), Chapter 53: Idaho wolf depredation control board",
+   "url": "https://legislature.idaho.gov/statutesrules/idstat/Title22/T22CH53/",
+   "versions": [
+    {
+     "from": "2026-09-11",
+     "units": 6,
+     "source_url": "https://legislature.idaho.gov/statutesrules/idstat/Title22/T22CH53/",
+     "sha256": "c14b9c8eefec4b1aaccf54a07ce270bf3fd4a659be246530d1942df5795f2797"
+    }
+   ]
+  },
+  {
+   "slug": "title-0022-chapter-0054",
+   "short": "Idaho Code tit. 22, ch. 54",
+   "title": "Idaho Statutes, Title 22 (Agriculture and horticulture), Chapter 54: Idaho produce safety",
+   "url": "https://legislature.idaho.gov/statutesrules/idstat/Title22/T22CH54/",
+   "versions": [
+    {
+     "from": "2026-10-17",
+     "units": 7,
+     "source_url": "https://legislature.idaho.gov/statutesrules/idstat/Title22/T22CH54/",
+     "sha256": "2cb7459cb11e0d43fe6d9be5af2a96142b9b3987b289dbdacdccc55dea470b34"
+    }
+   ]
+  },
+  {
+   "slug": "title-0022-chapter-0055",
+   "short": "Idaho Code tit. 22, ch. 55",
+   "title": "Idaho Statutes, Title 22 (Agriculture and horticulture), Chapter 55: Idaho Depredating Wildlife Appeals Board",
+   "url": "https://legislature.idaho.gov/statutesrules/idstat/Title22/T22CH55/",
+   "versions": [
+    {
+     "from": "2026-06-16",
+     "units": 1,
+     "source_url": "https://legislature.idaho.gov/statutesrules/idstat/Title22/T22CH55/",
+     "sha256": "bf4251090ef24cb2048ba5d4f04c42562059ac76c1312f779e0a1e20c415bc0d"
+    }
+   ]
+  },
+  {
    "slug": "title-0022-chapter-0001",
    "short": "Idaho Code tit. 22, ch. 1",
    "title": "Idaho Statutes, Title 22 (Agriculture and horticulture), Chapter 1: Department of agriculture",
@@ -1706,6 +1972,188 @@
      "units": 19,
      "source_url": "https://legislature.idaho.gov/statutesrules/idstat/Title22/T22CH19/",
      "sha256": "cbc032797d272fe8071e365c6559677abe9ecad6edf9baa582a1ca39a1b4d7e5"
+    }
+   ]
+  },
+  {
+   "slug": "title-0023-chapter-0002",
+   "short": "Idaho Code tit. 23, ch. 2",
+   "title": "Idaho Statutes, Title 23 (Alcoholic beverages), Chapter 2: State liquor division",
+   "url": "https://legislature.idaho.gov/statutesrules/idstat/Title23/T23CH2/",
+   "versions": [
+    {
+     "from": "2026-10-15",
+     "units": 11,
+     "source_url": "https://legislature.idaho.gov/statutesrules/idstat/Title23/T23CH2/",
+     "sha256": "4366acfee31f34933a59efafe5be1319af486786a46d0797da17f39a9f5c326e"
+    }
+   ]
+  },
+  {
+   "slug": "title-0023-chapter-0003",
+   "short": "Idaho Code tit. 23, ch. 3",
+   "title": "Idaho Statutes, Title 23 (Alcoholic beverages), Chapter 3: Local liquor stores and distributing stations",
+   "url": "https://legislature.idaho.gov/statutesrules/idstat/Title23/T23CH3/",
+   "versions": [
+    {
+     "from": "2026-10-06",
+     "units": 17,
+     "source_url": "https://legislature.idaho.gov/statutesrules/idstat/Title23/T23CH3/",
+     "sha256": "14bb67f3c485ebd537af8e28b48487b771869bdb5139442ea04d15277bb56023"
+    }
+   ]
+  },
+  {
+   "slug": "title-0023-chapter-0004",
+   "short": "Idaho Code tit. 23, ch. 4",
+   "title": "Idaho Statutes, Title 23 (Alcoholic beverages), Chapter 4: Liquor fund",
+   "url": "https://legislature.idaho.gov/statutesrules/idstat/Title23/T23CH4/",
+   "versions": [
+    {
+     "from": "2026-10-18",
+     "units": 8,
+     "source_url": "https://legislature.idaho.gov/statutesrules/idstat/Title23/T23CH4/",
+     "sha256": "3f9459e1003e90fbfadc7fa5dc2047485347895c8b87d46acd37fc56485b422c"
+    }
+   ]
+  },
+  {
+   "slug": "title-0023-chapter-0005",
+   "short": "Idaho Code tit. 23, ch. 5",
+   "title": "Idaho Statutes, Title 23 (Alcoholic beverages), Chapter 5: Permits and licenses",
+   "url": "https://legislature.idaho.gov/statutesrules/idstat/Title23/T23CH5/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 22,
+     "source_url": "https://legislature.idaho.gov/statutesrules/idstat/Title23/T23CH5/",
+     "sha256": "81ba7f686177b5eaab33dd6de15e7a90432bb219cccac836ac9598063955a58b"
+    }
+   ]
+  },
+  {
+   "slug": "title-0025-chapter-0004",
+   "short": "Idaho Code tit. 25, ch. 4",
+   "title": "Idaho Statutes, Title 25 (Animals), Chapter 4: Livestock disease control - tuberculosis",
+   "url": "https://legislature.idaho.gov/statutesrules/idstat/Title25/T25CH4/",
+   "versions": [
+    {
+     "from": "2026-08-15",
+     "units": 3,
+     "source_url": "https://legislature.idaho.gov/statutesrules/idstat/Title25/T25CH4/",
+     "sha256": "cd30e1a29a37920b3c7bc7bd4442d996001de7a681df90fb3292bff50d74e925"
+    }
+   ]
+  },
+  {
+   "slug": "title-0025-chapter-0011",
+   "short": "Idaho Code tit. 25, ch. 11",
+   "title": "Idaho Statutes, Title 25 (Animals), Chapter 11: State brand board",
+   "url": "https://legislature.idaho.gov/statutesrules/idstat/Title25/T25CH11/",
+   "versions": [
+    {
+     "from": "2026-09-14",
+     "units": 39,
+     "source_url": "https://legislature.idaho.gov/statutesrules/idstat/Title25/T25CH11/",
+     "sha256": "2cd20f67cffedb0950b8ab2ce80d3187f9043194774e77b9a91136eb0cafc00b"
+    }
+   ]
+  },
+  {
+   "slug": "title-0025-chapter-0013",
+   "short": "Idaho Code tit. 25, ch. 13",
+   "title": "Idaho Statutes, Title 25 (Animals), Chapter 13: Driving from range or herding livestock",
+   "url": "https://legislature.idaho.gov/statutesrules/idstat/Title25/T25CH13/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 4,
+     "source_url": "https://legislature.idaho.gov/statutesrules/idstat/Title25/T25CH13/",
+     "sha256": "a4336b79adda3a5745700f130683beecf7d36f7180b8a712d5e0eade94f7a005"
+    }
+   ]
+  },
+  {
+   "slug": "title-0025-chapter-0016",
+   "short": "Idaho Code tit. 25, ch. 16",
+   "title": "Idaho Statutes, Title 25 (Animals), Chapter 16: Record of brands on slaughtered cattle",
+   "url": "https://legislature.idaho.gov/statutesrules/idstat/Title25/T25CH16/",
+   "versions": [
+    {
+     "from": "2026-05-16",
+     "units": 1,
+     "source_url": "https://legislature.idaho.gov/statutesrules/idstat/Title25/T25CH16/",
+     "sha256": "35dc10f0349cc1e370d0b29d863f30930da58912953673e128fe1740531dbad1"
+    }
+   ]
+  },
+  {
+   "slug": "title-0025-chapter-0020",
+   "short": "Idaho Code tit. 25, ch. 20",
+   "title": "Idaho Statutes, Title 25 (Animals), Chapter 20: Leases of livestock",
+   "url": "https://legislature.idaho.gov/statutesrules/idstat/Title25/T25CH20/",
+   "versions": [
+    {
+     "from": "2026-08-14",
+     "units": 1,
+     "source_url": "https://legislature.idaho.gov/statutesrules/idstat/Title25/T25CH20/",
+     "sha256": "b3916d573d0c6816816cedc7701920228167b6d1315bbd9f02cd7bd486e8488c"
+    }
+   ]
+  },
+  {
+   "slug": "title-0025-chapter-0023",
+   "short": "Idaho Code tit. 25, ch. 23",
+   "title": "Idaho Statutes, Title 25 (Animals), Chapter 23: Estrays",
+   "url": "https://legislature.idaho.gov/statutesrules/idstat/Title25/T25CH23/",
+   "versions": [
+    {
+     "from": "2026-08-16",
+     "units": 13,
+     "source_url": "https://legislature.idaho.gov/statutesrules/idstat/Title25/T25CH23/",
+     "sha256": "fb4d0a7c98108ee66247da95c220592c94d2d92f3f373a835629b18676ce1e08"
+    }
+   ]
+  },
+  {
+   "slug": "title-0025-chapter-0026",
+   "short": "Idaho Code tit. 25, ch. 26",
+   "title": "Idaho Statutes, Title 25 (Animals), Chapter 26: Extermination of wild animals and pests in counties",
+   "url": "https://legislature.idaho.gov/statutesrules/idstat/Title25/T25CH26/",
+   "versions": [
+    {
+     "from": "2026-10-08",
+     "units": 14,
+     "source_url": "https://legislature.idaho.gov/statutesrules/idstat/Title25/T25CH26/",
+     "sha256": "e0856430615d0607859dbf67f3882c751159e979f819bf0ce7fb011d9c66a46a"
+    }
+   ]
+  },
+  {
+   "slug": "title-0025-chapter-0028",
+   "short": "Idaho Code tit. 25, ch. 28",
+   "title": "Idaho Statutes, Title 25 (Animals), Chapter 28: Dogs",
+   "url": "https://legislature.idaho.gov/statutesrules/idstat/Title25/T25CH28/",
+   "versions": [
+    {
+     "from": "2026-10-10",
+     "units": 12,
+     "source_url": "https://legislature.idaho.gov/statutesrules/idstat/Title25/T25CH28/",
+     "sha256": "0aa696d89c0fa4e5a533e28d8607bb8a9593a01f6c343304402a015773adfd52"
+    }
+   ]
+  },
+  {
+   "slug": "title-0025-chapter-0031",
+   "short": "Idaho Code tit. 25, ch. 31",
+   "title": "Idaho Statutes, Title 25 (Animals), Chapter 31: Dairy products - marketing",
+   "url": "https://legislature.idaho.gov/statutesrules/idstat/Title25/T25CH31/",
+   "versions": [
+    {
+     "from": "2026-10-18",
+     "units": 23,
+     "source_url": "https://legislature.idaho.gov/statutesrules/idstat/Title25/T25CH31/",
+     "sha256": "69aa78f331d11f6e065e0acdb59f79f74581f2dd32b01bdb6fe0aa56a81ef467"
     }
    ]
   },
