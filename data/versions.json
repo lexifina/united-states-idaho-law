@@ -4580,6 +4580,34 @@
    ]
   },
   {
+   "slug": "title-0046-chapter-0006",
+   "short": "Idaho Code tit. 46, ch. 6",
+   "title": "Idaho Statutes, Title 46 (Militia and military affairs), Chapter 6: Martial law and active duty",
+   "url": "https://legislature.idaho.gov/statutesrules/idstat/Title46/T46CH6/",
+   "versions": [
+    {
+     "from": "2026-09-04",
+     "units": 6,
+     "source_url": "https://legislature.idaho.gov/statutesrules/idstat/Title46/T46CH6/",
+     "sha256": "3b771021ff7b3b9325f84b6897394ea7fb44d3c02de48fe8047ea9d39edd31db"
+    }
+   ]
+  },
+  {
+   "slug": "title-0046-chapter-0008",
+   "short": "Idaho Code tit. 46, ch. 8",
+   "title": "Idaho Statutes, Title 46 (Militia and military affairs), Chapter 8: Miscellaneous and general provisions",
+   "url": "https://legislature.idaho.gov/statutesrules/idstat/Title46/T46CH8/",
+   "versions": [
+    {
+     "from": "2026-09-11",
+     "units": 6,
+     "source_url": "https://legislature.idaho.gov/statutesrules/idstat/Title46/T46CH8/",
+     "sha256": "501213eec6361c7029fa80cb9e705016241ef22e881204a84e03b9cdba331408"
+    }
+   ]
+  },
+  {
    "slug": "title-0046-chapter-0002",
    "short": "Idaho Code tit. 46, ch. 2",
    "title": "Idaho Statutes, Title 46 (Militia and military affairs), Chapter 2: Officers and enlisted personnel",
@@ -4604,6 +4632,272 @@
      "units": 9,
      "source_url": "https://legislature.idaho.gov/statutesrules/idstat/Title46/T46CH4/",
      "sha256": "d9de68a80c5d2b1e7342d5b8946bed2cedaa925ede917af908dbaac9ee6a9bfd"
+    }
+   ]
+  },
+  {
+   "slug": "title-0047-chapter-0002",
+   "short": "Idaho Code tit. 47, ch. 2",
+   "title": "Idaho Statutes, Title 47 (Mines and mining), Chapter 2: Idaho geological survey",
+   "url": "https://legislature.idaho.gov/statutesrules/idstat/Title47/T47CH2/",
+   "versions": [
+    {
+     "from": "2026-10-09",
+     "units": 4,
+     "source_url": "https://legislature.idaho.gov/statutesrules/idstat/Title47/T47CH2/",
+     "sha256": "3254876f660fc75c3fcb09c765e603d6fb416729ceabfba55beaaf0b24fa21c7"
+    }
+   ]
+  },
+  {
+   "slug": "title-0047-chapter-0006",
+   "short": "Idaho Code tit. 47, ch. 6",
+   "title": "Idaho Statutes, Title 47 (Mines and mining), Chapter 6: Location of mining claims",
+   "url": "https://legislature.idaho.gov/statutesrules/idstat/Title47/T47CH6/",
+   "versions": [
+    {
+     "from": "2026-09-14",
+     "units": 14,
+     "source_url": "https://legislature.idaho.gov/statutesrules/idstat/Title47/T47CH6/",
+     "sha256": "323ed9a29f7acfd3e69f42a993966c7888a961a4ccc2e3697373cfe771813ef7"
+    }
+   ]
+  },
+  {
+   "slug": "title-0047-chapter-0007",
+   "short": "Idaho Code tit. 47, ch. 7",
+   "title": "Idaho Statutes, Title 47 (Mines and mining), Chapter 7: Mineral rights in state lands",
+   "url": "https://legislature.idaho.gov/statutesrules/idstat/Title47/T47CH7/",
+   "versions": [
+    {
+     "from": "2026-10-10",
+     "units": 20,
+     "source_url": "https://legislature.idaho.gov/statutesrules/idstat/Title47/T47CH7/",
+     "sha256": "d91e3772f4ec5cc787c4234b37dbfa2be6b89a0774123f1980bcb27e45373ffa"
+    }
+   ]
+  },
+  {
+   "slug": "title-0047-chapter-0008",
+   "short": "Idaho Code tit. 47, ch. 8",
+   "title": "Idaho Statutes, Title 47 (Mines and mining), Chapter 8: Oil and gas leases on state and school lands",
+   "url": "https://legislature.idaho.gov/statutesrules/idstat/Title47/T47CH8/",
+   "versions": [
+    {
+     "from": "2026-08-19",
+     "units": 11,
+     "source_url": "https://legislature.idaho.gov/statutesrules/idstat/Title47/T47CH8/",
+     "sha256": "936d6ac7adf9445582b41506eb2087c2a293bad6867fc4c83ba1916816e86314"
+    }
+   ]
+  },
+  {
+   "slug": "title-0047-chapter-0012",
+   "short": "Idaho Code tit. 47, ch. 12",
+   "title": "Idaho Statutes, Title 47 (Mines and mining), Chapter 12: License tax for privilege of mining and extracting ores",
+   "url": "https://legislature.idaho.gov/statutesrules/idstat/Title47/T47CH12/",
+   "versions": [
+    {
+     "from": "2026-10-09",
+     "units": 7,
+     "source_url": "https://legislature.idaho.gov/statutesrules/idstat/Title47/T47CH12/",
+     "sha256": "75fc9c1248fa5ab3b230a2d744f9d3f68f011fcf3a775e8756904c289bfb27b1"
+    }
+   ]
+  },
+  {
+   "slug": "title-0047-chapter-0013",
+   "short": "Idaho Code tit. 47, ch. 13",
+   "title": "Idaho Statutes, Title 47 (Mines and mining), Chapter 13: Dredge mining",
+   "url": "https://legislature.idaho.gov/statutesrules/idstat/Title47/T47CH13/",
+   "versions": [
+    {
+     "from": "2026-06-09",
+     "units": 12,
+     "source_url": "https://legislature.idaho.gov/statutesrules/idstat/Title47/T47CH13/",
+     "sha256": "bb42c5d9bd35381a2f68dcc85ba2d379597a6b17a7154fd42882842bb9c96b18"
+    }
+   ]
+  },
+  {
+   "slug": "title-0047-chapter-0015",
+   "short": "Idaho Code tit. 47, ch. 15",
+   "title": "Idaho Statutes, Title 47 (Mines and mining), Chapter 15: Mined land reclamation",
+   "url": "https://legislature.idaho.gov/statutesrules/idstat/Title47/T47CH15/",
+   "versions": [
+    {
+     "from": "2026-09-16",
+     "units": 19,
+     "source_url": "https://legislature.idaho.gov/statutesrules/idstat/Title47/T47CH15/",
+     "sha256": "feb9d9ea9db6bc6067919dc806b41ccb08251f91b6ccbbfca2d79b69c80f733d"
+    }
+   ]
+  },
+  {
+   "slug": "title-0047-chapter-0016",
+   "short": "Idaho Code tit. 47, ch. 16",
+   "title": "Idaho Statutes, Title 47 (Mines and mining), Chapter 16: Geothermal resources",
+   "url": "https://legislature.idaho.gov/statutesrules/idstat/Title47/T47CH16/",
+   "versions": [
+    {
+     "from": "2026-09-11",
+     "units": 11,
+     "source_url": "https://legislature.idaho.gov/statutesrules/idstat/Title47/T47CH16/",
+     "sha256": "20727ad06d1d153c3f8cdc1fe4e635aae7dd371b8ba1f6a4d938c3c5d6c15f98"
+    }
+   ]
+  },
+  {
+   "slug": "title-0048-chapter-0003",
+   "short": "Idaho Code tit. 48, ch. 3",
+   "title": "Idaho Statutes, Title 48 (Monopolies and trade practices), Chapter 3: Idaho patient act",
+   "url": "https://legislature.idaho.gov/statutesrules/idstat/Title48/T48CH3/",
+   "versions": [
+    {
+     "from": "2026-10-17",
+     "units": 15,
+     "source_url": "https://legislature.idaho.gov/statutesrules/idstat/Title48/T48CH3/",
+     "sha256": "2952c75c27b21847772c76a0b9ea7b424df07a0ab74bcaca7a62f3d3a7c7816e"
+    }
+   ]
+  },
+  {
+   "slug": "title-0048-chapter-0011",
+   "short": "Idaho Code tit. 48, ch. 11",
+   "title": "Idaho Statutes, Title 48 (Monopolies and trade practices), Chapter 11: Idaho pay-per-telephone call act",
+   "url": "https://legislature.idaho.gov/statutesrules/idstat/Title48/T48CH11/",
+   "versions": [
+    {
+     "from": "2026-07-14",
+     "units": 8,
+     "source_url": "https://legislature.idaho.gov/statutesrules/idstat/Title48/T48CH11/",
+     "sha256": "5d1d1c1e0ae89bd31991d7a27bcb4f8e410923a7fb8193d5190f73b11a597eef"
+    }
+   ]
+  },
+  {
+   "slug": "title-0048-chapter-0013",
+   "short": "Idaho Code tit. 48, ch. 13",
+   "title": "Idaho Statutes, Title 48 (Monopolies and trade practices), Chapter 13: Music licensing and copyright enforcement act",
+   "url": "https://legislature.idaho.gov/statutesrules/idstat/Title48/T48CH13/",
+   "versions": [
+    {
+     "from": "2026-10-18",
+     "units": 8,
+     "source_url": "https://legislature.idaho.gov/statutesrules/idstat/Title48/T48CH13/",
+     "sha256": "24cc9c77c539c89a19e2d2c8e13b81321855b4c5617f4bda54c5be902263b0d6"
+    }
+   ]
+  },
+  {
+   "slug": "title-0048-chapter-0014",
+   "short": "Idaho Code tit. 48, ch. 14",
+   "title": "Idaho Statutes, Title 48 (Monopolies and trade practices), Chapter 14: Assistive technology warranty act",
+   "url": "https://legislature.idaho.gov/statutesrules/idstat/Title48/T48CH14/",
+   "versions": [
+    {
+     "from": "2026-10-17",
+     "units": 7,
+     "source_url": "https://legislature.idaho.gov/statutesrules/idstat/Title48/T48CH14/",
+     "sha256": "7d8a5ba7c8d49238e7981340adc2165cb6b98206b7bc035877a3a367743732c5"
+    }
+   ]
+  },
+  {
+   "slug": "title-0049-chapter-0005",
+   "short": "Idaho Code tit. 49, ch. 5",
+   "title": "Idaho Statutes, Title 49 (Motor vehicles), Chapter 5: Vehicle titles",
+   "url": "https://legislature.idaho.gov/statutesrules/idstat/Title49/T49CH5/",
+   "versions": [
+    {
+     "from": "2026-10-16",
+     "units": 34,
+     "source_url": "https://legislature.idaho.gov/statutesrules/idstat/Title49/T49CH5/",
+     "sha256": "6ccaa0f463d1ba89d6e36eb135d63409c72eb3f05358d0d28c4394d7d0f6aca0"
+    }
+   ]
+  },
+  {
+   "slug": "title-0049-chapter-0007",
+   "short": "Idaho Code tit. 49, ch. 7",
+   "title": "Idaho Statutes, Title 49 (Motor vehicles), Chapter 7: Pedestrians and bicycles",
+   "url": "https://legislature.idaho.gov/statutesrules/idstat/Title49/T49CH7/",
+   "versions": [
+    {
+     "from": "2026-10-17",
+     "units": 27,
+     "source_url": "https://legislature.idaho.gov/statutesrules/idstat/Title49/T49CH7/",
+     "sha256": "4169aa0c3276b3d1c5a69ebeb84acab2e14f180bd5f4958cd72f48be965761f4"
+    }
+   ]
+  },
+  {
+   "slug": "title-0049-chapter-0008",
+   "short": "Idaho Code tit. 49, ch. 8",
+   "title": "Idaho Statutes, Title 49 (Motor vehicles), Chapter 8: Signs, signals and markings",
+   "url": "https://legislature.idaho.gov/statutesrules/idstat/Title49/T49CH8/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 11,
+     "source_url": "https://legislature.idaho.gov/statutesrules/idstat/Title49/T49CH8/",
+     "sha256": "d29885450131b79ae9d6737d4eb6a33451478ef470a7f31d8f3b7300e1d81a82"
+    }
+   ]
+  },
+  {
+   "slug": "title-0049-chapter-0013",
+   "short": "Idaho Code tit. 49, ch. 13",
+   "title": "Idaho Statutes, Title 49 (Motor vehicles), Chapter 13: Accidents",
+   "url": "https://legislature.idaho.gov/statutesrules/idstat/Title49/T49CH13/",
+   "versions": [
+    {
+     "from": "2026-10-14",
+     "units": 16,
+     "source_url": "https://legislature.idaho.gov/statutesrules/idstat/Title49/T49CH13/",
+     "sha256": "22e3dca39b50e7dde2803da6e43111ae0e15ff34232be874aae8ef631a2336c4"
+    }
+   ]
+  },
+  {
+   "slug": "title-0049-chapter-0014",
+   "short": "Idaho Code tit. 49, ch. 14",
+   "title": "Idaho Statutes, Title 49 (Motor vehicles), Chapter 14: Traffic - enforcement and general provisions",
+   "url": "https://legislature.idaho.gov/statutesrules/idstat/Title49/T49CH14/",
+   "versions": [
+    {
+     "from": "2026-10-18",
+     "units": 34,
+     "source_url": "https://legislature.idaho.gov/statutesrules/idstat/Title49/T49CH14/",
+     "sha256": "1dfda9a9e6704259f62bacc7771837c4c41a58619772877e2ef7e81be10e7fef"
+    }
+   ]
+  },
+  {
+   "slug": "title-0049-chapter-0020",
+   "short": "Idaho Code tit. 49, ch. 20",
+   "title": "Idaho Statutes, Title 49 (Motor vehicles), Chapter 20: Driver license compact",
+   "url": "https://legislature.idaho.gov/statutesrules/idstat/Title49/T49CH20/",
+   "versions": [
+    {
+     "from": "2026-05-19",
+     "units": 3,
+     "source_url": "https://legislature.idaho.gov/statutesrules/idstat/Title49/T49CH20/",
+     "sha256": "5d9ae94399f7752f7501c7c5a3f64dc6e999a0cf40b7d7b29bf04348668fabf3"
+    }
+   ]
+  },
+  {
+   "slug": "title-0049-chapter-0025",
+   "short": "Idaho Code tit. 49, ch. 25",
+   "title": "Idaho Statutes, Title 49 (Motor vehicles), Chapter 25: Nonresident violator compact",
+   "url": "https://legislature.idaho.gov/statutesrules/idstat/Title49/T49CH25/",
+   "versions": [
+    {
+     "from": "2026-10-17",
+     "units": 1,
+     "source_url": "https://legislature.idaho.gov/statutesrules/idstat/Title49/T49CH25/",
+     "sha256": "ba7dea37340fd484fc2eb937ba4e52f5e5323ea678f16ea1f2678d03075d08be"
     }
    ]
   },
