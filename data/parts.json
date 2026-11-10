@@ -578,6 +578,13 @@
    ],
    "sha256": "67b2cbfdaad66e8574147d615e8b5aac0071f0d11dff481697b067dc93033aef"
   },
+  "title-54.json": {
+   "acts": [
+    "title-0054-chapter-0004",
+    "title-0054-chapter-0006"
+   ],
+   "sha256": "dea6d4af405cf0bc18f87a778e8fe6ac89aef149e793fd159f4a76224b078d2c"
+  },
   "title-55.json": {
    "acts": [
     "title-0055-chapter-0001",

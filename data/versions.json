@@ -4958,6 +4958,34 @@
    ]
   },
   {
+   "slug": "title-0054-chapter-0004",
+   "short": "Idaho Code tit. 54, ch. 4",
+   "title": "Idaho Statutes, Title 54 (Professions, vocations, and businesses), Chapter 4: State athletic commission",
+   "url": "https://legislature.idaho.gov/statutesrules/idstat/Title54/T54CH4/",
+   "versions": [
+    {
+     "from": "2026-10-17",
+     "units": 22,
+     "source_url": "https://legislature.idaho.gov/statutesrules/idstat/Title54/T54CH4/",
+     "sha256": "72d16c840e2dc4e6d8ee9d2f6876ba12001baf94be9c65953b3f1686d91949b1"
+    }
+   ]
+  },
+  {
+   "slug": "title-0054-chapter-0006",
+   "short": "Idaho Code tit. 54, ch. 6",
+   "title": "Idaho Statutes, Title 54 (Professions, vocations, and businesses), Chapter 6: Podiatric medical practice act",
+   "url": "https://legislature.idaho.gov/statutesrules/idstat/Title54/T54CH6/",
+   "versions": [
+    {
+     "from": "2026-10-17",
+     "units": 11,
+     "source_url": "https://legislature.idaho.gov/statutesrules/idstat/Title54/T54CH6/",
+     "sha256": "78f7a5e385f344df8750a333dc7a6485efbed010cc1db528c32a2d3d1cf365a5"
+    }
+   ]
+  },
+  {
    "slug": "title-0055-chapter-0001",
    "short": "Idaho Code tit. 55, ch. 1",
    "title": "Idaho Statutes, Title 55 (Property in general), Chapter 1: Property and ownership - general provisions",
