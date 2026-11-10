@@ -3124,6 +3124,34 @@
    ]
   },
   {
+   "slug": "title-0034-chapter-0021",
+   "short": "Idaho Code tit. 34, ch. 21",
+   "title": "Idaho Statutes, Title 34 (Elections), Chapter 21: Election contests act",
+   "url": "https://legislature.idaho.gov/statutesrules/idstat/Title34/T34CH21/",
+   "versions": [
+    {
+     "from": "2026-10-07",
+     "units": 28,
+     "source_url": "https://legislature.idaho.gov/statutesrules/idstat/Title34/T34CH21/",
+     "sha256": "28312d859910a7bb5684e33cdbd9fd6e3da4561839325e4489a9648b43b360aa"
+    }
+   ]
+  },
+  {
+   "slug": "title-0034-chapter-0023",
+   "short": "Idaho Code tit. 34, ch. 23",
+   "title": "Idaho Statutes, Title 34 (Elections), Chapter 23: Recount of ballots",
+   "url": "https://legislature.idaho.gov/statutesrules/idstat/Title34/T34CH23/",
+   "versions": [
+    {
+     "from": "2026-10-18",
+     "units": 11,
+     "source_url": "https://legislature.idaho.gov/statutesrules/idstat/Title34/T34CH23/",
+     "sha256": "4ccac944696f435c87877883d57dbac02918f2b496515efe55f8c5893c8a6592"
+    }
+   ]
+  },
+  {
    "slug": "title-0034-chapter-0002",
    "short": "Idaho Code tit. 34, ch. 2",
    "title": "Idaho Statutes, Title 34 (Elections), Chapter 2: Duties of officers",
@@ -3190,6 +3218,468 @@
      "units": 37,
      "source_url": "https://legislature.idaho.gov/statutesrules/idstat/Title34/T34CH20/",
      "sha256": "7fc0d805949fe7c77c1f2f3ddf72f8260d90b02f2f970563203a5769c5767bba"
+    }
+   ]
+  },
+  {
+   "slug": "title-0036-chapter-0002",
+   "short": "Idaho Code tit. 36, ch. 2",
+   "title": "Idaho Statutes, Title 36 (Fish and game), Chapter 2: Classifications and definitions",
+   "url": "https://legislature.idaho.gov/statutesrules/idstat/Title36/T36CH2/",
+   "versions": [
+    {
+     "from": "2026-08-14",
+     "units": 2,
+     "source_url": "https://legislature.idaho.gov/statutesrules/idstat/Title36/T36CH2/",
+     "sha256": "97a5f416389bc3dd025c1fa27e97c01ec830da7acbfcb2cfbe0cd77251eb5274"
+    }
+   ]
+  },
+  {
+   "slug": "title-0036-chapter-0004",
+   "short": "Idaho Code tit. 36, ch. 4",
+   "title": "Idaho Statutes, Title 36 (Fish and game), Chapter 4: Licenses to hunt, fish and trap",
+   "url": "https://legislature.idaho.gov/statutesrules/idstat/Title36/T36CH4/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 21,
+     "source_url": "https://legislature.idaho.gov/statutesrules/idstat/Title36/T36CH4/",
+     "sha256": "ea2bf0b04498177f2beeb9319f282718a998a518b74f72925c842d20e9468f8a"
+    }
+   ]
+  },
+  {
+   "slug": "title-0036-chapter-0015",
+   "short": "Idaho Code tit. 36, ch. 15",
+   "title": "Idaho Statutes, Title 36 (Fish and game), Chapter 15: Public safety",
+   "url": "https://legislature.idaho.gov/statutesrules/idstat/Title36/T36CH15/",
+   "versions": [
+    {
+     "from": "2026-10-08",
+     "units": 10,
+     "source_url": "https://legislature.idaho.gov/statutesrules/idstat/Title36/T36CH15/",
+     "sha256": "351a299e2b4680412030fb2150abf8197e759c54f36a29ed161f702a5f72803a"
+    }
+   ]
+  },
+  {
+   "slug": "title-0036-chapter-0016",
+   "short": "Idaho Code tit. 36, ch. 16",
+   "title": "Idaho Statutes, Title 36 (Fish and game), Chapter 16: Recreational trespass - landholder liability limited",
+   "url": "https://legislature.idaho.gov/statutesrules/idstat/Title36/T36CH16/",
+   "versions": [
+    {
+     "from": "2026-10-17",
+     "units": 4,
+     "source_url": "https://legislature.idaho.gov/statutesrules/idstat/Title36/T36CH16/",
+     "sha256": "4d62f27e6d5b5c272c03d367158571d03cfcc3a3745f1db78d8fe596a42494e2"
+    }
+   ]
+  },
+  {
+   "slug": "title-0036-chapter-0021",
+   "short": "Idaho Code tit. 36, ch. 21",
+   "title": "Idaho Statutes, Title 36 (Fish and game), Chapter 21: Outfitters and guides",
+   "url": "https://legislature.idaho.gov/statutesrules/idstat/Title36/T36CH21/",
+   "versions": [
+    {
+     "from": "2026-08-19",
+     "units": 21,
+     "source_url": "https://legislature.idaho.gov/statutesrules/idstat/Title36/T36CH21/",
+     "sha256": "b48c50032caee876f61b54cca166bb6456cd5f6bc669904c3b229e1bdc2a906f"
+    }
+   ]
+  },
+  {
+   "slug": "title-0036-chapter-0023",
+   "short": "Idaho Code tit. 36, ch. 23",
+   "title": "Idaho Statutes, Title 36 (Fish and game), Chapter 23: Wildlife violator compact",
+   "url": "https://legislature.idaho.gov/statutesrules/idstat/Title36/T36CH23/",
+   "versions": [
+    {
+     "from": "2026-05-17",
+     "units": 3,
+     "source_url": "https://legislature.idaho.gov/statutesrules/idstat/Title36/T36CH23/",
+     "sha256": "292153c1e4af1372035a41ed43c7d56498ea56b7cefbf33a1d120322b0570c30"
+    }
+   ]
+  },
+  {
+   "slug": "title-0037-chapter-0001",
+   "short": "Idaho Code tit. 37, ch. 1",
+   "title": "Idaho Statutes, Title 37 (Food, drugs, and oil), Chapter 1: Idaho food, drug and cosmetic act",
+   "url": "https://legislature.idaho.gov/statutesrules/idstat/Title37/T37CH1/",
+   "versions": [
+    {
+     "from": "2026-10-10",
+     "units": 21,
+     "source_url": "https://legislature.idaho.gov/statutesrules/idstat/Title37/T37CH1/",
+     "sha256": "5faa6dabb87ea94d39b4e921f5894fac7c2bb1a81e9809dc9e4ff668dfd993b1"
+    }
+   ]
+  },
+  {
+   "slug": "title-0037-chapter-0002",
+   "short": "Idaho Code tit. 37, ch. 2",
+   "title": "Idaho Statutes, Title 37 (Food, drugs, and oil), Chapter 2: Idaho direct-to-consumer commerce act",
+   "url": "https://legislature.idaho.gov/statutesrules/idstat/Title37/T37CH2/",
+   "versions": [
+    {
+     "from": "2026-10-18",
+     "units": 8,
+     "source_url": "https://legislature.idaho.gov/statutesrules/idstat/Title37/T37CH2/",
+     "sha256": "e8fa4cca2cbdde363830947f84cced0be4f4557f9224bf1f6d33ef6391e99cda"
+    }
+   ]
+  },
+  {
+   "slug": "title-0037-chapter-0005",
+   "short": "Idaho Code tit. 37, ch. 5",
+   "title": "Idaho Statutes, Title 37 (Food, drugs, and oil), Chapter 5: Inspection and licensing of dairy product dealers and establishments - milk components and quality testing",
+   "url": "https://legislature.idaho.gov/statutesrules/idstat/Title37/T37CH5/",
+   "versions": [
+    {
+     "from": "2026-10-10",
+     "units": 14,
+     "source_url": "https://legislature.idaho.gov/statutesrules/idstat/Title37/T37CH5/",
+     "sha256": "3ac52ed17e63de61d4d7ab8433af22cc4ce76019f03ba57e6fa4ae289626ecf2"
+    }
+   ]
+  },
+  {
+   "slug": "title-0037-chapter-0011",
+   "short": "Idaho Code tit. 37, ch. 11",
+   "title": "Idaho Statutes, Title 37 (Food, drugs, and oil), Chapter 11: Acquisition of raw milk",
+   "url": "https://legislature.idaho.gov/statutesrules/idstat/Title37/T37CH11/",
+   "versions": [
+    {
+     "from": "2026-10-15",
+     "units": 2,
+     "source_url": "https://legislature.idaho.gov/statutesrules/idstat/Title37/T37CH11/",
+     "sha256": "c9f25c46063f11ecf62c56e18fabec825e62f2aa90afc97e3f1fc4911f4026cb"
+    }
+   ]
+  },
+  {
+   "slug": "title-0037-chapter-0012",
+   "short": "Idaho Code tit. 37, ch. 12",
+   "title": "Idaho Statutes, Title 37 (Food, drugs, and oil), Chapter 12: Ice cream and frozen desserts",
+   "url": "https://legislature.idaho.gov/statutesrules/idstat/Title37/T37CH12/",
+   "versions": [
+    {
+     "from": "2026-04-15",
+     "units": 5,
+     "source_url": "https://legislature.idaho.gov/statutesrules/idstat/Title37/T37CH12/",
+     "sha256": "aa7f2055be4f0c8470088ea22ae100c52d0fe166b732ed8bb941fe7b6e524696"
+    }
+   ]
+  },
+  {
+   "slug": "title-0037-chapter-0015",
+   "short": "Idaho Code tit. 37, ch. 15",
+   "title": "Idaho Statutes, Title 37 (Food, drugs, and oil), Chapter 15: Eggs and egg products",
+   "url": "https://legislature.idaho.gov/statutesrules/idstat/Title37/T37CH15/",
+   "versions": [
+    {
+     "from": "2026-08-12",
+     "units": 20,
+     "source_url": "https://legislature.idaho.gov/statutesrules/idstat/Title37/T37CH15/",
+     "sha256": "102f2b5ee502ddba53559bf2d4ffc397e8803e12c93345d44a46a5e2e9057daa"
+    }
+   ]
+  },
+  {
+   "slug": "title-0037-chapter-0021",
+   "short": "Idaho Code tit. 37, ch. 21",
+   "title": "Idaho Statutes, Title 37 (Food, drugs, and oil), Chapter 21: Domestic water and ice",
+   "url": "https://legislature.idaho.gov/statutesrules/idstat/Title37/T37CH21/",
+   "versions": [
+    {
+     "from": "2026-04-21",
+     "units": 2,
+     "source_url": "https://legislature.idaho.gov/statutesrules/idstat/Title37/T37CH21/",
+     "sha256": "6894335d17174977bce64a7353ae02bd8bb15d0db60f1e50a5278d56ae4d136a"
+    }
+   ]
+  },
+  {
+   "slug": "title-0037-chapter-0025",
+   "short": "Idaho Code tit. 37, ch. 25",
+   "title": "Idaho Statutes, Title 37 (Food, drugs, and oil), Chapter 25: Oils",
+   "url": "https://legislature.idaho.gov/statutesrules/idstat/Title37/T37CH25/",
+   "versions": [
+    {
+     "from": "2026-10-10",
+     "units": 17,
+     "source_url": "https://legislature.idaho.gov/statutesrules/idstat/Title37/T37CH25/",
+     "sha256": "bacbe4dbbdb4dfce3759495770a8805b450284738299b723ffc4814f5f1cefaf"
+    }
+   ]
+  },
+  {
+   "slug": "title-0037-chapter-0028",
+   "short": "Idaho Code tit. 37, ch. 28",
+   "title": "Idaho Statutes, Title 37 (Food, drugs, and oil), Chapter 28: Criminal forfeitures",
+   "url": "https://legislature.idaho.gov/statutesrules/idstat/Title37/T37CH28/",
+   "versions": [
+    {
+     "from": "2026-08-18",
+     "units": 15,
+     "source_url": "https://legislature.idaho.gov/statutesrules/idstat/Title37/T37CH28/",
+     "sha256": "09f433d2178b8037a0081aa2b60e74f71a67d5e6f69438b1f737bc5f39984fbe"
+    }
+   ]
+  },
+  {
+   "slug": "title-0038-chapter-0004",
+   "short": "Idaho Code tit. 38, ch. 4",
+   "title": "Idaho Statutes, Title 38 (Forestry, forest products and stumpage districts), Chapter 4: Fire hazard reduction programs",
+   "url": "https://legislature.idaho.gov/statutesrules/idstat/Title38/T38CH4/",
+   "versions": [
+    {
+     "from": "2026-10-12",
+     "units": 11,
+     "source_url": "https://legislature.idaho.gov/statutesrules/idstat/Title38/T38CH4/",
+     "sha256": "6e5864033e2ee07c67f7ba9b4228c0202167061904b356427c81de238b083d98"
+    }
+   ]
+  },
+  {
+   "slug": "title-0038-chapter-0012",
+   "short": "Idaho Code tit. 38, ch. 12",
+   "title": "Idaho Statutes, Title 38 (Forestry, forest products and stumpage districts), Chapter 12: Log scaling",
+   "url": "https://legislature.idaho.gov/statutesrules/idstat/Title38/T38CH12/",
+   "versions": [
+    {
+     "from": "2026-10-17",
+     "units": 22,
+     "source_url": "https://legislature.idaho.gov/statutesrules/idstat/Title38/T38CH12/",
+     "sha256": "0dd86fad8914fe711ff140804e77b0e5a965e828fb618b0fd9b97982fcae5877"
+    }
+   ]
+  },
+  {
+   "slug": "title-0038-chapter-0016",
+   "short": "Idaho Code tit. 38, ch. 16",
+   "title": "Idaho Statutes, Title 38 (Forestry, forest products and stumpage districts), Chapter 16: Interstate forest fire suppression compact",
+   "url": "https://legislature.idaho.gov/statutesrules/idstat/Title38/T38CH16/",
+   "versions": [
+    {
+     "from": "2026-07-16",
+     "units": 1,
+     "source_url": "https://legislature.idaho.gov/statutesrules/idstat/Title38/T38CH16/",
+     "sha256": "cf8b0e9ba7aed8aef6646b1b043529e02db95be216e91af95c537fd0960a5eed"
+    }
+   ]
+  },
+  {
+   "slug": "title-0039-chapter-0004",
+   "short": "Idaho Code tit. 39, ch. 4",
+   "title": "Idaho Statutes, Title 39 (Health and safety), Chapter 4: Public health districts",
+   "url": "https://legislature.idaho.gov/statutesrules/idstat/Title39/T39CH4/",
+   "versions": [
+    {
+     "from": "2026-10-15",
+     "units": 22,
+     "source_url": "https://legislature.idaho.gov/statutesrules/idstat/Title39/T39CH4/",
+     "sha256": "5091e3133b908a29fd8dc915c216517e54627d392c4d1d7033f7cd5d2e2b4c20"
+    }
+   ]
+  },
+  {
+   "slug": "title-0039-chapter-0007",
+   "short": "Idaho Code tit. 39, ch. 7",
+   "title": "Idaho Statutes, Title 39 (Health and safety), Chapter 7: Sudden cardiac arrest",
+   "url": "https://legislature.idaho.gov/statutesrules/idstat/Title39/T39CH7/",
+   "versions": [
+    {
+     "from": "2026-06-10",
+     "units": 3,
+     "source_url": "https://legislature.idaho.gov/statutesrules/idstat/Title39/T39CH7/",
+     "sha256": "89b13fc30c2b7c5db00d3c3e8ab27410a9ce41845d50654b7a0c41c9145f7760"
+    }
+   ]
+  },
+  {
+   "slug": "title-0039-chapter-0010",
+   "short": "Idaho Code tit. 39, ch. 10",
+   "title": "Idaho Statutes, Title 39 (Health and safety), Chapter 10: Prevention of congenital syphilis",
+   "url": "https://legislature.idaho.gov/statutesrules/idstat/Title39/T39CH10/",
+   "versions": [
+    {
+     "from": "2026-07-10",
+     "units": 6,
+     "source_url": "https://legislature.idaho.gov/statutesrules/idstat/Title39/T39CH10/",
+     "sha256": "fa4f1414f206dcb9cc4402548381f600a93add3eefb1bb8f3b2eccb0f0891232"
+    }
+   ]
+  },
+  {
+   "slug": "title-0039-chapter-0014",
+   "short": "Idaho Code tit. 39, ch. 14",
+   "title": "Idaho Statutes, Title 39 (Health and safety), Chapter 14: Health facilities",
+   "url": "https://legislature.idaho.gov/statutesrules/idstat/Title39/T39CH14/",
+   "versions": [
+    {
+     "from": "2026-10-09",
+     "units": 28,
+     "source_url": "https://legislature.idaho.gov/statutesrules/idstat/Title39/T39CH14/",
+     "sha256": "d0a55f063b55ab38a55144a8343fa1e86e2eea42d1a0e0eb24a06589cddc8025"
+    }
+   ]
+  },
+  {
+   "slug": "title-0039-chapter-0018",
+   "short": "Idaho Code tit. 39, ch. 18",
+   "title": "Idaho Statutes, Title 39 (Health and safety), Chapter 18: Hotels and food vending establishments - regulations and inspection",
+   "url": "https://legislature.idaho.gov/statutesrules/idstat/Title39/T39CH18/",
+   "versions": [
+    {
+     "from": "2026-10-09",
+     "units": 9,
+     "source_url": "https://legislature.idaho.gov/statutesrules/idstat/Title39/T39CH18/",
+     "sha256": "3e86e676dbbb2d92172f96cdc9bd27096918d8a7c8a64ae6c90b25b1858edb5f"
+    }
+   ]
+  },
+  {
+   "slug": "title-0039-chapter-0021",
+   "short": "Idaho Code tit. 39, ch. 21",
+   "title": "Idaho Statutes, Title 39 (Health and safety), Chapter 21: Marking of explosives",
+   "url": "https://legislature.idaho.gov/statutesrules/idstat/Title39/T39CH21/",
+   "versions": [
+    {
+     "from": "2026-08-18",
+     "units": 4,
+     "source_url": "https://legislature.idaho.gov/statutesrules/idstat/Title39/T39CH21/",
+     "sha256": "d846388792f7dc7de5fa82766998ef59dce803124940a5ca79d3318858e1863d"
+    }
+   ]
+  },
+  {
+   "slug": "title-0039-chapter-0025",
+   "short": "Idaho Code tit. 39, ch. 25",
+   "title": "Idaho Statutes, Title 39 (Health and safety), Chapter 25: Rural nursing loan repayment program [effective until june 30, 2029]",
+   "url": "https://legislature.idaho.gov/statutesrules/idstat/Title39/T39CH25/",
+   "versions": [
+    {
+     "from": "2026-10-18",
+     "units": 13,
+     "source_url": "https://legislature.idaho.gov/statutesrules/idstat/Title39/T39CH25/",
+     "sha256": "c84613039b8ed58ec71e96b0f9f6904f10d450eff0c1fa41c7540ce53e16a10e"
+    }
+   ]
+  },
+  {
+   "slug": "title-0039-chapter-0027",
+   "short": "Idaho Code tit. 39, ch. 27",
+   "title": "Idaho Statutes, Title 39 (Health and safety), Chapter 27: Alzheimer's disease and related dementias",
+   "url": "https://legislature.idaho.gov/statutesrules/idstat/Title39/T39CH27/",
+   "versions": [
+    {
+     "from": "2026-08-17",
+     "units": 1,
+     "source_url": "https://legislature.idaho.gov/statutesrules/idstat/Title39/T39CH27/",
+     "sha256": "d5db76d23f1a49e7026b89443f0c40fe910e691e8255113dc488bf7bf00f8e21"
+    }
+   ]
+  },
+  {
+   "slug": "title-0039-chapter-0031",
+   "short": "Idaho Code tit. 39, ch. 31",
+   "title": "Idaho Statutes, Title 39 (Health and safety), Chapter 31: Regional behavioral health services",
+   "url": "https://legislature.idaho.gov/statutesrules/idstat/Title39/T39CH31/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 16,
+     "source_url": "https://legislature.idaho.gov/statutesrules/idstat/Title39/T39CH31/",
+     "sha256": "5454feee67f42d9f37856ceb5345346960f89f93d85036050d470ce5ccddda94"
+    }
+   ]
+  },
+  {
+   "slug": "title-0039-chapter-0034",
+   "short": "Idaho Code tit. 39, ch. 34",
+   "title": "Idaho Statutes, Title 39 (Health and safety), Chapter 34: Revised uniform anatomical gift act",
+   "url": "https://legislature.idaho.gov/statutesrules/idstat/Title39/T39CH34/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 26,
+     "source_url": "https://legislature.idaho.gov/statutesrules/idstat/Title39/T39CH34/",
+     "sha256": "f45ffc16a74baa3b5b6c90838a9b8e64e610bb7d6cfaf9e15ed5b0da3d6ccd6e"
+    }
+   ]
+  },
+  {
+   "slug": "title-0039-chapter-0037",
+   "short": "Idaho Code tit. 39, ch. 37",
+   "title": "Idaho Statutes, Title 39 (Health and safety), Chapter 37: Anatomical tissue, organ, fluid donations",
+   "url": "https://legislature.idaho.gov/statutesrules/idstat/Title39/T39CH37/",
+   "versions": [
+    {
+     "from": "2026-06-14",
+     "units": 3,
+     "source_url": "https://legislature.idaho.gov/statutesrules/idstat/Title39/T39CH37/",
+     "sha256": "795a8e8f0e63d1fd38615c5c83878b9153d212715d2398f9513c00656e847759"
+    }
+   ]
+  },
+  {
+   "slug": "title-0039-chapter-0038",
+   "short": "Idaho Code tit. 39, ch. 38",
+   "title": "Idaho Statutes, Title 39 (Health and safety), Chapter 38: Minors - consent to treatment",
+   "url": "https://legislature.idaho.gov/statutesrules/idstat/Title39/T39CH38/",
+   "versions": [
+    {
+     "from": "2026-08-15",
+     "units": 1,
+     "source_url": "https://legislature.idaho.gov/statutesrules/idstat/Title39/T39CH38/",
+     "sha256": "4d58e8d4ccc5b9cd1800b82f38e5b0a30e94667d6bfa31bdcaf46d23042ca73a"
+    }
+   ]
+  },
+  {
+   "slug": "title-0039-chapter-0039",
+   "short": "Idaho Code tit. 39, ch. 39",
+   "title": "Idaho Statutes, Title 39 (Health and safety), Chapter 39: Sterilization",
+   "url": "https://legislature.idaho.gov/statutesrules/idstat/Title39/T39CH39/",
+   "versions": [
+    {
+     "from": "2026-10-07",
+     "units": 15,
+     "source_url": "https://legislature.idaho.gov/statutesrules/idstat/Title39/T39CH39/",
+     "sha256": "59d4dc0c57eceba4dfdb2fdd5e2facf216627cba774452b9a4f35cf671dad114"
+    }
+   ]
+  },
+  {
+   "slug": "title-0039-chapter-0041",
+   "short": "Idaho Code tit. 39, ch. 41",
+   "title": "Idaho Statutes, Title 39 (Health and safety), Chapter 41: Idaho building code act",
+   "url": "https://legislature.idaho.gov/statutesrules/idstat/Title39/T39CH41/",
+   "versions": [
+    {
+     "from": "2026-10-16",
+     "units": 24,
+     "source_url": "https://legislature.idaho.gov/statutesrules/idstat/Title39/T39CH41/",
+     "sha256": "da73adb77727d9d5bc1a860c7c25e452ec5f9fc44a6e1ca77dcf26176fa4d703"
+    }
+   ]
+  },
+  {
+   "slug": "title-0039-chapter-0042",
+   "short": "Idaho Code tit. 39, ch. 42",
+   "title": "Idaho Statutes, Title 39 (Health and safety), Chapter 42: Recreational vehicles and park trailers",
+   "url": "https://legislature.idaho.gov/statutesrules/idstat/Title39/T39CH42/",
+   "versions": [
+    {
+     "from": "2026-09-05",
+     "units": 3,
+     "source_url": "https://legislature.idaho.gov/statutesrules/idstat/Title39/T39CH42/",
+     "sha256": "6a6b97245ff10a3c3e82c27f1031c493d6ba537645fe3e6c5116c98636958e3e"
     }
    ]
   },
