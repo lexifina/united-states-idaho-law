@@ -3698,6 +3698,90 @@
    ]
   },
   {
+   "slug": "title-0039-chapter-0084",
+   "short": "Idaho Code tit. 39, ch. 84",
+   "title": "Idaho Statutes, Title 39 (Health and safety), Chapter 84: Tobacco master settlement agreement complementary act",
+   "url": "https://legislature.idaho.gov/statutesrules/idstat/Title39/T39CH84/",
+   "versions": [
+    {
+     "from": "2026-10-15",
+     "units": 13,
+     "source_url": "https://legislature.idaho.gov/statutesrules/idstat/Title39/T39CH84/",
+     "sha256": "b9afebc64509e983645c5c2ba3950910687f6a495d14358c07ecc59241d326e2"
+    }
+   ]
+  },
+  {
+   "slug": "title-0039-chapter-0085",
+   "short": "Idaho Code tit. 39, ch. 85",
+   "title": "Idaho Statutes, Title 39 (Health and safety), Chapter 85: Lake pend oreille, pend oreille river, priest lake and priest river commission",
+   "url": "https://legislature.idaho.gov/statutesrules/idstat/Title39/T39CH85/",
+   "versions": [
+    {
+     "from": "2026-10-14",
+     "units": 4,
+     "source_url": "https://legislature.idaho.gov/statutesrules/idstat/Title39/T39CH85/",
+     "sha256": "d38697bf030a208121353757fb0f302d2552b55a136432411577969cb06af752"
+    }
+   ]
+  },
+  {
+   "slug": "title-0039-chapter-0086",
+   "short": "Idaho Code tit. 39, ch. 86",
+   "title": "Idaho Statutes, Title 39 (Health and safety), Chapter 86: Idaho elevator safety code act",
+   "url": "https://legislature.idaho.gov/statutesrules/idstat/Title39/T39CH86/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 23,
+     "source_url": "https://legislature.idaho.gov/statutesrules/idstat/Title39/T39CH86/",
+     "sha256": "c3da55bccbfa14d55003607a011ac03980bd2ea9295be0892e65d20e7a414a21"
+    }
+   ]
+  },
+  {
+   "slug": "title-0039-chapter-0091",
+   "short": "Idaho Code tit. 39, ch. 91",
+   "title": "Idaho Statutes, Title 39 (Health and safety), Chapter 91: Behavioral health community crisis centers",
+   "url": "https://legislature.idaho.gov/statutesrules/idstat/Title39/T39CH91/",
+   "versions": [
+    {
+     "from": "2026-09-12",
+     "units": 9,
+     "source_url": "https://legislature.idaho.gov/statutesrules/idstat/Title39/T39CH91/",
+     "sha256": "fb94f7d88039b1338f533226306b413213f9254f6d31e4fbbd784d8bff1e4d2a"
+    }
+   ]
+  },
+  {
+   "slug": "title-0039-chapter-0093",
+   "short": "Idaho Code tit. 39, ch. 93",
+   "title": "Idaho Statutes, Title 39 (Health and safety), Chapter 93: Idaho unborn infants dignity act",
+   "url": "https://legislature.idaho.gov/statutesrules/idstat/Title39/T39CH93/",
+   "versions": [
+    {
+     "from": "2026-08-18",
+     "units": 11,
+     "source_url": "https://legislature.idaho.gov/statutesrules/idstat/Title39/T39CH93/",
+     "sha256": "12a141b577c686c31ce3b96a2b4db2da66455d9a6d7833c01e45604a8beff26e"
+    }
+   ]
+  },
+  {
+   "slug": "title-0039-chapter-0099",
+   "short": "Idaho Code tit. 39, ch. 99",
+   "title": "Idaho Statutes, Title 39 (Health and safety), Chapter 99: Down syndrome diagnosis information act",
+   "url": "https://legislature.idaho.gov/statutesrules/idstat/Title39/T39CH99/",
+   "versions": [
+    {
+     "from": "2026-07-10",
+     "units": 4,
+     "source_url": "https://legislature.idaho.gov/statutesrules/idstat/Title39/T39CH99/",
+     "sha256": "2d13d0120052b19cfb5f3d71a937ed69a8f543d0b7e27b49256223d466670165"
+    }
+   ]
+  },
+  {
    "slug": "title-0039-chapter-0004",
    "short": "Idaho Code tit. 39, ch. 4",
    "title": "Idaho Statutes, Title 39 (Health and safety), Chapter 4: Public health districts",
@@ -3904,6 +3988,104 @@
      "units": 3,
      "source_url": "https://legislature.idaho.gov/statutesrules/idstat/Title39/T39CH42/",
      "sha256": "6a6b97245ff10a3c3e82c27f1031c493d6ba537645fe3e6c5116c98636958e3e"
+    }
+   ]
+  },
+  {
+   "slug": "title-0040-chapter-0005",
+   "short": "Idaho Code tit. 40, ch. 5",
+   "title": "Idaho Statutes, Title 40 (Highways and bridges), Chapter 5: Idaho transportation department",
+   "url": "https://legislature.idaho.gov/statutesrules/idstat/Title40/T40CH5/",
+   "versions": [
+    {
+     "from": "2026-10-06",
+     "units": 29,
+     "source_url": "https://legislature.idaho.gov/statutesrules/idstat/Title40/T40CH5/",
+     "sha256": "68ca7250e3c36ce6ae87d77281cb84b3815bb085f5e2db55f9e7ac422f967a8e"
+    }
+   ]
+  },
+  {
+   "slug": "title-0040-chapter-0007",
+   "short": "Idaho Code tit. 40, ch. 7",
+   "title": "Idaho Statutes, Title 40 (Highways and bridges), Chapter 7: Appropriations",
+   "url": "https://legislature.idaho.gov/statutesrules/idstat/Title40/T40CH7/",
+   "versions": [
+    {
+     "from": "2026-10-14",
+     "units": 20,
+     "source_url": "https://legislature.idaho.gov/statutesrules/idstat/Title40/T40CH7/",
+     "sha256": "61deef48d602b7c9b6f78626dd0a564a5bc842d336eb44d424bda2f490cb746f"
+    }
+   ]
+  },
+  {
+   "slug": "title-0040-chapter-0008",
+   "short": "Idaho Code tit. 40, ch. 8",
+   "title": "Idaho Statutes, Title 40 (Highways and bridges), Chapter 8: Taxes",
+   "url": "https://legislature.idaho.gov/statutesrules/idstat/Title40/T40CH8/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 27,
+     "source_url": "https://legislature.idaho.gov/statutesrules/idstat/Title40/T40CH8/",
+     "sha256": "1e289037eb6a4680370b89197537f76ea239b1c3bcc827b9fe561c8084487914"
+    }
+   ]
+  },
+  {
+   "slug": "title-0040-chapter-0010",
+   "short": "Idaho Code tit. 40, ch. 10",
+   "title": "Idaho Statutes, Title 40 (Highways and bridges), Chapter 10: Warrants",
+   "url": "https://legislature.idaho.gov/statutesrules/idstat/Title40/T40CH10/",
+   "versions": [
+    {
+     "from": "2026-09-10",
+     "units": 6,
+     "source_url": "https://legislature.idaho.gov/statutesrules/idstat/Title40/T40CH10/",
+     "sha256": "34ba9ffb6b695e0ea5548e4e59dc472076e55fbd4169d5bdc02fa22970fce519"
+    }
+   ]
+  },
+  {
+   "slug": "title-0040-chapter-0019",
+   "short": "Idaho Code tit. 40, ch. 19",
+   "title": "Idaho Statutes, Title 40 (Highways and bridges), Chapter 19: Beautification of highways",
+   "url": "https://legislature.idaho.gov/statutesrules/idstat/Title40/T40CH19/",
+   "versions": [
+    {
+     "from": "2026-10-17",
+     "units": 23,
+     "source_url": "https://legislature.idaho.gov/statutesrules/idstat/Title40/T40CH19/",
+     "sha256": "552dc91da120c7bd9f901eae3460a47a3ad6f696b8196c0dbef2b57e47d68bc6"
+    }
+   ]
+  },
+  {
+   "slug": "title-0040-chapter-0021",
+   "short": "Idaho Code tit. 40, ch. 21",
+   "title": "Idaho Statutes, Title 40 (Highways and bridges), Chapter 21: Regional public transportation authority",
+   "url": "https://legislature.idaho.gov/statutesrules/idstat/Title40/T40CH21/",
+   "versions": [
+    {
+     "from": "2026-09-12",
+     "units": 14,
+     "source_url": "https://legislature.idaho.gov/statutesrules/idstat/Title40/T40CH21/",
+     "sha256": "bdf7fb71533a5dac883719cc2315ae3761ce5e7e0f2f50f7611a9295232762c8"
+    }
+   ]
+  },
+  {
+   "slug": "title-0040-chapter-0022",
+   "short": "Idaho Code tit. 40, ch. 22",
+   "title": "Idaho Statutes, Title 40 (Highways and bridges), Chapter 22: Detachment of territory by petition and organization of new district",
+   "url": "https://legislature.idaho.gov/statutesrules/idstat/Title40/T40CH22/",
+   "versions": [
+    {
+     "from": "2026-10-18",
+     "units": 13,
+     "source_url": "https://legislature.idaho.gov/statutesrules/idstat/Title40/T40CH22/",
+     "sha256": "c3e6c2e6873a5cde64fec3dd7d186e4ad1dd973fd4775f50610ce4e3579a5df2"
     }
    ]
   },
