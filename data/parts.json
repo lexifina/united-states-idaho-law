@@ -397,6 +397,27 @@
    ],
    "sha256": "7d0e141592778c8cf27695d6e2bb7096131782842a8efeccb984218971937ff3"
   },
+  "title-39-b.json": {
+   "acts": [
+    "title-0039-chapter-0046",
+    "title-0039-chapter-0047",
+    "title-0039-chapter-0048",
+    "title-0039-chapter-0054",
+    "title-0039-chapter-0055",
+    "title-0039-chapter-0057",
+    "title-0039-chapter-0059",
+    "title-0039-chapter-0060",
+    "title-0039-chapter-0061",
+    "title-0039-chapter-0070",
+    "title-0039-chapter-0072",
+    "title-0039-chapter-0073",
+    "title-0039-chapter-0074",
+    "title-0039-chapter-0076",
+    "title-0039-chapter-0078",
+    "title-0039-chapter-0079"
+   ],
+   "sha256": "1cc5647f52a3a98982801c4c63b26bc2ed6305a0e8687a5e48f4e5faf229c88e"
+  },
   "title-39.json": {
    "acts": [
     "title-0039-chapter-0004",
