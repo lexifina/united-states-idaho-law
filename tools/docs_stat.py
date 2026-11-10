@@ -33,7 +33,7 @@ x = re.sub(r'That is all the law this repository holds today\.[^\n]*',
            'That is all the law this repository holds today. This is a first build: most of the Idaho Statutes, the session laws and administrative rules are not in it, and it has no amendment history yet.', x)
 src = ('\n\nThe Idaho Statutes are published the same way, one page per chapter (a list of its sections) and one page per '
        'section. A chapter is included only when every section its chapter page lists was read: each section page comes '
-       'from its newest **Common Crawl** capture among the 24 newest crawls, or, where Common Crawl had none, its newest '
+       'from its newest **Common Crawl** capture, or, where Common Crawl had none, its newest '
        '**Internet Archive** capture from 2025 on. Chapters that could not be read whole are left out; `REPRODUCE.md` '
        'lists them under decisions. Each section keeps its "History:" line, which is part of the Legislature\'s text.')
 x = x.replace(src, '')

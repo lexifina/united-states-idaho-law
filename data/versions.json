@@ -16,6 +16,62 @@
    ]
   },
   {
+   "slug": "title-0001-chapter-0011",
+   "short": "Idaho Code tit. 1, ch. 11",
+   "title": "Idaho Statutes, Title 1 (Courts and court officials), Chapter 11: District court reporters",
+   "url": "https://legislature.idaho.gov/statutesrules/idstat/Title1/T1CH11/",
+   "versions": [
+    {
+     "from": "2026-10-09",
+     "units": 8,
+     "source_url": "https://legislature.idaho.gov/statutesrules/idstat/Title1/T1CH11/",
+     "sha256": "3503e9e23f62a83915f84d4d6481e0240420be32729e0b9a3e48d757164adcf2"
+    }
+   ]
+  },
+  {
+   "slug": "title-0001-chapter-0019",
+   "short": "Idaho Code tit. 1, ch. 19",
+   "title": "Idaho Statutes, Title 1 (Courts and court officials), Chapter 19: Incidental powers and duties of judicial officers",
+   "url": "https://legislature.idaho.gov/statutesrules/idstat/Title1/T1CH19/",
+   "versions": [
+    {
+     "from": "2026-07-18",
+     "units": 3,
+     "source_url": "https://legislature.idaho.gov/statutesrules/idstat/Title1/T1CH19/",
+     "sha256": "0ca00e4891ce9d3e3cd676c08831f35ef7162924e085f6606a862bcc85f1c7e1"
+    }
+   ]
+  },
+  {
+   "slug": "title-0001-chapter-0023",
+   "short": "Idaho Code tit. 1, ch. 23",
+   "title": "Idaho Statutes, Title 1 (Courts and court officials), Chapter 23: Small claims department of the magistrate division",
+   "url": "https://legislature.idaho.gov/statutesrules/idstat/Title1/T1CH23/",
+   "versions": [
+    {
+     "from": "2026-10-17",
+     "units": 15,
+     "source_url": "https://legislature.idaho.gov/statutesrules/idstat/Title1/T1CH23/",
+     "sha256": "1029b8763d85ec6c9ac5c51adc0ad44012b0c7682dc3d63df89e2cdb24579b91"
+    }
+   ]
+  },
+  {
+   "slug": "title-0001-chapter-0024",
+   "short": "Idaho Code tit. 1, ch. 24",
+   "title": "Idaho Statutes, Title 1 (Courts and court officials), Chapter 24: Court of appeals",
+   "url": "https://legislature.idaho.gov/statutesrules/idstat/Title1/T1CH24/",
+   "versions": [
+    {
+     "from": "2026-10-18",
+     "units": 11,
+     "source_url": "https://legislature.idaho.gov/statutesrules/idstat/Title1/T1CH24/",
+     "sha256": "5e5f8603d496969ab5a9c3ea348e75b6da8c6a264e54af2681f1a8ea2e1c2c40"
+    }
+   ]
+  },
+  {
    "slug": "title-0018-chapter-0001",
    "short": "Idaho Code tit. 18, ch. 1",
    "title": "Idaho Statutes, Title 18 (Crimes and punishments), Chapter 1: Preliminary provisions",
@@ -1136,6 +1192,34 @@
    ]
   },
   {
+   "slug": "title-0002-chapter-0001",
+   "short": "Idaho Code tit. 2, ch. 1",
+   "title": "Idaho Statutes, Title 2 (Juries and jurors), Chapter 1: Juries - kinds and definitions",
+   "url": "https://legislature.idaho.gov/statutesrules/idstat/Title2/T2CH1/",
+   "versions": [
+    {
+     "from": "2026-06-08",
+     "units": 6,
+     "source_url": "https://legislature.idaho.gov/statutesrules/idstat/Title2/T2CH1/",
+     "sha256": "e89a243d757bae39f72239d627b4c7af6f2c31aea49712369b1232851215ebaf"
+    }
+   ]
+  },
+  {
+   "slug": "title-0002-chapter-0002",
+   "short": "Idaho Code tit. 2, ch. 2",
+   "title": "Idaho Statutes, Title 2 (Juries and jurors), Chapter 2: Jury selection and service",
+   "url": "https://legislature.idaho.gov/statutesrules/idstat/Title2/T2CH2/",
+   "versions": [
+    {
+     "from": "2026-10-14",
+     "units": 21,
+     "source_url": "https://legislature.idaho.gov/statutesrules/idstat/Title2/T2CH2/",
+     "sha256": "f3b467941c5ca534d8da8954e42298b37fbbb965141d08f58d68db4206557a7a"
+    }
+   ]
+  },
+  {
    "slug": "title-0032-chapter-0001",
    "short": "Idaho Code tit. 32, ch. 1",
    "title": "Idaho Statutes, Title 32 (Domestic relations), Chapter 1: Persons",
@@ -1804,6 +1888,118 @@
      "units": 15,
      "source_url": "https://legislature.idaho.gov/statutesrules/idstat/Title55/T55CH32/",
      "sha256": "980f941718c74287cfdd38498f5a06739ace585fc261e20e0a780f7ff13d9d17"
+    }
+   ]
+  },
+  {
+   "slug": "title-0006-chapter-0005",
+   "short": "Idaho Code tit. 6, ch. 5",
+   "title": "Idaho Statutes, Title 6 (Actions in particular cases), Chapter 5: Partition of real estate",
+   "url": "https://legislature.idaho.gov/statutesrules/idstat/Title6/T6CH5/",
+   "versions": [
+    {
+     "from": "2026-10-18",
+     "units": 47,
+     "source_url": "https://legislature.idaho.gov/statutesrules/idstat/Title6/T6CH5/",
+     "sha256": "c220e57ada5877e3e4e7d4b702eb6510acab843df9bf4b56090364d7bb565821"
+    }
+   ]
+  },
+  {
+   "slug": "title-0006-chapter-0007",
+   "short": "Idaho Code tit. 6, ch. 7",
+   "title": "Idaho Statutes, Title 6 (Actions in particular cases), Chapter 7: Libel and slander",
+   "url": "https://legislature.idaho.gov/statutesrules/idstat/Title6/T6CH7/",
+   "versions": [
+    {
+     "from": "2026-10-10",
+     "units": 14,
+     "source_url": "https://legislature.idaho.gov/statutesrules/idstat/Title6/T6CH7/",
+     "sha256": "005869074ab0523c2e4b903a5bd385e7bafe4d4172f39b2aa545fa39adf2682d"
+    }
+   ]
+  },
+  {
+   "slug": "title-0006-chapter-0008",
+   "short": "Idaho Code tit. 6, ch. 8",
+   "title": "Idaho Statutes, Title 6 (Actions in particular cases), Chapter 8: Actions for negligence",
+   "url": "https://legislature.idaho.gov/statutesrules/idstat/Title6/T6CH8/",
+   "versions": [
+    {
+     "from": "2026-10-17",
+     "units": 8,
+     "source_url": "https://legislature.idaho.gov/statutesrules/idstat/Title6/T6CH8/",
+     "sha256": "598c336dfec3e8aac4a6cd59c7c5358604018060d34a9d4a601aad9f2c9a9afd"
+    }
+   ]
+  },
+  {
+   "slug": "title-0006-chapter-0009",
+   "short": "Idaho Code tit. 6, ch. 9",
+   "title": "Idaho Statutes, Title 6 (Actions in particular cases), Chapter 9: Tort claims against governmental entities",
+   "url": "https://legislature.idaho.gov/statutesrules/idstat/Title6/T6CH9/",
+   "versions": [
+    {
+     "from": "2026-10-15",
+     "units": 35,
+     "source_url": "https://legislature.idaho.gov/statutesrules/idstat/Title6/T6CH9/",
+     "sha256": "889eeedb7dd3c0f636b18df2db569face8629616efb0ebda747a8d605d3454aa"
+    }
+   ]
+  },
+  {
+   "slug": "title-0006-chapter-0011",
+   "short": "Idaho Code tit. 6, ch. 11",
+   "title": "Idaho Statutes, Title 6 (Actions in particular cases), Chapter 11: Responsibilities and liabilities of skiers and ski area operators",
+   "url": "https://legislature.idaho.gov/statutesrules/idstat/Title6/T6CH11/",
+   "versions": [
+    {
+     "from": "2026-10-15",
+     "units": 9,
+     "source_url": "https://legislature.idaho.gov/statutesrules/idstat/Title6/T6CH11/",
+     "sha256": "c60decd14c7b09680ee631a52b92ae97c5e2d9dc6d5e4fb376feaaaab869953e"
+    }
+   ]
+  },
+  {
+   "slug": "title-0006-chapter-0014",
+   "short": "Idaho Code tit. 6, ch. 14",
+   "title": "Idaho Statutes, Title 6 (Actions in particular cases), Chapter 14: Product liability",
+   "url": "https://legislature.idaho.gov/statutesrules/idstat/Title6/T6CH14/",
+   "versions": [
+    {
+     "from": "2026-10-15",
+     "units": 10,
+     "source_url": "https://legislature.idaho.gov/statutesrules/idstat/Title6/T6CH14/",
+     "sha256": "67882e581e0df4e7fb7378b5dce555b0a741f71d2f61296fae65d0a1e2deb172"
+    }
+   ]
+  },
+  {
+   "slug": "title-0006-chapter-0015",
+   "short": "Idaho Code tit. 6, ch. 15",
+   "title": "Idaho Statutes, Title 6 (Actions in particular cases), Chapter 15: Liability to firewood gatherers",
+   "url": "https://legislature.idaho.gov/statutesrules/idstat/Title6/T6CH15/",
+   "versions": [
+    {
+     "from": "2026-10-16",
+     "units": 2,
+     "source_url": "https://legislature.idaho.gov/statutesrules/idstat/Title6/T6CH15/",
+     "sha256": "47cc6c38ca268eaef8f7959a5ed9d7656c5f0f16a08dcb359dd1695c7528d8a2"
+    }
+   ]
+  },
+  {
+   "slug": "title-0006-chapter-0016",
+   "short": "Idaho Code tit. 6, ch. 16",
+   "title": "Idaho Statutes, Title 6 (Actions in particular cases), Chapter 16: Periodic payment of judgments - limitation on certain tort damages and liabilities",
+   "url": "https://legislature.idaho.gov/statutesrules/idstat/Title6/T6CH16/",
+   "versions": [
+    {
+     "from": "2026-10-17",
+     "units": 7,
+     "source_url": "https://legislature.idaho.gov/statutesrules/idstat/Title6/T6CH16/",
+     "sha256": "4f0865c12b8f2a2a5f455979d8f564d9552cfe321580f2d344ca71b9a4703dea"
     }
    ]
   }
