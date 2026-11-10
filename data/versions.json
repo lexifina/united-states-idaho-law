@@ -4090,6 +4090,20 @@
    ]
   },
   {
+   "slug": "title-0042-chapter-0042",
+   "short": "Idaho Code tit. 42, ch. 42",
+   "title": "Idaho Statutes, Title 42 (Irrigation and drainage - water rights and reclamation), Chapter 42: Ground water recharge",
+   "url": "https://legislature.idaho.gov/statutesrules/idstat/Title42/T42CH42/",
+   "versions": [
+    {
+     "from": "2026-10-15",
+     "units": 31,
+     "source_url": "https://legislature.idaho.gov/statutesrules/idstat/Title42/T42CH42/",
+     "sha256": "9be44f6109f845e4da1cab922f8a6891f1bb917a6f08b37df696d2b0b8f2972a"
+    }
+   ]
+  },
+  {
    "slug": "title-0042-chapter-0003",
    "short": "Idaho Code tit. 42, ch. 3",
    "title": "Idaho Statutes, Title 42 (Irrigation and drainage - water rights and reclamation), Chapter 3: Appropriation of water - cancelation of permits",
@@ -4212,6 +4226,384 @@
      "units": 9,
      "source_url": "https://legislature.idaho.gov/statutesrules/idstat/Title42/T42CH30/",
      "sha256": "b65b892b59e92bf03c0c5f659798aa2fa3d4198c7ff3ac8889a553fdc4a938d7"
+    }
+   ]
+  },
+  {
+   "slug": "title-0043-chapter-0001",
+   "short": "Idaho Code tit. 43, ch. 1",
+   "title": "Idaho Statutes, Title 43 (Irrigation districts), Chapter 1: Organization of district",
+   "url": "https://legislature.idaho.gov/statutesrules/idstat/Title43/T43CH1/",
+   "versions": [
+    {
+     "from": "2026-10-06",
+     "units": 19,
+     "source_url": "https://legislature.idaho.gov/statutesrules/idstat/Title43/T43CH1/",
+     "sha256": "9492cc8e847f73b41c460e999df599c938a24daa3878cd3d086c85032ccdf6b2"
+    }
+   ]
+  },
+  {
+   "slug": "title-0043-chapter-0004",
+   "short": "Idaho Code tit. 43, ch. 4",
+   "title": "Idaho Statutes, Title 43 (Irrigation districts), Chapter 4: Bonds - issuance, confirmation, and sale",
+   "url": "https://legislature.idaho.gov/statutesrules/idstat/Title43/T43CH4/",
+   "versions": [
+    {
+     "from": "2026-10-18",
+     "units": 16,
+     "source_url": "https://legislature.idaho.gov/statutesrules/idstat/Title43/T43CH4/",
+     "sha256": "432b3c73a6f9c0420e95249eba1f809353cabe51eff8ba48316033ea38bbe796"
+    }
+   ]
+  },
+  {
+   "slug": "title-0043-chapter-0005",
+   "short": "Idaho Code tit. 43, ch. 5",
+   "title": "Idaho Statutes, Title 43 (Irrigation districts), Chapter 5: Secondary bonds to pay interest",
+   "url": "https://legislature.idaho.gov/statutesrules/idstat/Title43/T43CH5/",
+   "versions": [
+    {
+     "from": "2026-06-16",
+     "units": 4,
+     "source_url": "https://legislature.idaho.gov/statutesrules/idstat/Title43/T43CH5/",
+     "sha256": "5b80d286003f97b903f53f556f56cc4d9daac0169d28b2231c4882467215f781"
+    }
+   ]
+  },
+  {
+   "slug": "title-0043-chapter-0006",
+   "short": "Idaho Code tit. 43, ch. 6",
+   "title": "Idaho Statutes, Title 43 (Irrigation districts), Chapter 6: Refunding bonds",
+   "url": "https://legislature.idaho.gov/statutesrules/idstat/Title43/T43CH6/",
+   "versions": [
+    {
+     "from": "2026-10-09",
+     "units": 17,
+     "source_url": "https://legislature.idaho.gov/statutesrules/idstat/Title43/T43CH6/",
+     "sha256": "65b4451d3859ca2e0d5a295af309d2b6183d37e7a964a511609ec599fb59c497"
+    }
+   ]
+  },
+  {
+   "slug": "title-0043-chapter-0010",
+   "short": "Idaho Code tit. 43, ch. 10",
+   "title": "Idaho Statutes, Title 43 (Irrigation districts), Chapter 10: Annexation of lands to district",
+   "url": "https://legislature.idaho.gov/statutesrules/idstat/Title43/T43CH10/",
+   "versions": [
+    {
+     "from": "2026-09-12",
+     "units": 10,
+     "source_url": "https://legislature.idaho.gov/statutesrules/idstat/Title43/T43CH10/",
+     "sha256": "b767051c549cb8474b3daca61605f4b6b7bdb090662d61885395ef25590c0633"
+    }
+   ]
+  },
+  {
+   "slug": "title-0043-chapter-0013",
+   "short": "Idaho Code tit. 43, ch. 13",
+   "title": "Idaho Statutes, Title 43 (Irrigation districts), Chapter 13: Dissolution and modification of districts",
+   "url": "https://legislature.idaho.gov/statutesrules/idstat/Title43/T43CH13/",
+   "versions": [
+    {
+     "from": "2026-09-13",
+     "units": 25,
+     "source_url": "https://legislature.idaho.gov/statutesrules/idstat/Title43/T43CH13/",
+     "sha256": "87a0818113aa5fa500c62aef140be6828bd6191bb7a30ddbb3cbd3d50f29e0f8"
+    }
+   ]
+  },
+  {
+   "slug": "title-0043-chapter-0020",
+   "short": "Idaho Code tit. 43, ch. 20",
+   "title": "Idaho Statutes, Title 43 (Irrigation districts), Chapter 20: Provisions applicable to irrigation districts and drainage districts",
+   "url": "https://legislature.idaho.gov/statutesrules/idstat/Title43/T43CH20/",
+   "versions": [
+    {
+     "from": "2026-10-17",
+     "units": 7,
+     "source_url": "https://legislature.idaho.gov/statutesrules/idstat/Title43/T43CH20/",
+     "sha256": "5d96c070de739a2d27cb804770048a66cc8aca2a64fc44c61acbdafd3534efea"
+    }
+   ]
+  },
+  {
+   "slug": "title-0043-chapter-0022",
+   "short": "Idaho Code tit. 43, ch. 22",
+   "title": "Idaho Statutes, Title 43 (Irrigation districts), Chapter 22: Reconstruction, rehabilitation, replacement and improvement of dams by irrigation districts - financial and other arrangements",
+   "url": "https://legislature.idaho.gov/statutesrules/idstat/Title43/T43CH22/",
+   "versions": [
+    {
+     "from": "2026-07-21",
+     "units": 7,
+     "source_url": "https://legislature.idaho.gov/statutesrules/idstat/Title43/T43CH22/",
+     "sha256": "fec7423ef2667464fd1e863b91b1c4221143960c0a9604768bae793c9b0ff525"
+    }
+   ]
+  },
+  {
+   "slug": "title-0044-chapter-0002",
+   "short": "Idaho Code tit. 44, ch. 2",
+   "title": "Idaho Statutes, Title 44 (Labor), Chapter 2: Employer duties employee assistance programs",
+   "url": "https://legislature.idaho.gov/statutesrules/idstat/Title44/T44CH2/",
+   "versions": [
+    {
+     "from": "2026-10-16",
+     "units": 2,
+     "source_url": "https://legislature.idaho.gov/statutesrules/idstat/Title44/T44CH2/",
+     "sha256": "8bd437d5f2f9678aeb79edc9f68d69fbb91935ad18ec5f106177101930ff52bb"
+    }
+   ]
+  },
+  {
+   "slug": "title-0044-chapter-0013",
+   "short": "Idaho Code tit. 44, ch. 13",
+   "title": "Idaho Statutes, Title 44 (Labor), Chapter 13: Child labor law",
+   "url": "https://legislature.idaho.gov/statutesrules/idstat/Title44/T44CH13/",
+   "versions": [
+    {
+     "from": "2026-09-11",
+     "units": 8,
+     "source_url": "https://legislature.idaho.gov/statutesrules/idstat/Title44/T44CH13/",
+     "sha256": "f8e481397922763b1ae58ef65c5f5ff068632379cea8b4c817822a5efb71980e"
+    }
+   ]
+  },
+  {
+   "slug": "title-0044-chapter-0014",
+   "short": "Idaho Code tit. 44, ch. 14",
+   "title": "Idaho Statutes, Title 44 (Labor), Chapter 14: Employers' liability act",
+   "url": "https://legislature.idaho.gov/statutesrules/idstat/Title44/T44CH14/",
+   "versions": [
+    {
+     "from": "2026-10-18",
+     "units": 7,
+     "source_url": "https://legislature.idaho.gov/statutesrules/idstat/Title44/T44CH14/",
+     "sha256": "a021d1732bfe8acf2b615bc40df274554107a0bfbbf75903d456e4fd58e8d828"
+    }
+   ]
+  },
+  {
+   "slug": "title-0044-chapter-0016",
+   "short": "Idaho Code tit. 44, ch. 16",
+   "title": "Idaho Statutes, Title 44 (Labor), Chapter 16: Farm labor contractor licensing",
+   "url": "https://legislature.idaho.gov/statutesrules/idstat/Title44/T44CH16/",
+   "versions": [
+    {
+     "from": "2026-10-10",
+     "units": 18,
+     "source_url": "https://legislature.idaho.gov/statutesrules/idstat/Title44/T44CH16/",
+     "sha256": "594c583d360efd5b43cdfc5c9c2064ae9c6572d1eb753cd736af6b4708b7642f"
+    }
+   ]
+  },
+  {
+   "slug": "title-0044-chapter-0019",
+   "short": "Idaho Code tit. 44, ch. 19",
+   "title": "Idaho Statutes, Title 44 (Labor), Chapter 19: Sanitation facilities for farm workers",
+   "url": "https://legislature.idaho.gov/statutesrules/idstat/Title44/T44CH19/",
+   "versions": [
+    {
+     "from": "2026-10-10",
+     "units": 5,
+     "source_url": "https://legislature.idaho.gov/statutesrules/idstat/Title44/T44CH19/",
+     "sha256": "9eb514c2a19fc3ed79e16d1e3b4cf288bd2dae27befe8757378e53424ae224e1"
+    }
+   ]
+  },
+  {
+   "slug": "title-0044-chapter-0020",
+   "short": "Idaho Code tit. 44, ch. 20",
+   "title": "Idaho Statutes, Title 44 (Labor), Chapter 20: Right to work",
+   "url": "https://legislature.idaho.gov/statutesrules/idstat/Title44/T44CH20/",
+   "versions": [
+    {
+     "from": "2026-09-14",
+     "units": 13,
+     "source_url": "https://legislature.idaho.gov/statutesrules/idstat/Title44/T44CH20/",
+     "sha256": "3461c5b4357dcf53e2e1ce04cf6f3892bdc5fcc68e1f0ac044b1f44c05745036"
+    }
+   ]
+  },
+  {
+   "slug": "title-0044-chapter-0022",
+   "short": "Idaho Code tit. 44, ch. 22",
+   "title": "Idaho Statutes, Title 44 (Labor), Chapter 22: Manufactured home installation standard",
+   "url": "https://legislature.idaho.gov/statutesrules/idstat/Title44/T44CH22/",
+   "versions": [
+    {
+     "from": "2026-10-10",
+     "units": 2,
+     "source_url": "https://legislature.idaho.gov/statutesrules/idstat/Title44/T44CH22/",
+     "sha256": "76ae1adce83ad87eec346e5ba4615acb626186577996f606513d470ce16c66cf"
+    }
+   ]
+  },
+  {
+   "slug": "title-0044-chapter-0025",
+   "short": "Idaho Code tit. 44, ch. 25",
+   "title": "Idaho Statutes, Title 44 (Labor), Chapter 25: Mobile home rehabilitation",
+   "url": "https://legislature.idaho.gov/statutesrules/idstat/Title44/T44CH25/",
+   "versions": [
+    {
+     "from": "2026-09-16",
+     "units": 4,
+     "source_url": "https://legislature.idaho.gov/statutesrules/idstat/Title44/T44CH25/",
+     "sha256": "0eb4ed0e05d9c8037402b6b467781d0c8bac6d64dd7bf4bd169b12b5fab28d65"
+    }
+   ]
+  },
+  {
+   "slug": "title-0044-chapter-0027",
+   "short": "Idaho Code tit. 44, ch. 27",
+   "title": "Idaho Statutes, Title 44 (Labor), Chapter 27: Agreements and covenants protecting legitimate business interests",
+   "url": "https://legislature.idaho.gov/statutesrules/idstat/Title44/T44CH27/",
+   "versions": [
+    {
+     "from": "2026-10-10",
+     "units": 4,
+     "source_url": "https://legislature.idaho.gov/statutesrules/idstat/Title44/T44CH27/",
+     "sha256": "aadcea91938fae6eff8af643b423ef399af337adf3c6449786e8c49e0b066f82"
+    }
+   ]
+  },
+  {
+   "slug": "title-0044-chapter-0028",
+   "short": "Idaho Code tit. 44, ch. 28",
+   "title": "Idaho Statutes, Title 44 (Labor), Chapter 28: Portable benefit plan act",
+   "url": "https://legislature.idaho.gov/statutesrules/idstat/Title44/T44CH28/",
+   "versions": [
+    {
+     "from": "2026-10-17",
+     "units": 4,
+     "source_url": "https://legislature.idaho.gov/statutesrules/idstat/Title44/T44CH28/",
+     "sha256": "0ba211360ef95589296308f10944fdebeb6a29884c1dc4a712b4892ea60c495b"
+    }
+   ]
+  },
+  {
+   "slug": "title-0045-chapter-0003",
+   "short": "Idaho Code tit. 45, ch. 3",
+   "title": "Idaho Statutes, Title 45 (Liens, mortgages and pledges), Chapter 3: Liens in crops",
+   "url": "https://legislature.idaho.gov/statutesrules/idstat/Title45/T45CH3/",
+   "versions": [
+    {
+     "from": "2026-09-17",
+     "units": 17,
+     "source_url": "https://legislature.idaho.gov/statutesrules/idstat/Title45/T45CH3/",
+     "sha256": "1e9d65efd9cdcdef0822b6f27b58900a67a6bb9773cc2bcd6edbb160c46f9d65"
+    }
+   ]
+  },
+  {
+   "slug": "title-0045-chapter-0005",
+   "short": "Idaho Code tit. 45, ch. 5",
+   "title": "Idaho Statutes, Title 45 (Liens, mortgages and pledges), Chapter 5: Liens of mechanics and materialmen",
+   "url": "https://legislature.idaho.gov/statutesrules/idstat/Title45/T45CH5/",
+   "versions": [
+    {
+     "from": "2026-10-15",
+     "units": 23,
+     "source_url": "https://legislature.idaho.gov/statutesrules/idstat/Title45/T45CH5/",
+     "sha256": "e96c674f7f71ba7e6583a92b0cae7e93a4d2784ec4b7c0110c08499f595b04f2"
+    }
+   ]
+  },
+  {
+   "slug": "title-0045-chapter-0007",
+   "short": "Idaho Code tit. 45, ch. 7",
+   "title": "Idaho Statutes, Title 45 (Liens, mortgages and pledges), Chapter 7: Hospital and nursing care liens",
+   "url": "https://legislature.idaho.gov/statutesrules/idstat/Title45/T45CH7/",
+   "versions": [
+    {
+     "from": "2026-10-12",
+     "units": 7,
+     "source_url": "https://legislature.idaho.gov/statutesrules/idstat/Title45/T45CH7/",
+     "sha256": "b580aea2dd5ef3dc4b12e1bb7f528a97e5695b34a4fe201078a0d61c38c77596"
+    }
+   ]
+  },
+  {
+   "slug": "title-0045-chapter-0011",
+   "short": "Idaho Code tit. 45, ch. 11",
+   "title": "Idaho Statutes, Title 45 (Liens, mortgages and pledges), Chapter 11: Aircraft improvement liens",
+   "url": "https://legislature.idaho.gov/statutesrules/idstat/Title45/T45CH11/",
+   "versions": [
+    {
+     "from": "2026-10-15",
+     "units": 7,
+     "source_url": "https://legislature.idaho.gov/statutesrules/idstat/Title45/T45CH11/",
+     "sha256": "bd259a0438e8c95e7d7cfdabd8bc256956c93421a9daf85e5df19a6587e81486"
+    }
+   ]
+  },
+  {
+   "slug": "title-0045-chapter-0012",
+   "short": "Idaho Code tit. 45, ch. 12",
+   "title": "Idaho Statutes, Title 45 (Liens, mortgages and pledges), Chapter 12: Reconveyance",
+   "url": "https://legislature.idaho.gov/statutesrules/idstat/Title45/T45CH12/",
+   "versions": [
+    {
+     "from": "2026-10-18",
+     "units": 6,
+     "source_url": "https://legislature.idaho.gov/statutesrules/idstat/Title45/T45CH12/",
+     "sha256": "99b9bca95aa999b886580985f96ec555d9fa037375ae0f430d9e0b9bf0c56dd4"
+    }
+   ]
+  },
+  {
+   "slug": "title-0045-chapter-0015",
+   "short": "Idaho Code tit. 45, ch. 15",
+   "title": "Idaho Statutes, Title 45 (Liens, mortgages and pledges), Chapter 15: Trust deeds",
+   "url": "https://legislature.idaho.gov/statutesrules/idstat/Title45/T45CH15/",
+   "versions": [
+    {
+     "from": "2026-10-18",
+     "units": 17,
+     "source_url": "https://legislature.idaho.gov/statutesrules/idstat/Title45/T45CH15/",
+     "sha256": "3cd36b9702160234ff38307cd764d560e5b737e207bff3727ca6f9d3e08ffb3e"
+    }
+   ]
+  },
+  {
+   "slug": "title-0045-chapter-0019",
+   "short": "Idaho Code tit. 45, ch. 19",
+   "title": "Idaho Statutes, Title 45 (Liens, mortgages and pledges), Chapter 19: State liens",
+   "url": "https://legislature.idaho.gov/statutesrules/idstat/Title45/T45CH19/",
+   "versions": [
+    {
+     "from": "2026-10-18",
+     "units": 10,
+     "source_url": "https://legislature.idaho.gov/statutesrules/idstat/Title45/T45CH19/",
+     "sha256": "4bae82eaf2f3454a703a57bc7e1ee03cea710978077d9518abf3fce7b3456ffb"
+    }
+   ]
+  },
+  {
+   "slug": "title-0046-chapter-0002",
+   "short": "Idaho Code tit. 46, ch. 2",
+   "title": "Idaho Statutes, Title 46 (Militia and military affairs), Chapter 2: Officers and enlisted personnel",
+   "url": "https://legislature.idaho.gov/statutesrules/idstat/Title46/T46CH2/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 16,
+     "source_url": "https://legislature.idaho.gov/statutesrules/idstat/Title46/T46CH2/",
+     "sha256": "217fd0a3bc013bd2a73435e6889034d80b69b10c8232af14256aee6a1f35d6b1"
+    }
+   ]
+  },
+  {
+   "slug": "title-0046-chapter-0004",
+   "short": "Idaho Code tit. 46, ch. 4",
+   "title": "Idaho Statutes, Title 46 (Militia and military affairs), Chapter 4: Immunities and privileges",
+   "url": "https://legislature.idaho.gov/statutesrules/idstat/Title46/T46CH4/",
+   "versions": [
+    {
+     "from": "2026-09-07",
+     "units": 9,
+     "source_url": "https://legislature.idaho.gov/statutesrules/idstat/Title46/T46CH4/",
+     "sha256": "d9de68a80c5d2b1e7342d5b8946bed2cedaa925ede917af908dbaac9ee6a9bfd"
     }
    ]
   },
