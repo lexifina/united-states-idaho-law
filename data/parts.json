@@ -9,6 +9,37 @@
    ],
    "sha256": "4a21e0c2d9219a22ca692417b6ed9a2aa8b0ce6d7adc15860e828e9fb9ff1359"
   },
+  "title-10.json": {
+   "acts": [
+    "title-0010-chapter-0011"
+   ],
+   "sha256": "80b9c7be2dd598e2d7042fda307abd28c7d23189b27407ef2c0b9a44f1954a36"
+  },
+  "title-11.json": {
+   "acts": [
+    "title-0011-chapter-0002"
+   ],
+   "sha256": "6292b059efa22947ac12cd3e190d1250a9dd7c7b7d3229fa85dc144b3351cf25"
+  },
+  "title-12.json": {
+   "acts": [
+    "title-0012-chapter-0003"
+   ],
+   "sha256": "38d72bf7261d7bade0df3a14070e3ab977bbff40119d8a3d7051aad6fe429241"
+  },
+  "title-13.json": {
+   "acts": [
+    "title-0013-chapter-0002"
+   ],
+   "sha256": "a791fd2ceda68b9b51e58009dee837518193f09be19dfe2e998145728d60f70f"
+  },
+  "title-16.json": {
+   "acts": [
+    "title-0016-chapter-0015",
+    "title-0016-chapter-0020"
+   ],
+   "sha256": "9d4fab4970caf625b943876287773cfa251aa19a4facee9122017848d3ecfb25"
+  },
   "title-18.json": {
    "acts": [
     "title-0018-chapter-0001",
@@ -188,6 +219,18 @@
    ],
    "sha256": "a764cb8636b4cf874a508a63f8158f712068d476b623e088141fa0234357949b"
   },
+  "title-7-b.json": {
+   "acts": [
+    "title-0007-chapter-0007",
+    "title-0007-chapter-0008",
+    "title-0007-chapter-0009",
+    "title-0007-chapter-0010",
+    "title-0007-chapter-0011",
+    "title-0007-chapter-0013",
+    "title-0007-chapter-0015"
+   ],
+   "sha256": "8f73a840577438cbbc18a78f89cb6095d1948a9da1f856a2f566427fe94a6784"
+  },
   "title-7.json": {
    "acts": [
     "title-0007-chapter-0002",
@@ -195,6 +238,22 @@
     "title-0007-chapter-0006"
    ],
    "sha256": "7fc06167cb067e6f13a513b460ac6466c41c2f12ec86935481d6f0e150a72d1f"
+  },
+  "title-8.json": {
+   "acts": [
+    "title-0008-chapter-0003",
+    "title-0008-chapter-0005"
+   ],
+   "sha256": "886fb6f51aa0342338559bf274a9bc93c1441b30d7c64984cfcf1aef29d82a10"
+  },
+  "title-9.json": {
+   "acts": [
+    "title-0009-chapter-0007",
+    "title-0009-chapter-0008",
+    "title-0009-chapter-0014",
+    "title-0009-chapter-0015"
+   ],
+   "sha256": "32a807688e8e921885120bac3d22348e82ab59e85c86044c4cc9b7ae996afa9c"
   }
  },
  "schema": 1

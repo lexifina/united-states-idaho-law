@@ -72,6 +72,90 @@
    ]
   },
   {
+   "slug": "title-0010-chapter-0011",
+   "short": "Idaho Code tit. 10, ch. 11",
+   "title": "Idaho Statutes, Title 10 (Issues, trial and judgment in civil actions), Chapter 11: Manner of giving and entering judgment - lien and satisfaction",
+   "url": "https://legislature.idaho.gov/statutesrules/idstat/Title10/T10CH11/",
+   "versions": [
+    {
+     "from": "2026-10-12",
+     "units": 4,
+     "source_url": "https://legislature.idaho.gov/statutesrules/idstat/Title10/T10CH11/",
+     "sha256": "6f4d69e499b65b7e5f3e88a01512acbf866a301d24dadb4ec14cd803dec16e98"
+    }
+   ]
+  },
+  {
+   "slug": "title-0011-chapter-0002",
+   "short": "Idaho Code tit. 11, ch. 2",
+   "title": "Idaho Statutes, Title 11 (Enforcement of judgments in civil actions), Chapter 2: Property subject to execution - exemptions",
+   "url": "https://legislature.idaho.gov/statutesrules/idstat/Title11/T11CH2/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 5,
+     "source_url": "https://legislature.idaho.gov/statutesrules/idstat/Title11/T11CH2/",
+     "sha256": "8431d19c0d44e2a35d5c928cecd7b9e3a9443d3edb92e5004b374d8a45d80a82"
+    }
+   ]
+  },
+  {
+   "slug": "title-0012-chapter-0003",
+   "short": "Idaho Code tit. 12, ch. 3",
+   "title": "Idaho Statutes, Title 12 (Costs and miscellaneous matters in civil actions), Chapter 3: Interest on offers of settlement",
+   "url": "https://legislature.idaho.gov/statutesrules/idstat/Title12/T12CH3/",
+   "versions": [
+    {
+     "from": "2026-08-14",
+     "units": 3,
+     "source_url": "https://legislature.idaho.gov/statutesrules/idstat/Title12/T12CH3/",
+     "sha256": "cb479c4395af20681871f5fb143fc8ce53d54ccea83b7a706f9792ec6509d4c9"
+    }
+   ]
+  },
+  {
+   "slug": "title-0013-chapter-0002",
+   "short": "Idaho Code tit. 13, ch. 2",
+   "title": "Idaho Statutes, Title 13 (Appeals in civil actions), Chapter 2: Appeals to supreme court from district courts",
+   "url": "https://legislature.idaho.gov/statutesrules/idstat/Title13/T13CH2/",
+   "versions": [
+    {
+     "from": "2026-10-18",
+     "units": 3,
+     "source_url": "https://legislature.idaho.gov/statutesrules/idstat/Title13/T13CH2/",
+     "sha256": "1d27f9b547004faaa43ff4047a91c4bfe0119d0a95585278e08e6a5b6173d53a"
+    }
+   ]
+  },
+  {
+   "slug": "title-0016-chapter-0015",
+   "short": "Idaho Code tit. 16, ch. 15",
+   "title": "Idaho Statutes, Title 16 (Juvenile proceedings), Chapter 15: Adoption of children",
+   "url": "https://legislature.idaho.gov/statutesrules/idstat/Title16/T16CH15/",
+   "versions": [
+    {
+     "from": "2026-10-17",
+     "units": 18,
+     "source_url": "https://legislature.idaho.gov/statutesrules/idstat/Title16/T16CH15/",
+     "sha256": "40f9b739b430b444f5d14f7e03009d15075328f8ab989ddbad9b0f23a3d8e4e8"
+    }
+   ]
+  },
+  {
+   "slug": "title-0016-chapter-0020",
+   "short": "Idaho Code tit. 16, ch. 20",
+   "title": "Idaho Statutes, Title 16 (Juvenile proceedings), Chapter 20: Termination of parent and child relationship",
+   "url": "https://legislature.idaho.gov/statutesrules/idstat/Title16/T16CH20/",
+   "versions": [
+    {
+     "from": "2026-09-11",
+     "units": 15,
+     "source_url": "https://legislature.idaho.gov/statutesrules/idstat/Title16/T16CH20/",
+     "sha256": "cf1d43ab4ed09d7e70c90e31fc0d41d74573a13f5d9d43c4091c52df3a801047"
+    }
+   ]
+  },
+  {
    "slug": "title-0018-chapter-0001",
    "short": "Idaho Code tit. 18, ch. 1",
    "title": "Idaho Statutes, Title 18 (Crimes and punishments), Chapter 1: Preliminary provisions",
@@ -2088,6 +2172,104 @@
    ]
   },
   {
+   "slug": "title-0007-chapter-0007",
+   "short": "Idaho Code tit. 7, ch. 7",
+   "title": "Idaho Statutes, Title 7 (Special proceedings), Chapter 7: Eminent domain",
+   "url": "https://legislature.idaho.gov/statutesrules/idstat/Title7/T7CH7/",
+   "versions": [
+    {
+     "from": "2026-10-17",
+     "units": 23,
+     "source_url": "https://legislature.idaho.gov/statutesrules/idstat/Title7/T7CH7/",
+     "sha256": "d75cde7c303576ab3fb5ac531808d2e93140fe8f2e4cefc08563125d2fb14a25"
+    }
+   ]
+  },
+  {
+   "slug": "title-0007-chapter-0008",
+   "short": "Idaho Code tit. 7, ch. 8",
+   "title": "Idaho Statutes, Title 7 (Special proceedings), Chapter 8: Change of names",
+   "url": "https://legislature.idaho.gov/statutesrules/idstat/Title7/T7CH8/",
+   "versions": [
+    {
+     "from": "2026-10-18",
+     "units": 5,
+     "source_url": "https://legislature.idaho.gov/statutesrules/idstat/Title7/T7CH8/",
+     "sha256": "0d61e7846ab73945dcbeb37888746077c301f60da41ecedddaed0274a5e89158"
+    }
+   ]
+  },
+  {
+   "slug": "title-0007-chapter-0009",
+   "short": "Idaho Code tit. 7, ch. 9",
+   "title": "Idaho Statutes, Title 7 (Special proceedings), Chapter 9: Uniform arbitration act",
+   "url": "https://legislature.idaho.gov/statutesrules/idstat/Title7/T7CH9/",
+   "versions": [
+    {
+     "from": "2026-10-15",
+     "units": 22,
+     "source_url": "https://legislature.idaho.gov/statutesrules/idstat/Title7/T7CH9/",
+     "sha256": "d181fdc9f5e18a6c7017e300ba6ecfde6cf696b01a14a8a10af8a6cd6b944e25"
+    }
+   ]
+  },
+  {
+   "slug": "title-0007-chapter-0010",
+   "short": "Idaho Code tit. 7, ch. 10",
+   "title": "Idaho Statutes, Title 7 (Special proceedings), Chapter 10: Uniform interstate family support act",
+   "url": "https://legislature.idaho.gov/statutesrules/idstat/Title7/T7CH10/",
+   "versions": [
+    {
+     "from": "2026-10-16",
+     "units": 78,
+     "source_url": "https://legislature.idaho.gov/statutesrules/idstat/Title7/T7CH10/",
+     "sha256": "5894f1d000ef86941889f1e2c4b858026c30fce8ae00e8cb21e8a90126da8b99"
+    }
+   ]
+  },
+  {
+   "slug": "title-0007-chapter-0011",
+   "short": "Idaho Code tit. 7, ch. 11",
+   "title": "Idaho Statutes, Title 7 (Special proceedings), Chapter 11: Proceedings to establish paternity",
+   "url": "https://legislature.idaho.gov/statutesrules/idstat/Title7/T7CH11/",
+   "versions": [
+    {
+     "from": "2026-10-12",
+     "units": 26,
+     "source_url": "https://legislature.idaho.gov/statutesrules/idstat/Title7/T7CH11/",
+     "sha256": "5b047a996be7dc68e5b1e3ecd3a75da61553aa39f241763302714341e45537ca"
+    }
+   ]
+  },
+  {
+   "slug": "title-0007-chapter-0013",
+   "short": "Idaho Code tit. 7, ch. 13",
+   "title": "Idaho Statutes, Title 7 (Special proceedings), Chapter 13: Judicial confirmation",
+   "url": "https://legislature.idaho.gov/statutesrules/idstat/Title7/T7CH13/",
+   "versions": [
+    {
+     "from": "2026-08-11",
+     "units": 13,
+     "source_url": "https://legislature.idaho.gov/statutesrules/idstat/Title7/T7CH13/",
+     "sha256": "c91a6d985ffdc1ad4883c6193ef8126058178010ddddaa86d242b6fbc1df24dc"
+    }
+   ]
+  },
+  {
+   "slug": "title-0007-chapter-0015",
+   "short": "Idaho Code tit. 7, ch. 15",
+   "title": "Idaho Statutes, Title 7 (Special proceedings), Chapter 15: Small lawsuit resolution act",
+   "url": "https://legislature.idaho.gov/statutesrules/idstat/Title7/T7CH15/",
+   "versions": [
+    {
+     "from": "2026-10-17",
+     "units": 12,
+     "source_url": "https://legislature.idaho.gov/statutesrules/idstat/Title7/T7CH15/",
+     "sha256": "62587631dcca6f11b40c9b1be3fb9d80748eb790f30b2421bca9291d39390bae"
+    }
+   ]
+  },
+  {
    "slug": "title-0007-chapter-0002",
    "short": "Idaho Code tit. 7, ch. 2",
    "title": "Idaho Statutes, Title 7 (Special proceedings), Chapter 2: Writs of review (repealed)",
@@ -2126,6 +2308,90 @@
      "units": 16,
      "source_url": "https://legislature.idaho.gov/statutesrules/idstat/Title7/T7CH6/",
      "sha256": "55decd11b3e55471538a03d58f3349420e44ec7cd372111d0d0eb777a15a2792"
+    }
+   ]
+  },
+  {
+   "slug": "title-0008-chapter-0003",
+   "short": "Idaho Code tit. 8, ch. 3",
+   "title": "Idaho Statutes, Title 8 (Provisional remedies in civil actions), Chapter 3: Claim and delivery of personal property",
+   "url": "https://legislature.idaho.gov/statutesrules/idstat/Title8/T8CH3/",
+   "versions": [
+    {
+     "from": "2026-10-15",
+     "units": 12,
+     "source_url": "https://legislature.idaho.gov/statutesrules/idstat/Title8/T8CH3/",
+     "sha256": "113b63c9e55c630c84458c3b547c7fe94695febb3ae3ba0f0803f933662280ac"
+    }
+   ]
+  },
+  {
+   "slug": "title-0008-chapter-0005",
+   "short": "Idaho Code tit. 8, ch. 5",
+   "title": "Idaho Statutes, Title 8 (Provisional remedies in civil actions), Chapter 5: Attachments",
+   "url": "https://legislature.idaho.gov/statutesrules/idstat/Title8/T8CH5/",
+   "versions": [
+    {
+     "from": "2026-10-17",
+     "units": 26,
+     "source_url": "https://legislature.idaho.gov/statutesrules/idstat/Title8/T8CH5/",
+     "sha256": "2d553d9ae21eccf16faea301406ecce05403629f21a6551de752ec107d1c85c7"
+    }
+   ]
+  },
+  {
+   "slug": "title-0009-chapter-0007",
+   "short": "Idaho Code tit. 9, ch. 7",
+   "title": "Idaho Statutes, Title 9 (Evidence), Chapter 7: Means of production of evidence",
+   "url": "https://legislature.idaho.gov/statutesrules/idstat/Title9/T9CH7/",
+   "versions": [
+    {
+     "from": "2026-10-17",
+     "units": 8,
+     "source_url": "https://legislature.idaho.gov/statutesrules/idstat/Title9/T9CH7/",
+     "sha256": "d7c72bae6b23fdf32202f168c9a3e4b0486563696f95279d52a5954af553476c"
+    }
+   ]
+  },
+  {
+   "slug": "title-0009-chapter-0008",
+   "short": "Idaho Code tit. 9, ch. 8",
+   "title": "Idaho Statutes, Title 9 (Evidence), Chapter 8: Uniform mediation act",
+   "url": "https://legislature.idaho.gov/statutesrules/idstat/Title9/T9CH8/",
+   "versions": [
+    {
+     "from": "2026-06-15",
+     "units": 14,
+     "source_url": "https://legislature.idaho.gov/statutesrules/idstat/Title9/T9CH8/",
+     "sha256": "1941a6d903faf30ff7f3468eba35465ff499717ab84410b16852045ec987f2db"
+    }
+   ]
+  },
+  {
+   "slug": "title-0009-chapter-0014",
+   "short": "Idaho Code tit. 9, ch. 14",
+   "title": "Idaho Statutes, Title 9 (Evidence), Chapter 14: Administration of oaths and affirmations",
+   "url": "https://legislature.idaho.gov/statutesrules/idstat/Title9/T9CH14/",
+   "versions": [
+    {
+     "from": "2026-10-10",
+     "units": 6,
+     "source_url": "https://legislature.idaho.gov/statutesrules/idstat/Title9/T9CH14/",
+     "sha256": "cb88f332b0c7517d6bbb58024063fda49c4d7f6666de4343127004c99a961227"
+    }
+   ]
+  },
+  {
+   "slug": "title-0009-chapter-0015",
+   "short": "Idaho Code tit. 9, ch. 15",
+   "title": "Idaho Statutes, Title 9 (Evidence), Chapter 15: Tender and receipt",
+   "url": "https://legislature.idaho.gov/statutesrules/idstat/Title9/T9CH15/",
+   "versions": [
+    {
+     "from": "2026-09-11",
+     "units": 2,
+     "source_url": "https://legislature.idaho.gov/statutesrules/idstat/Title9/T9CH15/",
+     "sha256": "809c71119fa8a93b1bda9b4430b5d89d427df09e9823ef2888c3db2d81042a92"
     }
    ]
   }
