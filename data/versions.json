@@ -1892,6 +1892,90 @@
    ]
   },
   {
+   "slug": "title-0006-chapter-0017",
+   "short": "Idaho Code tit. 6, ch. 17",
+   "title": "Idaho Statutes, Title 6 (Actions in particular cases), Chapter 17: Tort actions in child abuse cases",
+   "url": "https://legislature.idaho.gov/statutesrules/idstat/Title6/T6CH17/",
+   "versions": [
+    {
+     "from": "2026-10-06",
+     "units": 5,
+     "source_url": "https://legislature.idaho.gov/statutesrules/idstat/Title6/T6CH17/",
+     "sha256": "d30dc53e975e91bb8dca365420e287e649f159b5c2efa99d54655e525db0efd6"
+    }
+   ]
+  },
+  {
+   "slug": "title-0006-chapter-0019",
+   "short": "Idaho Code tit. 6, ch. 19",
+   "title": "Idaho Statutes, Title 6 (Actions in particular cases), Chapter 19: Limitation of a mental health professional's duty to warn",
+   "url": "https://legislature.idaho.gov/statutesrules/idstat/Title6/T6CH19/",
+   "versions": [
+    {
+     "from": "2026-05-17",
+     "units": 4,
+     "source_url": "https://legislature.idaho.gov/statutesrules/idstat/Title6/T6CH19/",
+     "sha256": "bce162f3d303ca0dc5149925cb33ec8f415ac9c407c3fbffd7b55fd49e2c229c"
+    }
+   ]
+  },
+  {
+   "slug": "title-0006-chapter-0029",
+   "short": "Idaho Code tit. 6, ch. 29",
+   "title": "Idaho Statutes, Title 6 (Actions in particular cases), Chapter 29: Livestock activities immunity act",
+   "url": "https://legislature.idaho.gov/statutesrules/idstat/Title6/T6CH29/",
+   "versions": [
+    {
+     "from": "2026-07-19",
+     "units": 2,
+     "source_url": "https://legislature.idaho.gov/statutesrules/idstat/Title6/T6CH29/",
+     "sha256": "34436c6b3467d6e32322981ea9dec0a426e5b33ccf68b53d06fc846a177f6bfa"
+    }
+   ]
+  },
+  {
+   "slug": "title-0006-chapter-0032",
+   "short": "Idaho Code tit. 6, ch. 32",
+   "title": "Idaho Statutes, Title 6 (Actions in particular cases), Chapter 32: Foreign defamation judgments",
+   "url": "https://legislature.idaho.gov/statutesrules/idstat/Title6/T6CH32/",
+   "versions": [
+    {
+     "from": "2026-10-17",
+     "units": 2,
+     "source_url": "https://legislature.idaho.gov/statutesrules/idstat/Title6/T6CH32/",
+     "sha256": "6020bb75a2f92422ea1c8b0544e9ff23652c0271bf20d8714d3d2c16c5fb2f4c"
+    }
+   ]
+  },
+  {
+   "slug": "title-0006-chapter-0033",
+   "short": "Idaho Code tit. 6, ch. 33",
+   "title": "Idaho Statutes, Title 6 (Actions in particular cases), Chapter 33: Responsibilities and liabilities of bicyclists and mountain operators",
+   "url": "https://legislature.idaho.gov/statutesrules/idstat/Title6/T6CH33/",
+   "versions": [
+    {
+     "from": "2026-10-17",
+     "units": 9,
+     "source_url": "https://legislature.idaho.gov/statutesrules/idstat/Title6/T6CH33/",
+     "sha256": "8617aa84372056c49bae2bd776e360945fd07a024736a29d5972ff541d760d3a"
+    }
+   ]
+  },
+  {
+   "slug": "title-0006-chapter-0036",
+   "short": "Idaho Code tit. 6, ch. 36",
+   "title": "Idaho Statutes, Title 6 (Actions in particular cases), Chapter 36: Duties of recreational participants",
+   "url": "https://legislature.idaho.gov/statutesrules/idstat/Title6/T6CH36/",
+   "versions": [
+    {
+     "from": "2026-10-14",
+     "units": 1,
+     "source_url": "https://legislature.idaho.gov/statutesrules/idstat/Title6/T6CH36/",
+     "sha256": "bfbe8f4e9fbdd13754fb7fdc92c688a8df3845b333ad78f12c06997a35a15120"
+    }
+   ]
+  },
+  {
    "slug": "title-0006-chapter-0005",
    "short": "Idaho Code tit. 6, ch. 5",
    "title": "Idaho Statutes, Title 6 (Actions in particular cases), Chapter 5: Partition of real estate",
@@ -2000,6 +2084,48 @@
      "units": 7,
      "source_url": "https://legislature.idaho.gov/statutesrules/idstat/Title6/T6CH16/",
      "sha256": "4f0865c12b8f2a2a5f455979d8f564d9552cfe321580f2d344ca71b9a4703dea"
+    }
+   ]
+  },
+  {
+   "slug": "title-0007-chapter-0002",
+   "short": "Idaho Code tit. 7, ch. 2",
+   "title": "Idaho Statutes, Title 7 (Special proceedings), Chapter 2: Writs of review (repealed)",
+   "url": "https://legislature.idaho.gov/statutesrules/idstat/Title7/T7CH2/",
+   "versions": [
+    {
+     "from": "2026-10-17",
+     "units": 3,
+     "source_url": "https://legislature.idaho.gov/statutesrules/idstat/Title7/T7CH2/",
+     "sha256": "e3f297eade630959ac90cb5cb42c30c46a4f9302cfc531a3de11d43776d61c31"
+    }
+   ]
+  },
+  {
+   "slug": "title-0007-chapter-0003",
+   "short": "Idaho Code tit. 7, ch. 3",
+   "title": "Idaho Statutes, Title 7 (Special proceedings), Chapter 3: Writs of mandate",
+   "url": "https://legislature.idaho.gov/statutesrules/idstat/Title7/T7CH3/",
+   "versions": [
+    {
+     "from": "2026-10-17",
+     "units": 12,
+     "source_url": "https://legislature.idaho.gov/statutesrules/idstat/Title7/T7CH3/",
+     "sha256": "6b86608aa994938ea4cd38f80b30d1e4550841021af7e2dd30de78365b0ddec4"
+    }
+   ]
+  },
+  {
+   "slug": "title-0007-chapter-0006",
+   "short": "Idaho Code tit. 7, ch. 6",
+   "title": "Idaho Statutes, Title 7 (Special proceedings), Chapter 6: Contempts",
+   "url": "https://legislature.idaho.gov/statutesrules/idstat/Title7/T7CH6/",
+   "versions": [
+    {
+     "from": "2026-10-10",
+     "units": 16,
+     "source_url": "https://legislature.idaho.gov/statutesrules/idstat/Title7/T7CH6/",
+     "sha256": "55decd11b3e55471538a03d58f3349420e44ec7cd372111d0d0eb777a15a2792"
     }
    ]
   }
