@@ -1,0 +1,70 @@
+# Idaho Statutes, Title 31 (Counties and county law), Chapter 8: Powers and duties of board of commissioners
+
+Idaho Code tit. 31, ch. 8 · 1 versions, from 2026-09-15 (latest in force: 2026-09-15) · <https://legislature.idaho.gov/statutesrules/idstat/Title31/T31CH8/>
+
+| Provision | File | Changes | Last changed |
+| --- | --- | ---: | --- |
+| Idaho Code § 31-801 | [sec-0031-0801.md](sec-0031-0801.md) | 0 |  |
+| Idaho Code § 31-802 | [sec-0031-0802.md](sec-0031-0802.md) | 0 |  |
+| Idaho Code § 31-803 | [sec-0031-0803.md](sec-0031-0803.md) | 0 |  |
+| Idaho Code § 31-804 | [sec-0031-0804.md](sec-0031-0804.md) | 0 |  |
+| Idaho Code § 31-805 | [sec-0031-0805.md](sec-0031-0805.md) | 0 |  |
+| Idaho Code § 31-806 | [sec-0031-0806.md](sec-0031-0806.md) | 0 |  |
+| Idaho Code § 31-807 | [sec-0031-0807.md](sec-0031-0807.md) | 0 |  |
+| Idaho Code § 31-807A | [sec-0031-0807a.md](sec-0031-0807a.md) | 0 |  |
+| Idaho Code § 31-808 | [sec-0031-0808.md](sec-0031-0808.md) | 0 |  |
+| Idaho Code § 31-809 | [sec-0031-0809.md](sec-0031-0809.md) | 0 |  |
+| Idaho Code § 31-809A | [sec-0031-0809a.md](sec-0031-0809a.md) | 0 |  |
+| Idaho Code § 31-810 | [sec-0031-0810.md](sec-0031-0810.md) | 0 |  |
+| Idaho Code § 31-811 | [sec-0031-0811.md](sec-0031-0811.md) | 0 |  |
+| Idaho Code § 31-812 | [sec-0031-0812.md](sec-0031-0812.md) | 0 |  |
+| Idaho Code § 31-813 | [sec-0031-0813.md](sec-0031-0813.md) | 0 |  |
+| Idaho Code § 31-814 | [sec-0031-0814.md](sec-0031-0814.md) | 0 |  |
+| Idaho Code § 31-815 | [sec-0031-0815.md](sec-0031-0815.md) | 0 |  |
+| Idaho Code § 31-815A | [sec-0031-0815a.md](sec-0031-0815a.md) | 0 |  |
+| Idaho Code § 31-816 | [sec-0031-0816.md](sec-0031-0816.md) | 0 |  |
+| Idaho Code § 31-817 | [sec-0031-0817.md](sec-0031-0817.md) | 0 |  |
+| Idaho Code § 31-818 | [sec-0031-0818.md](sec-0031-0818.md) | 0 |  |
+| Idaho Code § 31-819 | [sec-0031-0819.md](sec-0031-0819.md) | 0 |  |
+| Idaho Code § 31-820 | [sec-0031-0820.md](sec-0031-0820.md) | 0 |  |
+| Idaho Code § 31-821 | [sec-0031-0821.md](sec-0031-0821.md) | 0 |  |
+| Idaho Code § 31-822 | [sec-0031-0822.md](sec-0031-0822.md) | 0 |  |
+| Idaho Code § 31-823 | [sec-0031-0823.md](sec-0031-0823.md) | 0 |  |
+| Idaho Code § 31-824 | [sec-0031-0824.md](sec-0031-0824.md) | 0 |  |
+| Idaho Code § 31-825 | [sec-0031-0825.md](sec-0031-0825.md) | 0 |  |
+| Idaho Code § 31-826 | [sec-0031-0826.md](sec-0031-0826.md) | 0 |  |
+| Idaho Code § 31-828 | [sec-0031-0828.md](sec-0031-0828.md) | 0 |  |
+| Idaho Code § 31-829 | [sec-0031-0829.md](sec-0031-0829.md) | 0 |  |
+| Idaho Code § 31-830 | [sec-0031-0830.md](sec-0031-0830.md) | 0 |  |
+| Idaho Code § 31-831 | [sec-0031-0831.md](sec-0031-0831.md) | 0 |  |
+| Idaho Code § 31-832 | [sec-0031-0832.md](sec-0031-0832.md) | 0 |  |
+| Idaho Code § 31-833 | [sec-0031-0833.md](sec-0031-0833.md) | 0 |  |
+| Idaho Code § 31-834 | [sec-0031-0834.md](sec-0031-0834.md) | 0 |  |
+| Idaho Code § 31-836 | [sec-0031-0836.md](sec-0031-0836.md) | 0 |  |
+| Idaho Code § 31-839 | [sec-0031-0839.md](sec-0031-0839.md) | 0 |  |
+| Idaho Code § 31-840 | [sec-0031-0840.md](sec-0031-0840.md) | 0 |  |
+| Idaho Code § 31-844 | [sec-0031-0844.md](sec-0031-0844.md) | 0 |  |
+| Idaho Code § 31-845 | [sec-0031-0845.md](sec-0031-0845.md) | 0 |  |
+| Idaho Code § 31-846 | [sec-0031-0846.md](sec-0031-0846.md) | 0 |  |
+| Idaho Code § 31-847 | [sec-0031-0847.md](sec-0031-0847.md) | 0 |  |
+| Idaho Code § 31-855 | [sec-0031-0855.md](sec-0031-0855.md) | 0 |  |
+| Idaho Code § 31-856 | [sec-0031-0856.md](sec-0031-0856.md) | 0 |  |
+| Idaho Code § 31-857 | [sec-0031-0857.md](sec-0031-0857.md) | 0 |  |
+| Idaho Code § 31-862 | [sec-0031-0862.md](sec-0031-0862.md) | 0 |  |
+| Idaho Code § 31-864 | [sec-0031-0864.md](sec-0031-0864.md) | 0 |  |
+| Idaho Code § 31-866 | [sec-0031-0866.md](sec-0031-0866.md) | 0 |  |
+| Idaho Code § 31-867 | [sec-0031-0867.md](sec-0031-0867.md) | 0 |  |
+| Idaho Code § 31-868 | [sec-0031-0868.md](sec-0031-0868.md) | 0 |  |
+| Idaho Code § 31-869 | [sec-0031-0869.md](sec-0031-0869.md) | 0 |  |
+| Idaho Code § 31-870 | [sec-0031-0870.md](sec-0031-0870.md) | 0 |  |
+| Idaho Code § 31-871 | [sec-0031-0871.md](sec-0031-0871.md) | 0 |  |
+| Idaho Code § 31-871A | [sec-0031-0871a.md](sec-0031-0871a.md) | 0 |  |
+| Idaho Code § 31-874 | [sec-0031-0874.md](sec-0031-0874.md) | 0 |  |
+| Idaho Code § 31-875 | [sec-0031-0875.md](sec-0031-0875.md) | 0 |  |
+| Idaho Code § 31-876 | [sec-0031-0876.md](sec-0031-0876.md) | 0 |  |
+| Idaho Code § 31-877 | [sec-0031-0877.md](sec-0031-0877.md) | 0 |  |
+| Idaho Code § 31-878 | [sec-0031-0878.md](sec-0031-0878.md) | 0 |  |
+| Idaho Code § 31-879 | [sec-0031-0879.md](sec-0031-0879.md) | 0 |  |
+| Idaho Code § 31-880 | [sec-0031-0880.md](sec-0031-0880.md) | 0 |  |
+| Idaho Code § 31-881 | [sec-0031-0881.md](sec-0031-0881.md) | 0 |  |
+| Idaho Code § 31-882 | [sec-0031-0882.md](sec-0031-0882.md) | 0 |  |

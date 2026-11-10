@@ -268,6 +268,32 @@
    ],
    "sha256": "52dd8846c103aa288dba73ff2472d6f768a0377482d64d3851237bbd00706646"
   },
+  "title-31-b.json": {
+   "acts": [
+    "title-0031-chapter-0006",
+    "title-0031-chapter-0007",
+    "title-0031-chapter-0008",
+    "title-0031-chapter-0009",
+    "title-0031-chapter-0016",
+    "title-0031-chapter-0018",
+    "title-0031-chapter-0022",
+    "title-0031-chapter-0024",
+    "title-0031-chapter-0025",
+    "title-0031-chapter-0026",
+    "title-0031-chapter-0029",
+    "title-0031-chapter-0033",
+    "title-0031-chapter-0034",
+    "title-0031-chapter-0035",
+    "title-0031-chapter-0036",
+    "title-0031-chapter-0039",
+    "title-0031-chapter-0041",
+    "title-0031-chapter-0044",
+    "title-0031-chapter-0046",
+    "title-0031-chapter-0047",
+    "title-0031-chapter-0051"
+   ],
+   "sha256": "d52e9ce780878b08b5490815d4afe8993ee22ab1968bdbc2802f112f213e7f4a"
+  },
   "title-31.json": {
    "acts": [
     "title-0031-chapter-0003"
@@ -293,6 +319,12 @@
     "title-0032-chapter-0018"
    ],
    "sha256": "d575b08ce2999dbef98d777d4a96f3b6e3669bcde5e9390ea8c78e077d9b47de"
+  },
+  "title-33.json": {
+   "acts": [
+    "title-0033-chapter-0002"
+   ],
+   "sha256": "123d5b3c36666cdbf6001e1420185d74282f6c43fc813d70776c4442f15f0327"
   },
   "title-5.json": {
    "acts": [
