@@ -4090,6 +4090,132 @@
    ]
   },
   {
+   "slug": "title-0042-chapter-0003",
+   "short": "Idaho Code tit. 42, ch. 3",
+   "title": "Idaho Statutes, Title 42 (Irrigation and drainage - water rights and reclamation), Chapter 3: Appropriation of water - cancelation of permits",
+   "url": "https://legislature.idaho.gov/statutesrules/idstat/Title42/T42CH3/",
+   "versions": [
+    {
+     "from": "2026-09-15",
+     "units": 8,
+     "source_url": "https://legislature.idaho.gov/statutesrules/idstat/Title42/T42CH3/",
+     "sha256": "ff29ddc1cdb5309e667d7b4a9fccb5b49bb833b345186839dd3ec802b812837e"
+    }
+   ]
+  },
+  {
+   "slug": "title-0042-chapter-0007",
+   "short": "Idaho Code tit. 42, ch. 7",
+   "title": "Idaho Statutes, Title 42 (Irrigation and drainage - water rights and reclamation), Chapter 7: Headgates and measuring devices",
+   "url": "https://legislature.idaho.gov/statutesrules/idstat/Title42/T42CH7/",
+   "versions": [
+    {
+     "from": "2026-10-17",
+     "units": 14,
+     "source_url": "https://legislature.idaho.gov/statutesrules/idstat/Title42/T42CH7/",
+     "sha256": "5a777d23593bd8b208ae927be63bedcdbe1d7c13b82aad6536c8a4d6fe42f908"
+    }
+   ]
+  },
+  {
+   "slug": "title-0042-chapter-0011",
+   "short": "Idaho Code tit. 42, ch. 11",
+   "title": "Idaho Statutes, Title 42 (Irrigation and drainage - water rights and reclamation), Chapter 11: Rights of way",
+   "url": "https://legislature.idaho.gov/statutesrules/idstat/Title42/T42CH11/",
+   "versions": [
+    {
+     "from": "2026-10-06",
+     "units": 5,
+     "source_url": "https://legislature.idaho.gov/statutesrules/idstat/Title42/T42CH11/",
+     "sha256": "1559b6738f5c99919d3ffea5ed89fadab5e378c0426bbba18e2ec693d325ab55"
+    }
+   ]
+  },
+  {
+   "slug": "title-0042-chapter-0015",
+   "short": "Idaho Code tit. 42, ch. 15",
+   "title": "Idaho Statutes, Title 42 (Irrigation and drainage - water rights and reclamation), Chapter 15: Minimum stream flow",
+   "url": "https://legislature.idaho.gov/statutesrules/idstat/Title42/T42CH15/",
+   "versions": [
+    {
+     "from": "2026-10-16",
+     "units": 9,
+     "source_url": "https://legislature.idaho.gov/statutesrules/idstat/Title42/T42CH15/",
+     "sha256": "25eddd8056bc0a6907c529c884db2ce325b0e120b0224fe31d879bc66d6045c2"
+    }
+   ]
+  },
+  {
+   "slug": "title-0042-chapter-0016",
+   "short": "Idaho Code tit. 42, ch. 16",
+   "title": "Idaho Statutes, Title 42 (Irrigation and drainage - water rights and reclamation), Chapter 16: Artesian wells",
+   "url": "https://legislature.idaho.gov/statutesrules/idstat/Title42/T42CH16/",
+   "versions": [
+    {
+     "from": "2026-10-10",
+     "units": 6,
+     "source_url": "https://legislature.idaho.gov/statutesrules/idstat/Title42/T42CH16/",
+     "sha256": "18a41012c687609d598550730915f345469d3142c37bc7809ccfa28c14085b1b"
+    }
+   ]
+  },
+  {
+   "slug": "title-0042-chapter-0024",
+   "short": "Idaho Code tit. 42, ch. 24",
+   "title": "Idaho Statutes, Title 42 (Irrigation and drainage - water rights and reclamation), Chapter 24: Conformation of operating companies to district system",
+   "url": "https://legislature.idaho.gov/statutesrules/idstat/Title42/T42CH24/",
+   "versions": [
+    {
+     "from": "2026-10-18",
+     "units": 4,
+     "source_url": "https://legislature.idaho.gov/statutesrules/idstat/Title42/T42CH24/",
+     "sha256": "28c1f04058a69f9732f07a2bed56d268f3e383a6319db26c92d9ab1ecd2aa15f"
+    }
+   ]
+  },
+  {
+   "slug": "title-0042-chapter-0025",
+   "short": "Idaho Code tit. 42, ch. 25",
+   "title": "Idaho Statutes, Title 42 (Irrigation and drainage - water rights and reclamation), Chapter 25: Transfer and lease of carey act water rights",
+   "url": "https://legislature.idaho.gov/statutesrules/idstat/Title42/T42CH25/",
+   "versions": [
+    {
+     "from": "2026-09-08",
+     "units": 6,
+     "source_url": "https://legislature.idaho.gov/statutesrules/idstat/Title42/T42CH25/",
+     "sha256": "2275ccc52577d55932868367b994d2960af91888773a178b4c70156709ba9ee7"
+    }
+   ]
+  },
+  {
+   "slug": "title-0042-chapter-0027",
+   "short": "Idaho Code tit. 42, ch. 27",
+   "title": "Idaho Statutes, Title 42 (Irrigation and drainage - water rights and reclamation), Chapter 27: State cooperation with united states reclamation service",
+   "url": "https://legislature.idaho.gov/statutesrules/idstat/Title42/T42CH27/",
+   "versions": [
+    {
+     "from": "2026-10-17",
+     "units": 9,
+     "source_url": "https://legislature.idaho.gov/statutesrules/idstat/Title42/T42CH27/",
+     "sha256": "c58888b1221cd95f069ded8fc51cc765f63b3ce190b45aa78e920e348402b369"
+    }
+   ]
+  },
+  {
+   "slug": "title-0042-chapter-0030",
+   "short": "Idaho Code tit. 42, ch. 30",
+   "title": "Idaho Statutes, Title 42 (Irrigation and drainage - water rights and reclamation), Chapter 30: Drainage district refunding bonds",
+   "url": "https://legislature.idaho.gov/statutesrules/idstat/Title42/T42CH30/",
+   "versions": [
+    {
+     "from": "2026-10-18",
+     "units": 9,
+     "source_url": "https://legislature.idaho.gov/statutesrules/idstat/Title42/T42CH30/",
+     "sha256": "b65b892b59e92bf03c0c5f659798aa2fa3d4198c7ff3ac8889a553fdc4a938d7"
+    }
+   ]
+  },
+  {
    "slug": "title-0005-chapter-0002",
    "short": "Idaho Code tit. 5, ch. 2",
    "title": "Idaho Statutes, Title 5 (Proceedings in civil actions in courts of record), Chapter 2: Limitation of actions",

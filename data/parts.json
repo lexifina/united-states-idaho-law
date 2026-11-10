@@ -461,6 +461,20 @@
    ],
    "sha256": "2b399294fb423584bd1389aa3d58f86adfda58f97b2bb75bdb06ec69ebde5c80"
   },
+  "title-42.json": {
+   "acts": [
+    "title-0042-chapter-0003",
+    "title-0042-chapter-0007",
+    "title-0042-chapter-0011",
+    "title-0042-chapter-0015",
+    "title-0042-chapter-0016",
+    "title-0042-chapter-0024",
+    "title-0042-chapter-0025",
+    "title-0042-chapter-0027",
+    "title-0042-chapter-0030"
+   ],
+   "sha256": "d2dd61148a7d611abc1c11a52f3f5e35fcdaea026d564ac746da5e09b06decba"
+  },
   "title-5.json": {
    "acts": [
     "title-0005-chapter-0002",
