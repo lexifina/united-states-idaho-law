@@ -2886,6 +2886,230 @@
    ]
   },
   {
+   "slug": "title-0033-chapter-0018",
+   "short": "Idaho Code tit. 33, ch. 18",
+   "title": "Idaho Statutes, Title 33 (Education), Chapter 18: Idaho literacy achievement and accountability act",
+   "url": "https://legislature.idaho.gov/statutesrules/idstat/Title33/T33CH18/",
+   "versions": [
+    {
+     "from": "2026-09-16",
+     "units": 11,
+     "source_url": "https://legislature.idaho.gov/statutesrules/idstat/Title33/T33CH18/",
+     "sha256": "a76fdac53df6016179f45fe1b567416b6eb1673b0f679f9e5e0cb2771aba9c11"
+    }
+   ]
+  },
+  {
+   "slug": "title-0033-chapter-0020",
+   "short": "Idaho Code tit. 33, ch. 20",
+   "title": "Idaho Statutes, Title 33 (Education), Chapter 20: Education of exceptional children",
+   "url": "https://legislature.idaho.gov/statutesrules/idstat/Title33/T33CH20/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 9,
+     "source_url": "https://legislature.idaho.gov/statutesrules/idstat/Title33/T33CH20/",
+     "sha256": "759abcb1562a31698989315ce611be973a94efa57621f572749a15ce6d96ecd8"
+    }
+   ]
+  },
+  {
+   "slug": "title-0033-chapter-0025",
+   "short": "Idaho Code tit. 33, ch. 25",
+   "title": "Idaho Statutes, Title 33 (Education), Chapter 25: Commission for libraries",
+   "url": "https://legislature.idaho.gov/statutesrules/idstat/Title33/T33CH25/",
+   "versions": [
+    {
+     "from": "2026-10-16",
+     "units": 11,
+     "source_url": "https://legislature.idaho.gov/statutesrules/idstat/Title33/T33CH25/",
+     "sha256": "4653f3ec5529a9b87b4dffcd96535bfda5b64d84c210ee8c14acf970b8ec7fd2"
+    }
+   ]
+  },
+  {
+   "slug": "title-0033-chapter-0027",
+   "short": "Idaho Code tit. 33, ch. 27",
+   "title": "Idaho Statutes, Title 33 (Education), Chapter 27: Public library districts",
+   "url": "https://legislature.idaho.gov/statutesrules/idstat/Title33/T33CH27/",
+   "versions": [
+    {
+     "from": "2026-10-16",
+     "units": 34,
+     "source_url": "https://legislature.idaho.gov/statutesrules/idstat/Title33/T33CH27/",
+     "sha256": "0ace7bdee90ec1e6f2de1ef3882164fc0683b9a21bc7e821fa4cd0b9f5012ef1"
+    }
+   ]
+  },
+  {
+   "slug": "title-0033-chapter-0031",
+   "short": "Idaho Code tit. 33, ch. 31",
+   "title": "Idaho Statutes, Title 33 (Education), Chapter 31: Lewis-clark state college",
+   "url": "https://legislature.idaho.gov/statutesrules/idstat/Title33/T33CH31/",
+   "versions": [
+    {
+     "from": "2026-10-17",
+     "units": 9,
+     "source_url": "https://legislature.idaho.gov/statutesrules/idstat/Title33/T33CH31/",
+     "sha256": "21806b48be4bc553dfbf20bd8b03e8b71b76447ca0a7a45646f1c378a4e08418"
+    }
+   ]
+  },
+  {
+   "slug": "title-0033-chapter-0035",
+   "short": "Idaho Code tit. 33, ch. 35",
+   "title": "Idaho Statutes, Title 33 (Education), Chapter 35: State youth services center",
+   "url": "https://legislature.idaho.gov/statutesrules/idstat/Title33/T33CH35/",
+   "versions": [
+    {
+     "from": "2026-08-18",
+     "units": 3,
+     "source_url": "https://legislature.idaho.gov/statutesrules/idstat/Title33/T33CH35/",
+     "sha256": "ad2849b11b1aa55ca7ce500ac4c37029c62e26ca346811e6fa280e95f6351970"
+    }
+   ]
+  },
+  {
+   "slug": "title-0033-chapter-0036",
+   "short": "Idaho Code tit. 33, ch. 36",
+   "title": "Idaho Statutes, Title 33 (Education), Chapter 36: Compact for cooperation in higher education",
+   "url": "https://legislature.idaho.gov/statutesrules/idstat/Title33/T33CH36/",
+   "versions": [
+    {
+     "from": "2026-10-15",
+     "units": 4,
+     "source_url": "https://legislature.idaho.gov/statutesrules/idstat/Title33/T33CH36/",
+     "sha256": "cb689f74deac611fd51713b2aa78dd26af03369543411e6459dc788602a7e968"
+    }
+   ]
+  },
+  {
+   "slug": "title-0033-chapter-0038",
+   "short": "Idaho Code tit. 33, ch. 38",
+   "title": "Idaho Statutes, Title 33 (Education), Chapter 38: State institutions of higher education bond act",
+   "url": "https://legislature.idaho.gov/statutesrules/idstat/Title33/T33CH38/",
+   "versions": [
+    {
+     "from": "2026-09-14",
+     "units": 12,
+     "source_url": "https://legislature.idaho.gov/statutesrules/idstat/Title33/T33CH38/",
+     "sha256": "7c4527cfeb5e92b3f1ede299cfdb5d45ac270e4ed2ffa3733312789d34a95365"
+    }
+   ]
+  },
+  {
+   "slug": "title-0033-chapter-0042",
+   "short": "Idaho Code tit. 33, ch. 42",
+   "title": "Idaho Statutes, Title 33 (Education), Chapter 42: North idaho college",
+   "url": "https://legislature.idaho.gov/statutesrules/idstat/Title33/T33CH42/",
+   "versions": [
+    {
+     "from": "2026-09-13",
+     "units": 1,
+     "source_url": "https://legislature.idaho.gov/statutesrules/idstat/Title33/T33CH42/",
+     "sha256": "66981cb68ff30ad3d8a813ce395762cfcd4d67072edce62a1db0cd0b7d0cbdc8"
+    }
+   ]
+  },
+  {
+   "slug": "title-0033-chapter-0048",
+   "short": "Idaho Code tit. 33, ch. 48",
+   "title": "Idaho Statutes, Title 33 (Education), Chapter 48: Idaho educational technology initiative",
+   "url": "https://legislature.idaho.gov/statutesrules/idstat/Title33/T33CH48/",
+   "versions": [
+    {
+     "from": "2026-10-15",
+     "units": 6,
+     "source_url": "https://legislature.idaho.gov/statutesrules/idstat/Title33/T33CH48/",
+     "sha256": "9f1ddae14fd4f0909d4011e11526596609c35b727b63e3b4f05a34a7569e7b4c"
+    }
+   ]
+  },
+  {
+   "slug": "title-0033-chapter-0053",
+   "short": "Idaho Code tit. 33, ch. 53",
+   "title": "Idaho Statutes, Title 33 (Education), Chapter 53: Idaho school bond guaranty act",
+   "url": "https://legislature.idaho.gov/statutesrules/idstat/Title33/T33CH53/",
+   "versions": [
+    {
+     "from": "2026-10-05",
+     "units": 11,
+     "source_url": "https://legislature.idaho.gov/statutesrules/idstat/Title33/T33CH53/",
+     "sha256": "216096ffbb1c219b92909189a82b577592105beec6b54daaa8042b1f27bc2a0a"
+    }
+   ]
+  },
+  {
+   "slug": "title-0033-chapter-0055",
+   "short": "Idaho Code tit. 33, ch. 55",
+   "title": "Idaho Statutes, Title 33 (Education), Chapter 55: Idaho digital learning academy",
+   "url": "https://legislature.idaho.gov/statutesrules/idstat/Title33/T33CH55/",
+   "versions": [
+    {
+     "from": "2026-10-15",
+     "units": 11,
+     "source_url": "https://legislature.idaho.gov/statutesrules/idstat/Title33/T33CH55/",
+     "sha256": "447c6c1c2ae755a0c5f9f3ce48c761e09776eb49e8095252e074957865a008ba"
+    }
+   ]
+  },
+  {
+   "slug": "title-0033-chapter-0057",
+   "short": "Idaho Code tit. 33, ch. 57",
+   "title": "Idaho Statutes, Title 33 (Education), Chapter 57: Interstate compact on educational opportunity for military children",
+   "url": "https://legislature.idaho.gov/statutesrules/idstat/Title33/T33CH57/",
+   "versions": [
+    {
+     "from": "2026-06-14",
+     "units": 1,
+     "source_url": "https://legislature.idaho.gov/statutesrules/idstat/Title33/T33CH57/",
+     "sha256": "aad8572a87e858e6f2d274f04626829b4774862a6ece8a76c9bd104cf5bde79b"
+    }
+   ]
+  },
+  {
+   "slug": "title-0033-chapter-0061",
+   "short": "Idaho Code tit. 33, ch. 61",
+   "title": "Idaho Statutes, Title 33 (Education), Chapter 61: Opportunities for college and career ready students",
+   "url": "https://legislature.idaho.gov/statutesrules/idstat/Title33/T33CH61/",
+   "versions": [
+    {
+     "from": "2026-10-10",
+     "units": 5,
+     "source_url": "https://legislature.idaho.gov/statutesrules/idstat/Title33/T33CH61/",
+     "sha256": "a04be989777932eabfab16d8b075c44a8f99364a0adc354ed1cb8c633d35845f"
+    }
+   ]
+  },
+  {
+   "slug": "title-0033-chapter-0065",
+   "short": "Idaho Code tit. 33, ch. 65",
+   "title": "Idaho Statutes, Title 33 (Education), Chapter 65: Rural and underserved educator incentive program",
+   "url": "https://legislature.idaho.gov/statutesrules/idstat/Title33/T33CH65/",
+   "versions": [
+    {
+     "from": "2026-06-16",
+     "units": 5,
+     "source_url": "https://legislature.idaho.gov/statutesrules/idstat/Title33/T33CH65/",
+     "sha256": "e91c2aceefbd51fefd8a577ad7c24b3bfcaea64f14fc19ad0ae0aeb36a1c7a28"
+    }
+   ]
+  },
+  {
+   "slug": "title-0033-chapter-0067",
+   "short": "Idaho Code tit. 33, ch. 67",
+   "title": "Idaho Statutes, Title 33 (Education), Chapter 67: Protecting the privacy and safety of students in public schools",
+   "url": "https://legislature.idaho.gov/statutesrules/idstat/Title33/T33CH67/",
+   "versions": [
+    {
+     "from": "2026-09-14",
+     "units": 7,
+     "source_url": "https://legislature.idaho.gov/statutesrules/idstat/Title33/T33CH67/",
+     "sha256": "44700ff215d75c2e0956e869484d4aa0d45c257060b8fb9d1ebe442773c44f09"
+    }
+   ]
+  },
+  {
    "slug": "title-0033-chapter-0002",
    "short": "Idaho Code tit. 33, ch. 2",
    "title": "Idaho Statutes, Title 33 (Education), Chapter 2: Attendance at schools",
@@ -2896,6 +3120,76 @@
      "units": 12,
      "source_url": "https://legislature.idaho.gov/statutesrules/idstat/Title33/T33CH2/",
      "sha256": "26f029f29fab4a99a9636ca1168595e6b142f1b542190f13524f94b214edde6b"
+    }
+   ]
+  },
+  {
+   "slug": "title-0034-chapter-0002",
+   "short": "Idaho Code tit. 34, ch. 2",
+   "title": "Idaho Statutes, Title 34 (Elections), Chapter 2: Duties of officers",
+   "url": "https://legislature.idaho.gov/statutesrules/idstat/Title34/T34CH2/",
+   "versions": [
+    {
+     "from": "2026-10-09",
+     "units": 19,
+     "source_url": "https://legislature.idaho.gov/statutesrules/idstat/Title34/T34CH2/",
+     "sha256": "06db5666b3839e8adcfb160686346bbf1ec6beec944df4bf1fa95c877bf61d56"
+    }
+   ]
+  },
+  {
+   "slug": "title-0034-chapter-0004",
+   "short": "Idaho Code tit. 34, ch. 4",
+   "title": "Idaho Statutes, Title 34 (Elections), Chapter 4: Voters - privileges, qualifications and registration",
+   "url": "https://legislature.idaho.gov/statutesrules/idstat/Title34/T34CH4/",
+   "versions": [
+    {
+     "from": "2026-10-17",
+     "units": 28,
+     "source_url": "https://legislature.idaho.gov/statutesrules/idstat/Title34/T34CH4/",
+     "sha256": "c8eeed0ab7c2859dd711f4b3fdda14b65b668f41adfa4ef86362da6299f2fffe"
+    }
+   ]
+  },
+  {
+   "slug": "title-0034-chapter-0006",
+   "short": "Idaho Code tit. 34, ch. 6",
+   "title": "Idaho Statutes, Title 34 (Elections), Chapter 6: Time of elections - officers elected",
+   "url": "https://legislature.idaho.gov/statutesrules/idstat/Title34/T34CH6/",
+   "versions": [
+    {
+     "from": "2026-10-14",
+     "units": 30,
+     "source_url": "https://legislature.idaho.gov/statutesrules/idstat/Title34/T34CH6/",
+     "sha256": "7982831825f26557f9a85bf33faab2e8b9d23bbac61f8f9b61713b51e8992bff"
+    }
+   ]
+  },
+  {
+   "slug": "title-0034-chapter-0019",
+   "short": "Idaho Code tit. 34, ch. 19",
+   "title": "Idaho Statutes, Title 34 (Elections), Chapter 19: Congressional districts",
+   "url": "https://legislature.idaho.gov/statutesrules/idstat/Title34/T34CH19/",
+   "versions": [
+    {
+     "from": "2026-10-09",
+     "units": 1,
+     "source_url": "https://legislature.idaho.gov/statutesrules/idstat/Title34/T34CH19/",
+     "sha256": "1e62f593a5285743296b7eed7da701d2d8c2d57fbfbaad56cfd633cf3d69247b"
+    }
+   ]
+  },
+  {
+   "slug": "title-0034-chapter-0020",
+   "short": "Idaho Code tit. 34, ch. 20",
+   "title": "Idaho Statutes, Title 34 (Elections), Chapter 20: Election contests other than legislative and state executive offices",
+   "url": "https://legislature.idaho.gov/statutesrules/idstat/Title34/T34CH20/",
+   "versions": [
+    {
+     "from": "2026-10-12",
+     "units": 37,
+     "source_url": "https://legislature.idaho.gov/statutesrules/idstat/Title34/T34CH20/",
+     "sha256": "7fc0d805949fe7c77c1f2f3ddf72f8260d90b02f2f970563203a5769c5767bba"
     }
    ]
   },
