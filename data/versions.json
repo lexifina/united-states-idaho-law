@@ -2032,6 +2032,48 @@
    ]
   },
   {
+   "slug": "title-0025-chapter-0034",
+   "short": "Idaho Code tit. 25, ch. 34",
+   "title": "Idaho Statutes, Title 25 (Animals), Chapter 34: Pork promotion assessment act",
+   "url": "https://legislature.idaho.gov/statutesrules/idstat/Title25/T25CH34/",
+   "versions": [
+    {
+     "from": "2026-09-15",
+     "units": 7,
+     "source_url": "https://legislature.idaho.gov/statutesrules/idstat/Title25/T25CH34/",
+     "sha256": "89608df87aa3a5c16abbda24f9061c65008cd82d304c9ea690e9f2237500e54c"
+    }
+   ]
+  },
+  {
+   "slug": "title-0025-chapter-0038",
+   "short": "Idaho Code tit. 25, ch. 38",
+   "title": "Idaho Statutes, Title 25 (Animals), Chapter 38: Agriculture odor management act",
+   "url": "https://legislature.idaho.gov/statutesrules/idstat/Title25/T25CH38/",
+   "versions": [
+    {
+     "from": "2026-10-17",
+     "units": 9,
+     "source_url": "https://legislature.idaho.gov/statutesrules/idstat/Title25/T25CH38/",
+     "sha256": "0d3df1460498691956d15ad3d1679569aee31acf4e77a73c378ad045d1588e67"
+    }
+   ]
+  },
+  {
+   "slug": "title-0025-chapter-0040",
+   "short": "Idaho Code tit. 25, ch. 40",
+   "title": "Idaho Statutes, Title 25 (Animals), Chapter 40: Poultry environmental act",
+   "url": "https://legislature.idaho.gov/statutesrules/idstat/Title25/T25CH40/",
+   "versions": [
+    {
+     "from": "2026-10-15",
+     "units": 15,
+     "source_url": "https://legislature.idaho.gov/statutesrules/idstat/Title25/T25CH40/",
+     "sha256": "a6c8aadc7a93211b39aee6408d70970898544b208eb82228ec5e3c661f01d72e"
+    }
+   ]
+  },
+  {
    "slug": "title-0025-chapter-0004",
    "short": "Idaho Code tit. 25, ch. 4",
    "title": "Idaho Statutes, Title 25 (Animals), Chapter 4: Livestock disease control - tuberculosis",
@@ -2154,6 +2196,188 @@
      "units": 23,
      "source_url": "https://legislature.idaho.gov/statutesrules/idstat/Title25/T25CH31/",
      "sha256": "69aa78f331d11f6e065e0acdb59f79f74581f2dd32b01bdb6fe0aa56a81ef467"
+    }
+   ]
+  },
+  {
+   "slug": "title-0027-chapter-0002",
+   "short": "Idaho Code tit. 27, ch. 2",
+   "title": "Idaho Statutes, Title 27 (Cemeteries and crematoriums), Chapter 2: Rural cemetery associations",
+   "url": "https://legislature.idaho.gov/statutesrules/idstat/Title27/T27CH2/",
+   "versions": [
+    {
+     "from": "2026-09-12",
+     "units": 4,
+     "source_url": "https://legislature.idaho.gov/statutesrules/idstat/Title27/T27CH2/",
+     "sha256": "2f5055ceeb01fbe170a4d49d8edcc59b2ec3baeeb05ae969fcd24faf620ab604"
+    }
+   ]
+  },
+  {
+   "slug": "title-0027-chapter-0004",
+   "short": "Idaho Code tit. 27, ch. 4",
+   "title": "Idaho Statutes, Title 27 (Cemeteries and crematoriums), Chapter 4: Endowment care cemetery act",
+   "url": "https://legislature.idaho.gov/statutesrules/idstat/Title27/T27CH4/",
+   "versions": [
+    {
+     "from": "2026-09-13",
+     "units": 18,
+     "source_url": "https://legislature.idaho.gov/statutesrules/idstat/Title27/T27CH4/",
+     "sha256": "4ad4f406075d7c4619b0546f3e19c231a5281c36c09c5e91015cef6c0dec4c7a"
+    }
+   ]
+  },
+  {
+   "slug": "title-0028-chapter-0049",
+   "short": "Idaho Code tit. 28, ch. 49",
+   "title": "Idaho Statutes, Title 28 (Commercial transactions), Chapter 49: Relationship to other laws, effective date, and override of federal preemption",
+   "url": "https://legislature.idaho.gov/statutesrules/idstat/Title28/T28CH49/",
+   "versions": [
+    {
+     "from": "2026-08-19",
+     "units": 3,
+     "source_url": "https://legislature.idaho.gov/statutesrules/idstat/Title28/T28CH49/",
+     "sha256": "2d9e2a64a0d250080de36adec45f3202403200f4454131f150260c5d4f246719"
+    }
+   ]
+  },
+  {
+   "slug": "title-0028-chapter-0050",
+   "short": "Idaho Code tit. 28, ch. 50",
+   "title": "Idaho Statutes, Title 28 (Commercial transactions), Chapter 50: Uniform electronic transactions act",
+   "url": "https://legislature.idaho.gov/statutesrules/idstat/Title28/T28CH50/",
+   "versions": [
+    {
+     "from": "2026-09-13",
+     "units": 20,
+     "source_url": "https://legislature.idaho.gov/statutesrules/idstat/Title28/T28CH50/",
+     "sha256": "7367dc97dab3798f622fe58a2d37c79aa52df14b17069ed9079c04c22acd35dc"
+    }
+   ]
+  },
+  {
+   "slug": "title-0028-chapter-0051",
+   "short": "Idaho Code tit. 28, ch. 51",
+   "title": "Idaho Statutes, Title 28 (Commercial transactions), Chapter 51: Identity theft",
+   "url": "https://legislature.idaho.gov/statutesrules/idstat/Title28/T28CH51/",
+   "versions": [
+    {
+     "from": "2026-10-15",
+     "units": 5,
+     "source_url": "https://legislature.idaho.gov/statutesrules/idstat/Title28/T28CH51/",
+     "sha256": "d64cf46de143e70d67e11992dfcea853218c4040abfd9ec74a8076575fa94bf5"
+    }
+   ]
+  },
+  {
+   "slug": "title-0029-chapter-0001",
+   "short": "Idaho Code tit. 29, ch. 1",
+   "title": "Idaho Statutes, Title 29 (Contracts), Chapter 1: General provisions relating to contracts",
+   "url": "https://legislature.idaho.gov/statutesrules/idstat/Title29/T29CH1/",
+   "versions": [
+    {
+     "from": "2026-10-14",
+     "units": 16,
+     "source_url": "https://legislature.idaho.gov/statutesrules/idstat/Title29/T29CH1/",
+     "sha256": "b9333e151b96b26c43dfb874c5e259221644be8e9dfd79ff806051d3673fd362"
+    }
+   ]
+  },
+  {
+   "slug": "title-0030-chapter-0002",
+   "short": "Idaho Code tit. 30, ch. 2",
+   "title": "Idaho Statutes, Title 30 (Corporations), Chapter 2: Sale of franchise on execution",
+   "url": "https://legislature.idaho.gov/statutesrules/idstat/Title30/T30CH2/",
+   "versions": [
+    {
+     "from": "2026-10-17",
+     "units": 6,
+     "source_url": "https://legislature.idaho.gov/statutesrules/idstat/Title30/T30CH2/",
+     "sha256": "a1ceb2625ff81947871575155eb63a76a51bc27b27c6c20297cdaf1f495bc136"
+    }
+   ]
+  },
+  {
+   "slug": "title-0030-chapter-0007",
+   "short": "Idaho Code tit. 30, ch. 7",
+   "title": "Idaho Statutes, Title 30 (Corporations), Chapter 7: Bridge, ferry, flume, and boom corporations",
+   "url": "https://legislature.idaho.gov/statutesrules/idstat/Title30/T30CH7/",
+   "versions": [
+    {
+     "from": "2026-07-21",
+     "units": 3,
+     "source_url": "https://legislature.idaho.gov/statutesrules/idstat/Title30/T30CH7/",
+     "sha256": "482def33ea3619cbc31d05acb9d260a5d2afa5ded39e2960bc520bbd3134ada2"
+    }
+   ]
+  },
+  {
+   "slug": "title-0030-chapter-0009",
+   "short": "Idaho Code tit. 30, ch. 9",
+   "title": "Idaho Statutes, Title 30 (Corporations), Chapter 9: Idaho escrow act",
+   "url": "https://legislature.idaho.gov/statutesrules/idstat/Title30/T30CH9/",
+   "versions": [
+    {
+     "from": "2026-08-19",
+     "units": 24,
+     "source_url": "https://legislature.idaho.gov/statutesrules/idstat/Title30/T30CH9/",
+     "sha256": "b27659f62650d61637e20e1ab4218cbda8925fd6f2da9caf21884837e8c7b027"
+    }
+   ]
+  },
+  {
+   "slug": "title-0030-chapter-0015",
+   "short": "Idaho Code tit. 30, ch. 15",
+   "title": "Idaho Statutes, Title 30 (Corporations), Chapter 15: Idaho commodity code",
+   "url": "https://legislature.idaho.gov/statutesrules/idstat/Title30/T30CH15/",
+   "versions": [
+    {
+     "from": "2026-09-16",
+     "units": 20,
+     "source_url": "https://legislature.idaho.gov/statutesrules/idstat/Title30/T30CH15/",
+     "sha256": "d30098789c48ade089161522199f2b4492637fd12473ab32ef2755cdababd218"
+    }
+   ]
+  },
+  {
+   "slug": "title-0030-chapter-0016",
+   "short": "Idaho Code tit. 30, ch. 16",
+   "title": "Idaho Statutes, Title 30 (Corporations), Chapter 16: Control share acquisition act",
+   "url": "https://legislature.idaho.gov/statutesrules/idstat/Title30/T30CH16/",
+   "versions": [
+    {
+     "from": "2026-09-12",
+     "units": 14,
+     "source_url": "https://legislature.idaho.gov/statutesrules/idstat/Title30/T30CH16/",
+     "sha256": "51f845f002577820a2ec6c00121c4597ebc071335fc3fef95fb3e39d91a992ba"
+    }
+   ]
+  },
+  {
+   "slug": "title-0030-chapter-0017",
+   "short": "Idaho Code tit. 30, ch. 17",
+   "title": "Idaho Statutes, Title 30 (Corporations), Chapter 17: Business combination act",
+   "url": "https://legislature.idaho.gov/statutesrules/idstat/Title30/T30CH17/",
+   "versions": [
+    {
+     "from": "2026-08-17",
+     "units": 10,
+     "source_url": "https://legislature.idaho.gov/statutesrules/idstat/Title30/T30CH17/",
+     "sha256": "d13cb222424dad4e6f5c27784f0602751eb4aadbf9921c133df82579c9ee779a"
+    }
+   ]
+  },
+  {
+   "slug": "title-0031-chapter-0003",
+   "short": "Idaho Code tit. 31, ch. 3",
+   "title": "Idaho Statutes, Title 31 (Counties and county law), Chapter 3: County division - transfer of records",
+   "url": "https://legislature.idaho.gov/statutesrules/idstat/Title31/T31CH3/",
+   "versions": [
+    {
+     "from": "2026-08-14",
+     "units": 3,
+     "source_url": "https://legislature.idaho.gov/statutesrules/idstat/Title31/T31CH3/",
+     "sha256": "8c060562e566ab708fbf807f7ddf58afaf7ba5a7dd07c7456f3a0fd6147b664f"
     }
    ]
   },
