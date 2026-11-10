@@ -14,7 +14,11 @@ This file is written by the build on 2026-11-10, the day the source data was ret
 | Idaho Legislature | <https://legislature.idaho.gov/statutesrules/idstat/Title13/> | 2026-11-10 | Statute text is not copyrightable in the United States (Georgia v. Public.Resource.Org, 590 U.S. 255 (2020)). No annotations are used. |
 | Idaho Legislature | <https://legislature.idaho.gov/statutesrules/idstat/Title16/> | 2026-11-10 | Statute text is not copyrightable in the United States (Georgia v. Public.Resource.Org, 590 U.S. 255 (2020)). No annotations are used. |
 | Idaho Legislature | <https://legislature.idaho.gov/statutesrules/idstat/Title18/> | 2026-10-30 | Statute text is not copyrightable in the United States (Georgia v. Public.Resource.Org, 590 U.S. 255 (2020)). No annotations are used. |
+| Idaho Legislature | <https://legislature.idaho.gov/statutesrules/idstat/Title19/> | 2026-11-10 | Statute text is not copyrightable in the United States (Georgia v. Public.Resource.Org, 590 U.S. 255 (2020)). No annotations are used. |
 | Idaho Legislature | <https://legislature.idaho.gov/statutesrules/idstat/Title2/> | 2026-11-10 | Statute text is not copyrightable in the United States (Georgia v. Public.Resource.Org, 590 U.S. 255 (2020)). No annotations are used. |
+| Idaho Legislature | <https://legislature.idaho.gov/statutesrules/idstat/Title20/> | 2026-11-10 | Statute text is not copyrightable in the United States (Georgia v. Public.Resource.Org, 590 U.S. 255 (2020)). No annotations are used. |
+| Idaho Legislature | <https://legislature.idaho.gov/statutesrules/idstat/Title21/> | 2026-11-10 | Statute text is not copyrightable in the United States (Georgia v. Public.Resource.Org, 590 U.S. 255 (2020)). No annotations are used. |
+| Idaho Legislature | <https://legislature.idaho.gov/statutesrules/idstat/Title22/> | 2026-11-10 | Statute text is not copyrightable in the United States (Georgia v. Public.Resource.Org, 590 U.S. 255 (2020)). No annotations are used. |
 | Idaho Legislature | <https://legislature.idaho.gov/statutesrules/idstat/Title32/> | 2026-10-30 | Statute text is not copyrightable in the United States (Georgia v. Public.Resource.Org, 590 U.S. 255 (2020)). No annotations are used. |
 | Idaho Legislature | <https://legislature.idaho.gov/statutesrules/idstat/Title5/> | 2026-10-30 | Statute text is not copyrightable in the United States (Georgia v. Public.Resource.Org, 590 U.S. 255 (2020)). No annotations are used. |
 | Idaho Legislature | <https://legislature.idaho.gov/statutesrules/idstat/Title55/> | 2026-10-30 | Statute text is not copyrightable in the United States (Georgia v. Public.Resource.Org, 590 U.S. 255 (2020)). No annotations are used. |
@@ -122,8 +126,37 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `title-0018-chapter-0087` | Idaho Statutes, Title 18 (Crimes and punishments), Chapter 87: No public funds for abortion act | 1 | 2026-10-22 to 2026-10-22 |
 | `title-0018-chapter-0088` | Idaho Statutes, Title 18 (Crimes and punishments), Chapter 88: Fetal heartbeat preborn child protection act | 1 | 2026-10-22 to 2026-10-22 |
 | `title-0018-chapter-0089` | Idaho Statutes, Title 18 (Crimes and punishments), Chapter 89: No public funds for gender transition | 1 | 2026-10-22 to 2026-10-22 |
+| `title-0019-chapter-0004` | Idaho Statutes, Title 19 (Criminal procedure), Chapter 4: Time of commencing criminal actions | 1 | 2026-10-17 to 2026-10-17 |
+| `title-0019-chapter-0006` | Idaho Statutes, Title 19 (Criminal procedure), Chapter 6: Arrest, by whom and how made | 1 | 2026-09-06 to 2026-09-06 |
+| `title-0019-chapter-0021` | Idaho Statutes, Title 19 (Criminal procedure), Chapter 21: Trial | 1 | 2026-10-10 to 2026-10-10 |
+| `title-0019-chapter-0028` | Idaho Statutes, Title 19 (Criminal procedure), Chapter 28: Appeals to supreme court | 1 | 2026-10-15 to 2026-10-15 |
+| `title-0019-chapter-0043` | Idaho Statutes, Title 19 (Criminal procedure), Chapter 43: Coroner's inquests | 1 | 2026-10-17 to 2026-10-17 |
+| `title-0019-chapter-0051` | Idaho Statutes, Title 19 (Criminal procedure), Chapter 51: Peace officer standards and training council | 1 | 2026-10-15 to 2026-10-15 |
+| `title-0019-chapter-0053` | Idaho Statutes, Title 19 (Criminal procedure), Chapter 53: Compensation of victims of crimes | 1 | 2026-10-13 to 2026-10-13 |
+| `title-0019-chapter-0058` | Idaho Statutes, Title 19 (Criminal procedure), Chapter 58: Address confidentiality for law enforcement officers | 1 | 2026-10-13 to 2026-10-13 |
 | `title-0002-chapter-0001` | Idaho Statutes, Title 2 (Juries and jurors), Chapter 1: Juries - kinds and definitions | 1 | 2026-06-08 to 2026-06-08 |
 | `title-0002-chapter-0002` | Idaho Statutes, Title 2 (Juries and jurors), Chapter 2: Jury selection and service | 1 | 2026-10-14 to 2026-10-14 |
+| `title-0020-chapter-0004` | Idaho Statutes, Title 20 (State prison and county jails), Chapter 4: Idaho correctional industries act | 1 | 2026-09-07 to 2026-09-07 |
+| `title-0020-chapter-0006` | Idaho Statutes, Title 20 (State prison and county jails), Chapter 6: County jails | 1 | 2026-09-12 to 2026-09-12 |
+| `title-0021-chapter-0001` | Idaho Statutes, Title 21 (Aeronautics), Chapter 1: Aeronautics administration | 1 | 2026-10-06 to 2026-10-06 |
+| `title-0021-chapter-0002` | Idaho Statutes, Title 21 (Aeronautics), Chapter 2: State law for aeronautics | 1 | 2026-10-15 to 2026-10-15 |
+| `title-0021-chapter-0004` | Idaho Statutes, Title 21 (Aeronautics), Chapter 4: Air navigation facilities | 1 | 2026-10-15 to 2026-10-15 |
+| `title-0021-chapter-0005` | Idaho Statutes, Title 21 (Aeronautics), Chapter 5: Airport zoning act | 1 | 2026-10-14 to 2026-10-14 |
+| `title-0021-chapter-0006` | Idaho Statutes, Title 21 (Aeronautics), Chapter 6: State lands reserved for public airports | 1 | 2026-10-09 to 2026-10-09 |
+| `title-0021-chapter-0007` | Idaho Statutes, Title 21 (Aeronautics), Chapter 7: Damages to aircraft | 1 | 2026-03-15 to 2026-03-15 |
+| `title-0021-chapter-0008` | Idaho Statutes, Title 21 (Aeronautics), Chapter 8: Regional airports | 1 | 2026-10-15 to 2026-10-15 |
+| `title-0022-chapter-0001` | Idaho Statutes, Title 22 (Agriculture and horticulture), Chapter 1: Department of agriculture | 1 | 2026-10-12 to 2026-10-12 |
+| `title-0022-chapter-0002` | Idaho Statutes, Title 22 (Agriculture and horticulture), Chapter 2: County fair boards | 1 | 2026-08-15 to 2026-08-15 |
+| `title-0022-chapter-0005` | Idaho Statutes, Title 22 (Agriculture and horticulture), Chapter 5: Seed potatoes | 1 | 2026-10-17 to 2026-10-17 |
+| `title-0022-chapter-0006` | Idaho Statutes, Title 22 (Agriculture and horticulture), Chapter 6: Commercial fertilizers | 1 | 2026-10-15 to 2026-10-15 |
+| `title-0022-chapter-0007` | Idaho Statutes, Title 22 (Agriculture and horticulture), Chapter 7: Farm marketing | 1 | 2026-10-18 to 2026-10-18 |
+| `title-0022-chapter-0008` | Idaho Statutes, Title 22 (Agriculture and horticulture), Chapter 8: Fruits - marking and inspection | 1 | 2026-07-13 to 2026-07-13 |
+| `title-0022-chapter-0010` | Idaho Statutes, Title 22 (Agriculture and horticulture), Chapter 10: Urban agriculture | 1 | 2026-10-07 to 2026-10-07 |
+| `title-0022-chapter-0011` | Idaho Statutes, Title 22 (Agriculture and horticulture), Chapter 11: Organic food products | 1 | 2026-10-14 to 2026-10-14 |
+| `title-0022-chapter-0015` | Idaho Statutes, Title 22 (Agriculture and horticulture), Chapter 15: Seed and plant certification | 1 | 2026-10-13 to 2026-10-13 |
+| `title-0022-chapter-0016` | Idaho Statutes, Title 22 (Agriculture and horticulture), Chapter 16: Prevention of price discrimination | 1 | 2026-10-13 to 2026-10-13 |
+| `title-0022-chapter-0017` | Idaho Statutes, Title 22 (Agriculture and horticulture), Chapter 17: Industrial hemp research and development act | 1 | 2026-09-17 to 2026-09-17 |
+| `title-0022-chapter-0019` | Idaho Statutes, Title 22 (Agriculture and horticulture), Chapter 19: The idaho invasive species act of 2008 | 1 | 2026-09-09 to 2026-09-09 |
 | `title-0032-chapter-0001` | Idaho Statutes, Title 32 (Domestic relations), Chapter 1: Persons | 1 | 2026-10-22 to 2026-10-22 |
 | `title-0032-chapter-0002` | Idaho Statutes, Title 32 (Domestic relations), Chapter 2: Marriage - nature and validity of marriage contract | 1 | 2026-10-22 to 2026-10-22 |
 | `title-0032-chapter-0003` | Idaho Statutes, Title 32 (Domestic relations), Chapter 3: Solemnization of marriage | 1 | 2026-10-22 to 2026-10-22 |
@@ -203,11 +236,11 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `title-0009-chapter-0014` | Idaho Statutes, Title 9 (Evidence), Chapter 14: Administration of oaths and affirmations | 1 | 2026-10-10 to 2026-10-10 |
 | `title-0009-chapter-0015` | Idaho Statutes, Title 9 (Evidence), Chapter 15: Tender and receipt | 1 | 2026-09-11 to 2026-09-11 |
 
-The build made 171 commits:
+The build made 200 commits:
 
 | Commits | Kind |
 | ---: | --- |
-| 171 | first version of an act |
+| 200 | first version of an act |
 | 0 | one law on its in-force day |
 | 0 | changes no amendment note explains, credited to the publisher |
 
@@ -215,7 +248,7 @@ Other counts:
 - 0 commits on the branch `future`: laws not yet in force on 2026-11-10.
 - 0 commits dated 1 January 1970: in force before 1970, with the real day in their `In-force` trailer.
 - 0 laws in the record.
-- 171 tags.
+- 200 tags.
 
 ## Dates
 
@@ -227,7 +260,7 @@ When a law gives no date of its own, the default rule applies: The site says the
 
 `tools/build.py` turns the corpus into this history in one pass: one commit per law, on the day it took effect. The same corpus always gives the same commit hashes. `tools/check_repo.py` reads every version back from git and compares it with the corpus. `tools/on.py` shows the law as it stood on any date. The corpus format is described in `tools/SCHEMA.md`.
 
-- Corpus: sha256 `520adbc6aaa13c5ff57ad3fbea8f83c49537f30e291a54a8593bab6dddf34d0f` (3290937 bytes).
+- Corpus: sha256 `fe857b7946c750d7445f3634d121f094b5fdc85bfb17946f1b7621eb8d21aa36` (3833802 bytes).
 - Builder blob hashes (`git hash-object`): `build.py` `3024ff164c261807dfc4d5b7b1b4a2cde4357da1`, `check.py` `5d719354ea4c62d240c93d2cae446307d81d9e81`, `on.py` `aff48cf1b68d50c7ba8f399ca32261871c301824`.
 - Python 3.12.10; git version 2.46.0.windows.1.
 
@@ -259,7 +292,15 @@ No second build of this corpus has been compared yet.
 - Each chapter is one version dated by the newest capture day among its chapter page and section pages (the pages state no date; the site says the statutes are updated each 1 July), so a section changed after its capture would show its older text. Dates are capture dates, not commencement dates.
 - Idaho Statutes Title 18: one act per chapter and one unit per section listed on the chapter page, with the section's "History:" line, which is part of the Legislature's text. A chapter is included only when every one of its sections was read; left out: chapter 71 (9 of 9 sections not read); chapter 90 (chapter page not read); chapter 91 (chapter page not read).
 - The sections of Title 18 were read from different web captures (2024-12-07 to 2026-10-22); the site says the statutes are updated each 1 July. Each chapter is one version dated 2026-10-22, the newest capture day (or, if later, the day of the newest law already in the repository, or the day after it when the chapter would otherwise sort before it, so the history only grows); a section changed after its capture would show its older text.
+- Idaho Statutes Title 19: one act per chapter and one unit per section listed on the chapter page, with the section's "History:" line, which is part of the Legislature's text. A chapter is included only when every one of its sections was read; left out: chapter 1 (section 19-101 not read); chapter 2 (section 19-211 not read); chapter 3 (chapter page not read); chapter 5 (section 19-501 not read); chapter 7 (section 19-702 not read); chapter 8 (section 19-801 not read); chapter 9 (chapter page not read); chapter 10 (chapter page not read); chapter 11 (chapter page not read); chapter 12 (chapter page not read); chapter 13 (chapter page not read); chapter 14 (section 19-1402 not read); chapter 15 (chapter page not read); chapter 16 (chapter page not read); chapter 17 (chapter page not read); chapter 18 (chapter page not read); chapter 19 (section 19-1901 not read); chapter 20 (chapter page not read); chapter 22 (chapter page not read); chapter 23 (chapter page not read); chapter 24 (chapter page not read); chapter 25 (section 19-2501 not read); chapter 26 (section 19-2608 not read); chapter 27 (section 19-2716A not read); chapter 29 (section 19-2902 not read); chapter 30 (chapter page not read); chapter 31 (chapter page not read); chapter 32 (chapter page not read); chapter 34 (chapter page not read); chapter 35 (section 19-3502 not read); chapter 36 (chapter page not read); chapter 37 (chapter page not read); chapter 38 (chapter page not read); chapter 39 (chapter page not read); chapter 40 (section 19-4001 not read); chapter 41 (section 19-4106 not read); chapter 42 (chapter page not read); chapter 44 (chapter page not read); chapter 45 (chapter page not read); chapter 46 (chapter page not read); chapter 47 (chapter page not read); chapter 48 (chapter page not read); chapter 49 (section 19-4902 not read); chapter 50 (chapter page not read); chapter 52 (section 19-5201 not read); chapter 54 (chapter page not read); chapter 55 (section 19-5501 not read); chapter 56 (section 19-5601 not read); chapter 57 (section 19-5701 not read); chapter 59 (section 19-5901 not read); chapter 60 (section 19-6001 not read); chapter 61 (chapter page not read); chapter 62 (section 19-6201 not read); chapter 63 (chapter page not read).
+- Each chapter is one version dated by the newest capture day among its chapter page and section pages (the pages state no date; the site says the statutes are updated each 1 July), so a section changed after its capture would show its older text. Dates are capture dates, not commencement dates.
 - Idaho Statutes Title 2: one act per chapter and one unit per section listed on the chapter page, with the section's "History:" line, which is part of the Legislature's text. A chapter is included only when every one of its sections was read; left out: chapter 5 (section 2-501 not read).
+- Each chapter is one version dated by the newest capture day among its chapter page and section pages (the pages state no date; the site says the statutes are updated each 1 July), so a section changed after its capture would show its older text. Dates are capture dates, not commencement dates.
+- Idaho Statutes Title 20: one act per chapter and one unit per section listed on the chapter page, with the section's "History:" line, which is part of the Legislature's text. A chapter is included only when every one of its sections was read; left out: chapter 1 (section 20-101A not read); chapter 2 (section 20-201 not read); chapter 3 (chapter page not read); chapter 5 (section 20-504 not read); chapter 7 (chapter page not read); chapter 8 (chapter page not read); chapter 9 (chapter page not read); chapter 10 (section 20-1001 not read).
+- Each chapter is one version dated by the newest capture day among its chapter page and section pages (the pages state no date; the site says the statutes are updated each 1 July), so a section changed after its capture would show its older text. Dates are capture dates, not commencement dates.
+- Idaho Statutes Title 21: one act per chapter and one unit per section listed on the chapter page, with the section's "History:" line, which is part of the Legislature's text. A chapter is included only when every one of its sections was read; left out: none.
+- Each chapter is one version dated by the newest capture day among its chapter page and section pages (the pages state no date; the site says the statutes are updated each 1 July), so a section changed after its capture would show its older text. Dates are capture dates, not commencement dates.
+- Idaho Statutes Title 22: one act per chapter and one unit per section listed on the chapter page, with the section's "History:" line, which is part of the Legislature's text. A chapter is included only when every one of its sections was read; left out: chapter 3 (section 22-301 not read); chapter 4 (section 22-413 not read); chapter 9 (section 22-901 not read); chapter 12 (section 22-1201 not read); chapter 20 (section 22-2018 not read); chapter 22 (chapter page not read); chapter 23 (chapter page not read); chapter 24 (chapter page not read); chapter 25 (chapter page not read); chapter 26 (chapter page not read); chapter 27 (chapter page not read); chapter 28 (chapter page not read); chapter 29 (chapter page not read); chapter 31 (chapter page not read); chapter 33 (chapter page not read); chapter 34 (chapter page not read); chapter 35 (chapter page not read); chapter 36 (chapter page not read); chapter 37 (chapter page not read); chapter 38 (chapter page not read); chapter 39 (chapter page not read); chapter 40 (chapter page not read); chapter 42 (chapter page not read); chapter 45 (chapter page not read); chapter 46 (chapter page not read); chapter 47 (chapter page not read); chapter 49 (chapter page not read); chapter 50 (chapter page not read); chapter 51 (chapter page not read); chapter 53 (chapter page not read); chapter 54 (chapter page not read); chapter 55 (chapter page not read).
 - Each chapter is one version dated by the newest capture day among its chapter page and section pages (the pages state no date; the site says the statutes are updated each 1 July), so a section changed after its capture would show its older text. Dates are capture dates, not commencement dates.
 - Idaho Statutes Title 32: one act per chapter and one unit per section listed on the chapter page, with the section's "History:" line, which is part of the Legislature's text. A chapter is included only when every one of its sections was read; left out: chapter 10 (1 of 14 sections not read); chapter 11 (0 of 0 sections not read).
 - The sections of Title 32 were read from different web captures (2025-01-18 to 2026-10-17); the site says the statutes are updated each 1 July. Each chapter is one version dated 2026-10-22, the newest capture day (or, if later, the day of the newest law already in the repository, or the day after it when the chapter would otherwise sort before it, so the history only grows); a section changed after its capture would show its older text.
@@ -290,6 +331,10 @@ The commit messages are written by `build.py` from the source data.
 
 Model use at data-build time:
 - none
+- Claude Code wrote the code and chose the source; it did not write or alter any legal text. The code is deterministic and runs no model.
+- Claude Code wrote the code and chose the source; it did not write or alter any legal text. The code is deterministic and runs no model.
+- Claude Code wrote the code and chose the source; it did not write or alter any legal text. The code is deterministic and runs no model.
+- Claude Code wrote the code and chose the source; it did not write or alter any legal text. The code is deterministic and runs no model.
 - Claude Code wrote the code and chose the source; it did not write or alter any legal text. The code is deterministic and runs no model.
 - Claude Code wrote the code and chose the source; it did not write or alter any legal text. The code is deterministic and runs no model.
 - Claude Code wrote the code and chose the source; it did not write or alter any legal text. The code is deterministic and runs no model.

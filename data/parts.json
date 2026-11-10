@@ -125,12 +125,61 @@
    ],
    "sha256": "9d527fb5421a22efac8625c42eeda523595ae6d7f290287389867fd9dbc3038a"
   },
+  "title-19.json": {
+   "acts": [
+    "title-0019-chapter-0004",
+    "title-0019-chapter-0006",
+    "title-0019-chapter-0021",
+    "title-0019-chapter-0028",
+    "title-0019-chapter-0043",
+    "title-0019-chapter-0051",
+    "title-0019-chapter-0053",
+    "title-0019-chapter-0058"
+   ],
+   "sha256": "63e4820da1ded70724a68e3cd0021a512da7506a308b7bedf133c269720f32e7"
+  },
   "title-2.json": {
    "acts": [
     "title-0002-chapter-0001",
     "title-0002-chapter-0002"
    ],
    "sha256": "a96b0b9b85247792fc3f7bc079241b32bb7207178eeecd0f591a48cc531b8c9e"
+  },
+  "title-20.json": {
+   "acts": [
+    "title-0020-chapter-0004",
+    "title-0020-chapter-0006"
+   ],
+   "sha256": "eabd9bc9c15658c075d1344ce4d540308d15221e9a1f700db2c667369fe099b2"
+  },
+  "title-21.json": {
+   "acts": [
+    "title-0021-chapter-0001",
+    "title-0021-chapter-0002",
+    "title-0021-chapter-0004",
+    "title-0021-chapter-0005",
+    "title-0021-chapter-0006",
+    "title-0021-chapter-0007",
+    "title-0021-chapter-0008"
+   ],
+   "sha256": "611fcd494d4ca855434866e79d33408c035020768287530786328459365b0207"
+  },
+  "title-22.json": {
+   "acts": [
+    "title-0022-chapter-0001",
+    "title-0022-chapter-0002",
+    "title-0022-chapter-0005",
+    "title-0022-chapter-0006",
+    "title-0022-chapter-0007",
+    "title-0022-chapter-0008",
+    "title-0022-chapter-0010",
+    "title-0022-chapter-0011",
+    "title-0022-chapter-0015",
+    "title-0022-chapter-0016",
+    "title-0022-chapter-0017",
+    "title-0022-chapter-0019"
+   ],
+   "sha256": "d3d5433f88b44afb40bc971543745f2bc1c28bb9e5fb9ebbd019941f181039af"
   },
   "title-32.json": {
    "acts": [

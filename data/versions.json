@@ -1276,6 +1276,118 @@
    ]
   },
   {
+   "slug": "title-0019-chapter-0004",
+   "short": "Idaho Code tit. 19, ch. 4",
+   "title": "Idaho Statutes, Title 19 (Criminal procedure), Chapter 4: Time of commencing criminal actions",
+   "url": "https://legislature.idaho.gov/statutesrules/idstat/Title19/T19CH4/",
+   "versions": [
+    {
+     "from": "2026-10-17",
+     "units": 6,
+     "source_url": "https://legislature.idaho.gov/statutesrules/idstat/Title19/T19CH4/",
+     "sha256": "1b8cebc7204d55be61a6cd74b86fb04ac9758ce5b962faaca38644d1731f735f"
+    }
+   ]
+  },
+  {
+   "slug": "title-0019-chapter-0006",
+   "short": "Idaho Code tit. 19, ch. 6",
+   "title": "Idaho Statutes, Title 19 (Criminal procedure), Chapter 6: Arrest, by whom and how made",
+   "url": "https://legislature.idaho.gov/statutesrules/idstat/Title19/T19CH6/",
+   "versions": [
+    {
+     "from": "2026-09-06",
+     "units": 24,
+     "source_url": "https://legislature.idaho.gov/statutesrules/idstat/Title19/T19CH6/",
+     "sha256": "eefff6c7176034ce3d6748470407fadbf321e1e4e3d02ce000e08b7b669f2cad"
+    }
+   ]
+  },
+  {
+   "slug": "title-0019-chapter-0021",
+   "short": "Idaho Code tit. 19, ch. 21",
+   "title": "Idaho Statutes, Title 19 (Criminal procedure), Chapter 21: Trial",
+   "url": "https://legislature.idaho.gov/statutesrules/idstat/Title19/T19CH21/",
+   "versions": [
+    {
+     "from": "2026-10-10",
+     "units": 34,
+     "source_url": "https://legislature.idaho.gov/statutesrules/idstat/Title19/T19CH21/",
+     "sha256": "0b7b221c5d781237e7fb1737a6289198e54918890d697f1da59d8e1e87cf9da1"
+    }
+   ]
+  },
+  {
+   "slug": "title-0019-chapter-0028",
+   "short": "Idaho Code tit. 19, ch. 28",
+   "title": "Idaho Statutes, Title 19 (Criminal procedure), Chapter 28: Appeals to supreme court",
+   "url": "https://legislature.idaho.gov/statutesrules/idstat/Title19/T19CH28/",
+   "versions": [
+    {
+     "from": "2026-10-15",
+     "units": 5,
+     "source_url": "https://legislature.idaho.gov/statutesrules/idstat/Title19/T19CH28/",
+     "sha256": "d1b71baeb297a9e9fa12dbab432e2f74a8e3c09b303ac1c824333cb6ddcadc06"
+    }
+   ]
+  },
+  {
+   "slug": "title-0019-chapter-0043",
+   "short": "Idaho Code tit. 19, ch. 43",
+   "title": "Idaho Statutes, Title 19 (Criminal procedure), Chapter 43: Coroner's inquests",
+   "url": "https://legislature.idaho.gov/statutesrules/idstat/Title19/T19CH43/",
+   "versions": [
+    {
+     "from": "2026-10-17",
+     "units": 14,
+     "source_url": "https://legislature.idaho.gov/statutesrules/idstat/Title19/T19CH43/",
+     "sha256": "df0ee9f37572310e4f9662339baa8163e2074d83ebd29e119da5efbbefe4ecba"
+    }
+   ]
+  },
+  {
+   "slug": "title-0019-chapter-0051",
+   "short": "Idaho Code tit. 19, ch. 51",
+   "title": "Idaho Statutes, Title 19 (Criminal procedure), Chapter 51: Peace officer standards and training council",
+   "url": "https://legislature.idaho.gov/statutesrules/idstat/Title19/T19CH51/",
+   "versions": [
+    {
+     "from": "2026-10-15",
+     "units": 19,
+     "source_url": "https://legislature.idaho.gov/statutesrules/idstat/Title19/T19CH51/",
+     "sha256": "4a5f5704ddee483cf7b8977f0b52970e695f9fbe408fe5ebd0f15088a6578236"
+    }
+   ]
+  },
+  {
+   "slug": "title-0019-chapter-0053",
+   "short": "Idaho Code tit. 19, ch. 53",
+   "title": "Idaho Statutes, Title 19 (Criminal procedure), Chapter 53: Compensation of victims of crimes",
+   "url": "https://legislature.idaho.gov/statutesrules/idstat/Title19/T19CH53/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 6,
+     "source_url": "https://legislature.idaho.gov/statutesrules/idstat/Title19/T19CH53/",
+     "sha256": "a6e508832f340b2ce7a27740eb90e45b7e657408baba48c16c53e560168c0a35"
+    }
+   ]
+  },
+  {
+   "slug": "title-0019-chapter-0058",
+   "short": "Idaho Code tit. 19, ch. 58",
+   "title": "Idaho Statutes, Title 19 (Criminal procedure), Chapter 58: Address confidentiality for law enforcement officers",
+   "url": "https://legislature.idaho.gov/statutesrules/idstat/Title19/T19CH58/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 4,
+     "source_url": "https://legislature.idaho.gov/statutesrules/idstat/Title19/T19CH58/",
+     "sha256": "548fe7561413f8579b28a456ecfb87cf275941d74baa010e064c8f5c42054df9"
+    }
+   ]
+  },
+  {
    "slug": "title-0002-chapter-0001",
    "short": "Idaho Code tit. 2, ch. 1",
    "title": "Idaho Statutes, Title 2 (Juries and jurors), Chapter 1: Juries - kinds and definitions",
@@ -1300,6 +1412,300 @@
      "units": 21,
      "source_url": "https://legislature.idaho.gov/statutesrules/idstat/Title2/T2CH2/",
      "sha256": "f3b467941c5ca534d8da8954e42298b37fbbb965141d08f58d68db4206557a7a"
+    }
+   ]
+  },
+  {
+   "slug": "title-0020-chapter-0004",
+   "short": "Idaho Code tit. 20, ch. 4",
+   "title": "Idaho Statutes, Title 20 (State prison and county jails), Chapter 4: Idaho correctional industries act",
+   "url": "https://legislature.idaho.gov/statutesrules/idstat/Title20/T20CH4/",
+   "versions": [
+    {
+     "from": "2026-09-07",
+     "units": 19,
+     "source_url": "https://legislature.idaho.gov/statutesrules/idstat/Title20/T20CH4/",
+     "sha256": "194a16d8350168a7fc419e171284577767f51ac71e9785f1de0bb628971c534b"
+    }
+   ]
+  },
+  {
+   "slug": "title-0020-chapter-0006",
+   "short": "Idaho Code tit. 20, ch. 6",
+   "title": "Idaho Statutes, Title 20 (State prison and county jails), Chapter 6: County jails",
+   "url": "https://legislature.idaho.gov/statutesrules/idstat/Title20/T20CH6/",
+   "versions": [
+    {
+     "from": "2026-09-12",
+     "units": 24,
+     "source_url": "https://legislature.idaho.gov/statutesrules/idstat/Title20/T20CH6/",
+     "sha256": "47bc41f5d509002b81ce9539dfdd837cbaee4a72a7cea7579de424618e43ceb9"
+    }
+   ]
+  },
+  {
+   "slug": "title-0021-chapter-0001",
+   "short": "Idaho Code tit. 21, ch. 1",
+   "title": "Idaho Statutes, Title 21 (Aeronautics), Chapter 1: Aeronautics administration",
+   "url": "https://legislature.idaho.gov/statutesrules/idstat/Title21/T21CH1/",
+   "versions": [
+    {
+     "from": "2026-10-06",
+     "units": 36,
+     "source_url": "https://legislature.idaho.gov/statutesrules/idstat/Title21/T21CH1/",
+     "sha256": "e1663a3557bc50cf8b11a3433d0ade63883740f1d3c0bb4cf388aad47ca0ecc3"
+    }
+   ]
+  },
+  {
+   "slug": "title-0021-chapter-0002",
+   "short": "Idaho Code tit. 21, ch. 2",
+   "title": "Idaho Statutes, Title 21 (Aeronautics), Chapter 2: State law for aeronautics",
+   "url": "https://legislature.idaho.gov/statutesrules/idstat/Title21/T21CH2/",
+   "versions": [
+    {
+     "from": "2026-10-15",
+     "units": 12,
+     "source_url": "https://legislature.idaho.gov/statutesrules/idstat/Title21/T21CH2/",
+     "sha256": "febfe61d776881b4f803b1cda3dd7cf8e2533f25f949e253edcc2dbf2e982065"
+    }
+   ]
+  },
+  {
+   "slug": "title-0021-chapter-0004",
+   "short": "Idaho Code tit. 21, ch. 4",
+   "title": "Idaho Statutes, Title 21 (Aeronautics), Chapter 4: Air navigation facilities",
+   "url": "https://legislature.idaho.gov/statutesrules/idstat/Title21/T21CH4/",
+   "versions": [
+    {
+     "from": "2026-10-15",
+     "units": 5,
+     "source_url": "https://legislature.idaho.gov/statutesrules/idstat/Title21/T21CH4/",
+     "sha256": "b7c47ed91d7bba2f3cc99ae6c420916f6bdd00ab7106e422f927f7c98b1d9cbc"
+    }
+   ]
+  },
+  {
+   "slug": "title-0021-chapter-0005",
+   "short": "Idaho Code tit. 21, ch. 5",
+   "title": "Idaho Statutes, Title 21 (Aeronautics), Chapter 5: Airport zoning act",
+   "url": "https://legislature.idaho.gov/statutesrules/idstat/Title21/T21CH5/",
+   "versions": [
+    {
+     "from": "2026-10-14",
+     "units": 16,
+     "source_url": "https://legislature.idaho.gov/statutesrules/idstat/Title21/T21CH5/",
+     "sha256": "e177e40bec94d2a6af94c874c95dbf9cd1966bdb7c4e6d4529574ff7b852e398"
+    }
+   ]
+  },
+  {
+   "slug": "title-0021-chapter-0006",
+   "short": "Idaho Code tit. 21, ch. 6",
+   "title": "Idaho Statutes, Title 21 (Aeronautics), Chapter 6: State lands reserved for public airports",
+   "url": "https://legislature.idaho.gov/statutesrules/idstat/Title21/T21CH6/",
+   "versions": [
+    {
+     "from": "2026-10-09",
+     "units": 4,
+     "source_url": "https://legislature.idaho.gov/statutesrules/idstat/Title21/T21CH6/",
+     "sha256": "c221d9b5ecca646be257e9535cd7e44658744c7664b6f150b6e79c7bea866557"
+    }
+   ]
+  },
+  {
+   "slug": "title-0021-chapter-0007",
+   "short": "Idaho Code tit. 21, ch. 7",
+   "title": "Idaho Statutes, Title 21 (Aeronautics), Chapter 7: Damages to aircraft",
+   "url": "https://legislature.idaho.gov/statutesrules/idstat/Title21/T21CH7/",
+   "versions": [
+    {
+     "from": "2026-03-15",
+     "units": 3,
+     "source_url": "https://legislature.idaho.gov/statutesrules/idstat/Title21/T21CH7/",
+     "sha256": "1fa15616628891fab5567fb0abbca794723634027b14a8d36189562ecabff7f3"
+    }
+   ]
+  },
+  {
+   "slug": "title-0021-chapter-0008",
+   "short": "Idaho Code tit. 21, ch. 8",
+   "title": "Idaho Statutes, Title 21 (Aeronautics), Chapter 8: Regional airports",
+   "url": "https://legislature.idaho.gov/statutesrules/idstat/Title21/T21CH8/",
+   "versions": [
+    {
+     "from": "2026-10-15",
+     "units": 15,
+     "source_url": "https://legislature.idaho.gov/statutesrules/idstat/Title21/T21CH8/",
+     "sha256": "e74f43edcd00f8073768d7cd0f7385e1c5a425823bde1124172825ffd34373ec"
+    }
+   ]
+  },
+  {
+   "slug": "title-0022-chapter-0001",
+   "short": "Idaho Code tit. 22, ch. 1",
+   "title": "Idaho Statutes, Title 22 (Agriculture and horticulture), Chapter 1: Department of agriculture",
+   "url": "https://legislature.idaho.gov/statutesrules/idstat/Title22/T22CH1/",
+   "versions": [
+    {
+     "from": "2026-10-12",
+     "units": 14,
+     "source_url": "https://legislature.idaho.gov/statutesrules/idstat/Title22/T22CH1/",
+     "sha256": "84a9eb52620d888905481ae56e2067344e757996b9549be8273d636c6e9c7838"
+    }
+   ]
+  },
+  {
+   "slug": "title-0022-chapter-0002",
+   "short": "Idaho Code tit. 22, ch. 2",
+   "title": "Idaho Statutes, Title 22 (Agriculture and horticulture), Chapter 2: County fair boards",
+   "url": "https://legislature.idaho.gov/statutesrules/idstat/Title22/T22CH2/",
+   "versions": [
+    {
+     "from": "2026-08-15",
+     "units": 10,
+     "source_url": "https://legislature.idaho.gov/statutesrules/idstat/Title22/T22CH2/",
+     "sha256": "635a5ae95f9cbb852adb97e974a879753afaeb547db546b4feec7fcff40f200c"
+    }
+   ]
+  },
+  {
+   "slug": "title-0022-chapter-0005",
+   "short": "Idaho Code tit. 22, ch. 5",
+   "title": "Idaho Statutes, Title 22 (Agriculture and horticulture), Chapter 5: Seed potatoes",
+   "url": "https://legislature.idaho.gov/statutesrules/idstat/Title22/T22CH5/",
+   "versions": [
+    {
+     "from": "2026-10-17",
+     "units": 10,
+     "source_url": "https://legislature.idaho.gov/statutesrules/idstat/Title22/T22CH5/",
+     "sha256": "a6e7fda620212a400aa10cab9c04d06673eb91ef8b0206fc163955648a4f423a"
+    }
+   ]
+  },
+  {
+   "slug": "title-0022-chapter-0006",
+   "short": "Idaho Code tit. 22, ch. 6",
+   "title": "Idaho Statutes, Title 22 (Agriculture and horticulture), Chapter 6: Commercial fertilizers",
+   "url": "https://legislature.idaho.gov/statutesrules/idstat/Title22/T22CH6/",
+   "versions": [
+    {
+     "from": "2026-10-15",
+     "units": 24,
+     "source_url": "https://legislature.idaho.gov/statutesrules/idstat/Title22/T22CH6/",
+     "sha256": "2301329bd1ddbc7654b4ef68c9975fde0ca79d457849bbdc6ae26030dae47e27"
+    }
+   ]
+  },
+  {
+   "slug": "title-0022-chapter-0007",
+   "short": "Idaho Code tit. 22, ch. 7",
+   "title": "Idaho Statutes, Title 22 (Agriculture and horticulture), Chapter 7: Farm marketing",
+   "url": "https://legislature.idaho.gov/statutesrules/idstat/Title22/T22CH7/",
+   "versions": [
+    {
+     "from": "2026-10-18",
+     "units": 8,
+     "source_url": "https://legislature.idaho.gov/statutesrules/idstat/Title22/T22CH7/",
+     "sha256": "5bb562ecf45d7baea0ec1f031af71bae0414dd73fc7e8d387d30cdd491f0c790"
+    }
+   ]
+  },
+  {
+   "slug": "title-0022-chapter-0008",
+   "short": "Idaho Code tit. 22, ch. 8",
+   "title": "Idaho Statutes, Title 22 (Agriculture and horticulture), Chapter 8: Fruits - marking and inspection",
+   "url": "https://legislature.idaho.gov/statutesrules/idstat/Title22/T22CH8/",
+   "versions": [
+    {
+     "from": "2026-07-13",
+     "units": 4,
+     "source_url": "https://legislature.idaho.gov/statutesrules/idstat/Title22/T22CH8/",
+     "sha256": "7b83c90a84a576306fecd9297e41c6876369dd2497083e702c972da94b27c762"
+    }
+   ]
+  },
+  {
+   "slug": "title-0022-chapter-0010",
+   "short": "Idaho Code tit. 22, ch. 10",
+   "title": "Idaho Statutes, Title 22 (Agriculture and horticulture), Chapter 10: Urban agriculture",
+   "url": "https://legislature.idaho.gov/statutesrules/idstat/Title22/T22CH10/",
+   "versions": [
+    {
+     "from": "2026-10-07",
+     "units": 2,
+     "source_url": "https://legislature.idaho.gov/statutesrules/idstat/Title22/T22CH10/",
+     "sha256": "c61b25de458f1fdf46b707d7f6ce72f992b2c7718ba22739c411e438941cb65e"
+    }
+   ]
+  },
+  {
+   "slug": "title-0022-chapter-0011",
+   "short": "Idaho Code tit. 22, ch. 11",
+   "title": "Idaho Statutes, Title 22 (Agriculture and horticulture), Chapter 11: Organic food products",
+   "url": "https://legislature.idaho.gov/statutesrules/idstat/Title22/T22CH11/",
+   "versions": [
+    {
+     "from": "2026-10-14",
+     "units": 8,
+     "source_url": "https://legislature.idaho.gov/statutesrules/idstat/Title22/T22CH11/",
+     "sha256": "20e2b2b4788d9b52ad787bfa817b6c861348e6ca89207179cb0d1c0186ac4939"
+    }
+   ]
+  },
+  {
+   "slug": "title-0022-chapter-0015",
+   "short": "Idaho Code tit. 22, ch. 15",
+   "title": "Idaho Statutes, Title 22 (Agriculture and horticulture), Chapter 15: Seed and plant certification",
+   "url": "https://legislature.idaho.gov/statutesrules/idstat/Title22/T22CH15/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 11,
+     "source_url": "https://legislature.idaho.gov/statutesrules/idstat/Title22/T22CH15/",
+     "sha256": "9cd9ca3243f055b3a23a713c24b8d835a363304085a2375452693dbb4ab067be"
+    }
+   ]
+  },
+  {
+   "slug": "title-0022-chapter-0016",
+   "short": "Idaho Code tit. 22, ch. 16",
+   "title": "Idaho Statutes, Title 22 (Agriculture and horticulture), Chapter 16: Prevention of price discrimination",
+   "url": "https://legislature.idaho.gov/statutesrules/idstat/Title22/T22CH16/",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 6,
+     "source_url": "https://legislature.idaho.gov/statutesrules/idstat/Title22/T22CH16/",
+     "sha256": "8dd4e642a842182d72d8a4fa8afde2d47ec19e28ae47be833e34bf27b018cc62"
+    }
+   ]
+  },
+  {
+   "slug": "title-0022-chapter-0017",
+   "short": "Idaho Code tit. 22, ch. 17",
+   "title": "Idaho Statutes, Title 22 (Agriculture and horticulture), Chapter 17: Industrial hemp research and development act",
+   "url": "https://legislature.idaho.gov/statutesrules/idstat/Title22/T22CH17/",
+   "versions": [
+    {
+     "from": "2026-09-17",
+     "units": 7,
+     "source_url": "https://legislature.idaho.gov/statutesrules/idstat/Title22/T22CH17/",
+     "sha256": "3fb88e606072066f8b398eadfcee4695dbde96e255f190a926ae0142dea28dc9"
+    }
+   ]
+  },
+  {
+   "slug": "title-0022-chapter-0019",
+   "short": "Idaho Code tit. 22, ch. 19",
+   "title": "Idaho Statutes, Title 22 (Agriculture and horticulture), Chapter 19: The idaho invasive species act of 2008",
+   "url": "https://legislature.idaho.gov/statutesrules/idstat/Title22/T22CH19/",
+   "versions": [
+    {
+     "from": "2026-09-09",
+     "units": 19,
+     "source_url": "https://legislature.idaho.gov/statutesrules/idstat/Title22/T22CH19/",
+     "sha256": "cbc032797d272fe8071e365c6559677abe9ecad6edf9baa582a1ca39a1b4d7e5"
     }
    ]
   },
